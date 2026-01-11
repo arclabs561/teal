@@ -68,3 +68,14 @@ vendor/**/node_modules/
 
 # claude
 .claude
+
+# archive (exploration code and old docs - not part of production)
+archive/
+
+# evaluation results (data files, not code)
+scripts/eval/results/**/*.json
+scripts/eval/results/**/*.csv
+
+# Snyk Security Extension - AI Rules (auto-generated)
+.cursor/rules/snyk_rules.mdc
+.lastfm_session_key
