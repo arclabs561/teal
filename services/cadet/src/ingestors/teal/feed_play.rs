@@ -100,6 +100,22 @@ impl MusicBrainzCleaner {
         "vs",
         "with",
         "without",
+        // Additional patterns from evaluation analysis
+        "bonus",
+        "demo",
+        "dub",
+        "edit",
+        "extended",
+        "instrumental",
+        "intro",
+        "outro",
+        "preview",
+        "radio edit",
+        "reprise",
+        "rework",
+        "special",
+        "stereo",
+        "mono",
     ];
 
     /// Clean artist name by removing common variations and guff
@@ -118,25 +134,54 @@ impl MusicBrainzCleaner {
         }
 
         // Remove parenthetical content if it looks like guff
+        // Use depth tracking to handle nested parentheses correctly
         if let Some(start) = cleaned.find('(') {
-            if let Some(end) = cleaned.find(')') {
+            let mut depth = 1;
+            let mut end = start + 1;
+            while end < cleaned.len() && depth > 0 {
+                match cleaned.chars().nth(end) {
+                    Some('(') => depth += 1,
+                    Some(')') => depth -= 1,
+                    _ => {}
+                }
+                if depth > 0 {
+                    end += 1;
+                }
+            }
+            if depth == 0 {
                 let paren_content = &cleaned[start + 1..end].to_lowercase();
                 if Self::is_likely_guff(paren_content) {
                     cleaned = format!("{}{}", &cleaned[..start], &cleaned[end + 1..])
                         .trim()
                         .to_string();
+                    // Normalize whitespace after removal
+                    cleaned = cleaned.replace(char::is_whitespace, " ").trim().to_string();
                 }
             }
         }
 
-        // Remove brackets with guff
+        // Remove brackets with guff (same logic as parentheses)
         if let Some(start) = cleaned.find('[') {
-            if let Some(end) = cleaned.find(']') {
+            let mut depth = 1;
+            let mut end = start + 1;
+            while end < cleaned.len() && depth > 0 {
+                match cleaned.chars().nth(end) {
+                    Some('[') => depth += 1,
+                    Some(']') => depth -= 1,
+                    _ => {}
+                }
+                if depth > 0 {
+                    end += 1;
+                }
+            }
+            if depth == 0 {
                 let bracket_content = &cleaned[start + 1..end].to_lowercase();
                 if Self::is_likely_guff(bracket_content) {
                     cleaned = format!("{}{}", &cleaned[..start], &cleaned[end + 1..])
                         .trim()
                         .to_string();
+                    // Normalize whitespace after removal
+                    cleaned = cleaned.replace(char::is_whitespace, " ").trim().to_string();
                 }
             }
         }
@@ -157,13 +202,54 @@ impl MusicBrainzCleaner {
         let mut cleaned = name.trim().to_string();
 
         // Remove parenthetical content if it looks like guff
+        // Use depth tracking to handle nested parentheses correctly
         if let Some(start) = cleaned.find('(') {
-            if let Some(end) = cleaned.find(')') {
+            let mut depth = 1;
+            let mut end = start + 1;
+            while end < cleaned.len() && depth > 0 {
+                match cleaned.chars().nth(end) {
+                    Some('(') => depth += 1,
+                    Some(')') => depth -= 1,
+                    _ => {}
+                }
+                if depth > 0 {
+                    end += 1;
+                }
+            }
+            if depth == 0 {
                 let paren_content = &cleaned[start + 1..end].to_lowercase();
                 if Self::is_likely_guff(paren_content) {
                     cleaned = format!("{}{}", &cleaned[..start], &cleaned[end + 1..])
                         .trim()
                         .to_string();
+                    // Normalize whitespace after removal
+                    cleaned = cleaned.replace(char::is_whitespace, " ").trim().to_string();
+                }
+            }
+        }
+
+        // Remove brackets with guff (same logic as parentheses)
+        if let Some(start) = cleaned.find('[') {
+            let mut depth = 1;
+            let mut end = start + 1;
+            while end < cleaned.len() && depth > 0 {
+                match cleaned.chars().nth(end) {
+                    Some('[') => depth += 1,
+                    Some(']') => depth -= 1,
+                    _ => {}
+                }
+                if depth > 0 {
+                    end += 1;
+                }
+            }
+            if depth == 0 {
+                let bracket_content = &cleaned[start + 1..end].to_lowercase();
+                if Self::is_likely_guff(bracket_content) {
+                    cleaned = format!("{}{}", &cleaned[..start], &cleaned[end + 1..])
+                        .trim()
+                        .to_string();
+                    // Normalize whitespace after removal
+                    cleaned = cleaned.replace(char::is_whitespace, " ").trim().to_string();
                 }
             }
         }
