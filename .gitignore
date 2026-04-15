@@ -77,3 +77,4 @@ archive/
 scripts/eval/results/
 
 .lastfm_session_key
+Cargo.lock
