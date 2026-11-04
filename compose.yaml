@@ -64,6 +64,24 @@ services:
       - postgres
       - garnet
 
+  status-api:
+    build:
+      context: .
+      dockerfile: apps/status/Dockerfile
+    container_name: status-api
+    ports:
+      - "3002:3002"
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: ${DOCKER_DB_URL:-postgres://teal:teal@postgres:5432/teal}
+      STATUS_API_PORT: 3002
+      JETSTREAM_URL: ${STATUS_JETSTREAM_URL:-wss://jetstream.us-east.bsky.network/xrpc/network.bsky.jetstream.subscribeEvents}
+    networks:
+      - app_network
+    depends_on:
+      - postgres
+
   satellite:
     image: ghcr.io/espeon/satellite
     env_file:
