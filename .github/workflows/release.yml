@@ -28,7 +28,7 @@ jobs:
       tag: ${{ steps.tag.outputs.tag }}
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
 
       - name: Get tag name
         id: tag
@@ -70,7 +70,7 @@ jobs:
       node-artifacts: ${{ steps.upload-node.outputs.artifact-id }}
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
 
       - name: Setup environment
         uses: ./.github/actions/setup
@@ -171,7 +171,7 @@ jobs:
             context: .
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
 
       - name: Check if service has Dockerfile
         id: check
@@ -193,14 +193,14 @@ jobs:
 
       - name: Download build artifacts
         if: steps.check.outputs.has_dockerfile == 'true'
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
         with:
           name: rust-release-builds
           path: .
 
       - name: Log in to Container Registry
         if: steps.check.outputs.has_dockerfile == 'true'
-        uses: docker/login-action@v3
+        uses: docker/login-action@c94ce9fb468520275223c153574b00df6fe4bcc9 # v3
         with:
           registry: ${{ env.REGISTRY }}
           username: ${{ github.actor }}
@@ -209,7 +209,7 @@ jobs:
       - name: Extract metadata
         if: steps.check.outputs.has_dockerfile == 'true'
         id: meta
-        uses: docker/metadata-action@v5
+        uses: docker/metadata-action@c299e40c65443455700f0fdfc63efafe5b349051 # v5
         with:
           images: ${{ env.REGISTRY }}/${{ github.repository }}/${{ matrix.service.name }}
           tags: |
@@ -218,11 +218,11 @@ jobs:
 
       - name: Set up Docker Buildx
         if: steps.check.outputs.has_dockerfile == 'true'
-        uses: docker/setup-buildx-action@v3
+        uses: docker/setup-buildx-action@8d2750c68a42422c14e847fe6c8ac0403b4cbd6f # v3
 
       - name: Build and push Docker image
         if: steps.check.outputs.has_dockerfile == 'true'
-        uses: docker/build-push-action@v5
+        uses: docker/build-push-action@ca052bb54ab0790a636c9b5f226502c73d547a25 # v5
         with:
           context: ${{ matrix.service.context }}
           file: ${{ matrix.service.dockerfile }}
