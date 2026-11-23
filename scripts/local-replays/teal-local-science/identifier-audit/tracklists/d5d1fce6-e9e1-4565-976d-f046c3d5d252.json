@@ -1,0 +1,168 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/d5d1fce6-e9e1-4565-976d-f046c3d5d252?inc=recordings+artist-credits&fmt=json",
+  "id": "d5d1fce6-e9e1-4565-976d-f046c3d5d252",
+  "title": "Interloper",
+  "date": "2010-05-20",
+  "country": "XW",
+  "barcode": null,
+  "packaging": "None",
+  "media": [
+    {
+      "position": 1,
+      "format": "Digital Media",
+      "title": "",
+      "tracks": [
+        {
+          "number": "24",
+          "title": "Interloper",
+          "recording": "c6aaaa71-6be0-45c6-aca3-3b2823db8bf3",
+          "recordingTitle": "Interloper",
+          "recordingDisambiguation": "",
+          "length": 386936,
+          "credits": [
+            {
+              "name": "Carbon Based Lifeforms",
+              "id": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "25",
+          "title": "Right Where It Ends",
+          "recording": "02a593df-d4fa-4e17-bfd1-09a7bbe906e6",
+          "recordingTitle": "Right Where It Ends",
+          "recordingDisambiguation": "",
+          "length": 424118,
+          "credits": [
+            {
+              "name": "Carbon Based Lifeforms",
+              "id": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "26",
+          "title": "Central Plain",
+          "recording": "702185e8-2045-42f6-811b-d348ee11a187",
+          "recordingTitle": "Central Plain",
+          "recordingDisambiguation": "",
+          "length": 450903,
+          "credits": [
+            {
+              "name": "Carbon Based Lifeforms",
+              "id": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "27",
+          "title": "Supersede",
+          "recording": "1f382787-1857-4e79-8560-131ca0c9cf79",
+          "recordingTitle": "Supersede",
+          "recordingDisambiguation": "",
+          "length": 494137,
+          "credits": [
+            {
+              "name": "Carbon Based Lifeforms",
+              "id": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "28",
+          "title": "Init",
+          "recording": "510e4d74-18de-4168-a0de-c283cdfa6226",
+          "recordingTitle": "Init",
+          "recordingDisambiguation": "",
+          "length": 470589,
+          "credits": [
+            {
+              "name": "Carbon Based Lifeforms",
+              "id": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "29",
+          "title": "Euphotic",
+          "recording": "9a970c7a-83c6-492f-84d2-cf0c81b88c06",
+          "recordingTitle": "Euphotic",
+          "recordingDisambiguation": "",
+          "length": 449267,
+          "credits": [
+            {
+              "name": "Carbon Based Lifeforms",
+              "id": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "30",
+          "title": "Frog",
+          "recording": "6c1fcb05-015c-422d-8d13-88e5da4a7d62",
+          "recordingTitle": "Frog",
+          "recordingDisambiguation": "",
+          "length": 442967,
+          "credits": [
+            {
+              "name": "Carbon Based Lifeforms",
+              "id": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "31",
+          "title": "M",
+          "recording": "320d0da8-2856-43df-8c4b-018542476830",
+          "recordingTitle": "M",
+          "recordingDisambiguation": "",
+          "length": 338400,
+          "credits": [
+            {
+              "name": "Carbon Based Lifeforms",
+              "id": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "32",
+          "title": "20 Minutes",
+          "recording": "2b64ab90-d570-46b0-afec-4a9711a2ccd4",
+          "recordingTitle": "20 Minutes",
+          "recordingDisambiguation": "",
+          "length": 460343,
+          "credits": [
+            {
+              "name": "Carbon Based Lifeforms",
+              "id": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "33",
+          "title": "Polyrytmi",
+          "recording": "261b2272-87bd-48ed-b35b-433d81fcaef1",
+          "recordingTitle": "Polyrytmi",
+          "recordingDisambiguation": "",
+          "length": 518149,
+          "credits": [
+            {
+              "name": "Carbon Based Lifeforms",
+              "id": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+              "joinphrase": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

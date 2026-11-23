@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-22",
+  "durationObservations": [
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "La Folie",
+      "details": {
+        "duration": 206760,
+        "isrc": "GBAYE8100053"
+      },
+      "mapping": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0"
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "Clara Sheller (Saison 2)",
+      "details": {
+        "duration": 209200
+      },
+      "mapping": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0"
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "La Folie",
+      "details": {
+        "duration": 206760,
+        "isrc": "GBAYE8100053"
+      },
+      "mapping": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0"
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "Clara Sheller (Saison 2)",
+      "details": {
+        "duration": 209200
+      },
+      "mapping": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0"
+    }
+  ],
+  "album": {
+    "url": "https://musicbrainz.org/ws/2/release/ab823aee-8f6e-4053-8a34-88858743e53c?inc=recordings&fmt=json",
+    "title": "La Folie",
+    "tracks": [
+      [
+        "B3",
+        "Golden Brown",
+        "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0"
+      ]
+    ]
+  },
+  "catalogRecordings": [
+    {
+      "source": "https://musicbrainz.org/ws/2/recording/b64ee63a-a649-4e8c-b047-de7a48da4ae5?inc=releases+isrcs&fmt=json",
+      "id": "b64ee63a-a649-4e8c-b047-de7a48da4ae5",
+      "length": 206811,
+      "releases": []
+    },
+    {
+      "source": "https://musicbrainz.org/ws/2/recording/c7d0bf6e-b2aa-4ffa-bded-2448415b39b0?inc=releases+isrcs&fmt=json",
+      "id": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0",
+      "length": 207893,
+      "releases": [
+        {
+          "id": "ab823aee-8f6e-4053-8a34-88858743e53c",
+          "title": "La Folie",
+          "date": "1981-11-09"
+        },
+        {
+          "id": "c3b5297d-9c45-4f65-9e62-66b38b9cc8b8",
+          "title": "La Folie",
+          "date": "1985"
+        },
+        {
+          "id": "cb635cb1-39bf-4a41-b1dc-d0bf140e2a4e",
+          "title": "La Folie",
+          "date": "1987"
+        },
+        {
+          "id": "c6911b3b-135f-4b7b-a2cc-b90ea1e11ac9",
+          "title": "La Folie",
+          "date": "1987"
+        }
+      ]
+    }
+  ],
+  "hanabi": {
+    "aliases": [
+      "Hanabi"
+    ],
+    "query": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Hanabi%22%20AND%20artist%3A%22Ado%22%20AND%20release%3A%22%E7%8B%82%E8%A8%80%22&fmt=json&limit=25",
+    "recordings": [
+      "9eacbbd7-65ca-4154-ae76-9a1866ff6bcd"
+    ]
+  }
+}

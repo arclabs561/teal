@@ -1,0 +1,475 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/a7fc3d41-d645-418e-a5d2-960a835b04e0?inc=recordings+artist-credits&fmt=json",
+  "id": "a7fc3d41-d645-418e-a5d2-960a835b04e0",
+  "title": "Your Name",
+  "date": "2017-03-10",
+  "country": "US",
+  "barcode": "602557379150",
+  "packaging": null,
+  "media": [
+    {
+      "position": 1,
+      "format": "CD",
+      "title": "",
+      "tracks": [
+        {
+          "number": "1",
+          "title": "Dream lantern (English ver.)",
+          "recording": "bcf2dd81-1a8a-43ec-aa77-c96692073389",
+          "recordingTitle": "Dream lantern (English ver.)",
+          "recordingDisambiguation": "",
+          "length": 131666,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "2",
+          "title": "School road",
+          "recording": "47b11326-41bd-47cb-9c4d-0f7743546afd",
+          "recordingTitle": "三葉の通学",
+          "recordingDisambiguation": "",
+          "length": 68200,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Itomori high school",
+          "recording": "82ff29dc-b1d5-4755-a145-8924d5e16d1c",
+          "recordingTitle": "糸守高校",
+          "recordingDisambiguation": "",
+          "length": 111560,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "title": "First view of tokyo",
+          "recording": "641229e8-3c39-4d3a-bb49-34a8c42992bc",
+          "recordingTitle": "はじめての、東京",
+          "recordingDisambiguation": "",
+          "length": 79800,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Cafe at last",
+          "recording": "32ecf2ff-33cf-467c-81ce-642f7be81b47",
+          "recordingTitle": "憧れカフェ",
+          "recordingDisambiguation": "",
+          "length": 92226,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Theme of Ms. Okudera",
+          "recording": "a32ef5cf-d077-452c-9301-f27b2bff5a25",
+          "recordingTitle": "奥寺先輩のテーマ",
+          "recordingDisambiguation": "",
+          "length": 127106,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Unusual changes of two",
+          "recording": "0bc377a6-8ba3-4da6-bff2-c15c5db523de",
+          "recordingTitle": "ふたりの異変",
+          "recordingDisambiguation": "",
+          "length": 156746,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Zenzenzense (English ver.)",
+          "recording": "4f0a7ae1-0a1d-45f6-98b8-8b7affdd44fd",
+          "recordingTitle": "Zenzenzense (English ver.)",
+          "recordingDisambiguation": "",
+          "length": 279026,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "9",
+          "title": "Goshintai",
+          "recording": "65b2457f-0f31-4847-854b-aadd79a345e6",
+          "recordingTitle": "御神体",
+          "recordingDisambiguation": "",
+          "length": 207986,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "10",
+          "title": "Date",
+          "recording": "9e3e8b83-d00c-45ed-97bf-e96d06fdbb9e",
+          "recordingTitle": "デート",
+          "recordingDisambiguation": "",
+          "length": 245906,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "11",
+          "title": "Autumn festival",
+          "recording": "e476152c-80b4-414e-a149-e9abaecf92d4",
+          "recordingTitle": "秋祭り",
+          "recordingDisambiguation": "",
+          "length": 67986,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "12",
+          "title": "Evoking memories",
+          "recording": "ec5f514e-e94d-4c42-8250-dd0997c251e3",
+          "recordingTitle": "記憶を呼び起こす瀧",
+          "recordingDisambiguation": "",
+          "length": 103026,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "13",
+          "title": "Visit to Hida",
+          "recording": "9f857f57-02b4-40ad-bd27-fd90258d1dc3",
+          "recordingTitle": "飛騨探訪",
+          "recordingDisambiguation": "",
+          "length": 92493,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "14",
+          "title": "Disappeared town",
+          "recording": "ea41969a-ffd4-46b7-a061-b6a7e11d6033",
+          "recordingTitle": "消えた町",
+          "recordingDisambiguation": "",
+          "length": 115840,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "15",
+          "title": "Library",
+          "recording": "2dfabf23-9b55-4544-b442-80dc897d9dad",
+          "recordingTitle": "図書館",
+          "recordingDisambiguation": "",
+          "length": 103720,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "16",
+          "title": "The night inn",
+          "recording": "8a9c0bad-2fa2-44b4-b88a-5c1e1b2b3ac7",
+          "recordingTitle": "旅館の夜",
+          "recordingDisambiguation": "",
+          "length": 93813,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "17",
+          "title": "Again to Goshintai",
+          "recording": "bb7adacf-a538-459f-a7a7-2df2f69d5031",
+          "recordingTitle": "御神体へ再び",
+          "recordingDisambiguation": "",
+          "length": 143253,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "18",
+          "title": "Kuchikamizake trip",
+          "recording": "f4988f03-1e14-47e1-b7e7-be7541045aac",
+          "recordingTitle": "口噛み酒トリップ",
+          "recordingDisambiguation": "",
+          "length": 175106,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "19",
+          "title": "Council of war",
+          "recording": "0cbe54cb-3155-4ed0-a1cb-16fd20246812",
+          "recordingTitle": "作戦会議",
+          "recordingDisambiguation": "",
+          "length": 144093,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "20",
+          "title": "Persuading mayor",
+          "recording": "401223ea-62db-4f14-a5bc-60011f4c271d",
+          "recordingTitle": "町長説得",
+          "recordingDisambiguation": "",
+          "length": 169093,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "21",
+          "title": "Theme of Mitsuha",
+          "recording": "68d9f292-5f23-4035-940a-757979a7cc33",
+          "recordingTitle": "三葉のテーマ",
+          "recordingDisambiguation": "",
+          "length": 246146,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "22",
+          "title": "Unseen two",
+          "recording": "d173bb6c-6daa-463c-9f48-5d301835bdcb",
+          "recordingTitle": "見えないふたり",
+          "recordingDisambiguation": "",
+          "length": 53360,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "23",
+          "title": "Katawaredoki",
+          "recording": "e7be1afe-d793-44b3-b875-5ef1f35b8942",
+          "recordingTitle": "かたわれ時",
+          "recordingDisambiguation": "",
+          "length": 170026,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "24",
+          "title": "Sparkle (English ver.)",
+          "recording": "2ce4bb17-2c5f-49ce-be58-558dec7322ee",
+          "recordingTitle": "Sparkle (English ver.)",
+          "recordingDisambiguation": "",
+          "length": 411493,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "25",
+          "title": "Date 2",
+          "recording": "16167640-e964-4b34-a5a6-b0b52e09ca59",
+          "recordingTitle": "デート2",
+          "recordingDisambiguation": "",
+          "length": 129013,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "26",
+          "title": "Nandemonaiya (English ver.)",
+          "recording": "ff05f7da-e976-4660-9472-fbe72b10d12f",
+          "recordingTitle": "Nandemonaiya (English ver.)",
+          "recordingDisambiguation": "",
+          "length": 342453,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "format": "CD",
+      "title": "Bonus disc",
+      "tracks": [
+        {
+          "number": "1",
+          "title": "Dream lantern",
+          "recording": "bd800263-14a4-4811-98b8-0f79f64be713",
+          "recordingTitle": "夢灯籠",
+          "recordingDisambiguation": "",
+          "length": 130093,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Zenzenzense (movie ver.)",
+          "recording": "f7f524cc-e991-49cd-873e-cc3278190aa1",
+          "recordingTitle": "前前前世 (movie ver.)",
+          "recordingDisambiguation": "",
+          "length": 285400,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Sparkle (movie ver.)",
+          "recording": "1d8040f5-95d7-423c-a232-5959915c4af3",
+          "recordingTitle": "スパークル (movie ver.)",
+          "recordingDisambiguation": "",
+          "length": 535200,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Nandemonaiya (movie ver.)",
+          "recording": "7310fd56-6c6c-4a88-ab8d-fbedaaab7741",
+          "recordingTitle": "なんでもないや (movie ver.)",
+          "recordingDisambiguation": "",
+          "length": 344053,
+          "credits": [
+            {
+              "name": "RADWIMPS",
+              "id": "6f500293-7396-4903-b4fd-118127d06f9e",
+              "joinphrase": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

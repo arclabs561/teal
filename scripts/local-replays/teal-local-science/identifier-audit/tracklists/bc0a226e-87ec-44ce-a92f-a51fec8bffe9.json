@@ -1,0 +1,248 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/bc0a226e-87ec-44ce-a92f-a51fec8bffe9?inc=recordings+artist-credits&fmt=json",
+  "id": "bc0a226e-87ec-44ce-a92f-a51fec8bffe9",
+  "title": "Exclusive Pop Songs From the 80’s",
+  "date": "1988",
+  "country": "NL",
+  "barcode": "",
+  "packaging": "Jewel Case",
+  "media": [
+    {
+      "position": 1,
+      "format": "CD",
+      "title": "",
+      "tracks": [
+        {
+          "number": "1",
+          "title": "I’ll Fly for You",
+          "recording": "923c7854-1631-4296-9ab8-5ce1dbbbb8ea",
+          "recordingTitle": "I’ll Fly for You",
+          "recordingDisambiguation": "",
+          "length": 312000,
+          "credits": [
+            {
+              "name": "Spandau Ballet",
+              "id": "4c0d9acf-a8a1-4765-9c56-05f92f68c048",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Painted Desert",
+          "recording": "4cbb10af-3185-41b4-b0b6-0a2b6d9a67c4",
+          "recordingTitle": "Painted Desert",
+          "recordingDisambiguation": "",
+          "length": 323000,
+          "credits": [
+            {
+              "name": "Pat Benatar",
+              "id": "6bc658ea-005f-486b-8f94-33a2e40f7a72",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Kayleigh",
+          "recording": "e20a1357-1af2-4f65-8f86-e3319b6be492",
+          "recordingTitle": "Kayleigh",
+          "recordingDisambiguation": "single version",
+          "length": 214000,
+          "credits": [
+            {
+              "name": "Marillion",
+              "id": "1932f5b6-0b7b-4050-b1df-833ca89e5f44",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Speak of Love",
+          "recording": "4b916dce-af74-4c08-abf7-0145c59797ba",
+          "recordingTitle": "Speak of Love",
+          "recordingDisambiguation": "",
+          "length": 220000,
+          "credits": [
+            {
+              "name": "Alvin Stardust",
+              "id": "d02761d2-8c6e-4576-aa5d-df9197f44ddc",
+              "joinphrase": " & "
+            },
+            {
+              "name": "Sheila Walsh",
+              "id": "be5d81d1-9f2a-49d1-9a60-ec5824f4086f",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "5",
+          "title": "The Tide Is High",
+          "recording": "e48a0532-f655-4169-9717-c1a0eef16af7",
+          "recordingTitle": "The Tide Is High",
+          "recordingDisambiguation": "",
+          "length": 276000,
+          "credits": [
+            {
+              "name": "Blondie",
+              "id": "4d2956d1-a3f7-44bb-9a41-67563e1a0c94",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Golden Brown",
+          "recording": "1d719666-90e7-4a52-b24f-85686901e6e7",
+          "recordingTitle": "Golden Brown",
+          "recordingDisambiguation": "",
+          "length": 207000,
+          "credits": [
+            {
+              "name": "Stranglers",
+              "id": "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "7",
+          "title": "The Right Moment",
+          "recording": "17cdf3d8-9315-49a3-b9b4-611bbacd8565",
+          "recordingTitle": "The Right Moment",
+          "recordingDisambiguation": "",
+          "length": 200000,
+          "credits": [
+            {
+              "name": "Gerry Rafferty",
+              "id": "563201cb-721c-4cfb-acca-c1ba69e3d1fb",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "8",
+          "title": "I Scare Myself",
+          "recording": "71c06f32-bdf5-4c60-96a6-76e5f0db58d8",
+          "recordingTitle": "I Scare Myself",
+          "recordingDisambiguation": "",
+          "length": 339000,
+          "credits": [
+            {
+              "name": "Thomas Dolby",
+              "id": "5a8cc407-7efb-4e94-9637-d5896395e754",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "9",
+          "title": "The Universal Song",
+          "recording": "140391dd-100a-407a-8b0a-7a4689c69f31",
+          "recordingTitle": "The Universal Song",
+          "recordingDisambiguation": "",
+          "length": 235000,
+          "credits": [
+            {
+              "name": "Kim Carnes",
+              "id": "600c5212-a8e6-458e-bd3f-78b6fbfe329a",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "10",
+          "title": "I Am by Your Side",
+          "recording": "19880990-f1ee-4714-a5ae-4c565c55fb42",
+          "recordingTitle": "I Am by Your Side",
+          "recordingDisambiguation": "",
+          "length": 229000,
+          "credits": [
+            {
+              "name": "Corey Hart",
+              "id": "32673e42-5ba2-4528-b3fe-a000a0c606e3",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "11",
+          "title": "Close to You",
+          "recording": "46bf9255-308b-4e4d-a9ef-bd9f1a5ab9b1",
+          "recordingTitle": "Close to You",
+          "recordingDisambiguation": "",
+          "length": 238000,
+          "credits": [
+            {
+              "name": "David Grant",
+              "id": "19e5ae58-e9aa-4fe1-8a3e-0edb2136cfb8",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "12",
+          "title": "Hey Little Girl",
+          "recording": "fa53a619-0740-4ce7-90f1-29caf38baa9a",
+          "recordingTitle": "Hey Little Girl",
+          "recordingDisambiguation": "",
+          "length": 258000,
+          "credits": [
+            {
+              "name": "Icehouse",
+              "id": "48834e28-8ca5-4827-be91-0bed0ca61d76",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "13",
+          "title": "Suddenly Last Summer",
+          "recording": "44f40386-8637-4b17-b105-5bd21dac7376",
+          "recordingTitle": "Suddenly Last Summer",
+          "recordingDisambiguation": "",
+          "length": 212000,
+          "credits": [
+            {
+              "name": "The Motels",
+              "id": "c433b570-1cb8-472a-bed7-4e24f94ea665",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "14",
+          "title": "I Can’t Go for That (No Can Do)",
+          "recording": "1f6eaa57-5298-4c8b-94cd-1903f40f34c3",
+          "recordingTitle": "I Can’t Go for That (No Can Do)",
+          "recordingDisambiguation": "",
+          "length": 299000,
+          "credits": [
+            {
+              "name": "Daryl Hall & John Oates",
+              "id": "debabff3-2559-46e5-862d-ef2a906d7010",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "15",
+          "title": "I Feel Like Buddy Holly",
+          "recording": "f2053855-ee80-4fc2-bfb1-3fba6c7e0228",
+          "recordingTitle": "I Feel Like Buddy Holly",
+          "recordingDisambiguation": "",
+          "length": 239000,
+          "credits": [
+            {
+              "name": "Alvin Stardust",
+              "id": "d02761d2-8c6e-4576-aa5d-df9197f44ddc",
+              "joinphrase": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

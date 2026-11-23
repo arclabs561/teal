@@ -1,0 +1,198 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/f1418001-7f1e-46af-bfdb-95faeded8841?inc=recordings+artist-credits&fmt=json",
+  "id": "f1418001-7f1e-46af-bfdb-95faeded8841",
+  "title": "Profound Mysteries II",
+  "date": "2022-08-19",
+  "country": null,
+  "barcode": "5060236637130",
+  "packaging": "None",
+  "media": [
+    {
+      "position": 1,
+      "format": "Digital Media",
+      "title": "",
+      "tracks": [
+        {
+          "number": "1",
+          "title": "Denimclad Baboons",
+          "recording": "6400d6f9-83f2-4e18-90fc-03ac5265d269",
+          "recordingTitle": "Denimclad Baboons",
+          "recordingDisambiguation": "",
+          "length": 222987,
+          "credits": [
+            {
+              "name": "Röyksopp",
+              "id": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Let’s Get It Right",
+          "recording": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+          "recordingTitle": "Let’s Get It Right",
+          "recordingDisambiguation": "",
+          "length": 305667,
+          "credits": [
+            {
+              "name": "Röyksopp",
+              "id": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+              "joinphrase": " feat. "
+            },
+            {
+              "name": "Astrid S",
+              "id": "be389638-e74f-46a9-83d2-91ee3ce1fb0c",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Unity",
+          "recording": "07530f77-1296-43a1-aa1d-6936d7246725",
+          "recordingTitle": "Unity",
+          "recordingDisambiguation": "",
+          "length": 304773,
+          "credits": [
+            {
+              "name": "Röyksopp",
+              "id": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+              "joinphrase": " feat. "
+            },
+            {
+              "name": "Karen Harding",
+              "id": "25441822-c48a-4c46-af6f-fb03339d03bb",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Oh, Lover",
+          "recording": "d1d936eb-fef3-4d19-8b73-419b978ede6a",
+          "recordingTitle": "Oh, Lover",
+          "recordingDisambiguation": "",
+          "length": 373667,
+          "credits": [
+            {
+              "name": "Röyksopp",
+              "id": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+              "joinphrase": " feat. "
+            },
+            {
+              "name": "Susanne Sundfør",
+              "id": "f3f9e76a-0685-4a9a-97d1-6fa2b50f9fba",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Sorry",
+          "recording": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12",
+          "recordingTitle": "Sorry",
+          "recordingDisambiguation": "",
+          "length": 299920,
+          "credits": [
+            {
+              "name": "Röyksopp",
+              "id": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+              "joinphrase": " feat. "
+            },
+            {
+              "name": "Jamie Irrepressible",
+              "id": "ba508a64-bb22-4689-8d06-ace0aac52f13",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Control",
+          "recording": "0228a5f7-fd54-4b8c-8d7c-7c6f2d0163b8",
+          "recordingTitle": "Control",
+          "recordingDisambiguation": "",
+          "length": 373827,
+          "credits": [
+            {
+              "name": "Röyksopp",
+              "id": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "7",
+          "title": "It Was a Good Thing",
+          "recording": "100bdac3-db86-41ba-b987-6f639914834c",
+          "recordingTitle": "It Was a Good Thing",
+          "recordingDisambiguation": "",
+          "length": 253000,
+          "credits": [
+            {
+              "name": "Röyksopp",
+              "id": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+              "joinphrase": " feat. "
+            },
+            {
+              "name": "Pixx",
+              "id": "90165cd6-f56e-4b26-9efa-fc30a1d05141",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Remembering the Departed",
+          "recording": "a8eb2940-b706-4e35-afd2-f15feec4eb20",
+          "recordingTitle": "Remembering the Departed",
+          "recordingDisambiguation": "",
+          "length": 229693,
+          "credits": [
+            {
+              "name": "Röyksopp",
+              "id": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "9",
+          "title": "Tell Him",
+          "recording": "46f0b53f-6731-457c-93e7-57cff0e5b0c2",
+          "recordingTitle": "Tell Him",
+          "recordingDisambiguation": "",
+          "length": 326560,
+          "credits": [
+            {
+              "name": "Röyksopp",
+              "id": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+              "joinphrase": " feat. "
+            },
+            {
+              "name": "Susanne Sundfør",
+              "id": "f3f9e76a-0685-4a9a-97d1-6fa2b50f9fba",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "10",
+          "title": "Some Resolve",
+          "recording": "30d08f4c-d825-4ae1-b79c-44242cddd7c0",
+          "recordingTitle": "Some Resolve",
+          "recordingDisambiguation": "",
+          "length": 402387,
+          "credits": [
+            {
+              "name": "Röyksopp",
+              "id": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+              "joinphrase": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

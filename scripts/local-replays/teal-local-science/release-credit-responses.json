@@ -1,0 +1,228 @@
+{
+  "8060eb6b-ca9e-4e5c-9f28-b2297b23665a": {
+    "label": {
+      "number": "2",
+      "title": "Let’s Get It Right",
+      "recording": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+      "artist": "Röyksopp feat. Astrid S",
+      "release": "Profound Mysteries II",
+      "releaseId": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+      "tracklistUrl": "https://musicbrainz.org/ws/2/release/e96c2e7b-94fd-4fbe-9c44-1a27d8664825?inc=recordings+artist-credits&fmt=json",
+      "urls": {
+        "name": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Let%E2%80%99s%20Get%20It%20Right%22%20AND%20artist%3A%22R%C3%B6yksopp%20feat.%20Astrid%20S%22%20AND%20release%3A%22Profound%20Mysteries%20II%22&fmt=json&limit=5",
+        "id": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Let%E2%80%99s%20Get%20It%20Right%22%20AND%20artist%3A%22R%C3%B6yksopp%20feat.%20Astrid%20S%22%20AND%20reid%3Ae96c2e7b-94fd-4fbe-9c44-1a27d8664825&fmt=json&limit=5"
+      }
+    },
+    "credits": [
+      {
+        "id": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+        "name": "Röyksopp",
+        "joinphrase": " feat. "
+      },
+      {
+        "id": "be389638-e74f-46a9-83d2-91ee3ce1fb0c",
+        "name": "Astrid S",
+        "joinphrase": ""
+      }
+    ],
+    "leadOnly": {
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Let%E2%80%99s%20Get%20It%20Right%22%20AND%20artist%3A%22R%C3%B6yksopp%22%20AND%20reid%3Ae96c2e7b-94fd-4fbe-9c44-1a27d8664825&fmt=json&limit=5",
+      "created": "2026-11-22T17:35:45.353Z",
+      "count": 1,
+      "recordings": [
+        {
+          "id": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+          "title": "Let’s Get It Right",
+          "score": 100,
+          "releaseIds": [
+            "1e79e484-8528-44dc-93e5-c88af5b51f06",
+            "0e38c670-cc66-4269-b4ff-ab887763083c",
+            "b60089b2-3b1c-4702-a002-404552ea4659",
+            "430736cf-4414-440d-93ec-b22a25089c34",
+            "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+            "f1418001-7f1e-46af-bfdb-95faeded8841"
+          ]
+        }
+      ]
+    },
+    "separateCredits": {
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Let%E2%80%99s%20Get%20It%20Right%22%20AND%20artist%3A%22R%C3%B6yksopp%22%20AND%20artist%3A%22Astrid%20S%22%20AND%20reid%3Ae96c2e7b-94fd-4fbe-9c44-1a27d8664825&fmt=json&limit=5",
+      "created": "2026-11-22T17:35:47.746Z",
+      "count": 1,
+      "recordings": [
+        {
+          "id": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+          "title": "Let’s Get It Right",
+          "score": 100,
+          "releaseIds": [
+            "1e79e484-8528-44dc-93e5-c88af5b51f06",
+            "0e38c670-cc66-4269-b4ff-ab887763083c",
+            "b60089b2-3b1c-4702-a002-404552ea4659",
+            "430736cf-4414-440d-93ec-b22a25089c34",
+            "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+            "f1418001-7f1e-46af-bfdb-95faeded8841"
+          ]
+        }
+      ]
+    },
+    "leadOnlyWithReleaseName": {
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Let%E2%80%99s%20Get%20It%20Right%22%20AND%20artist%3A%22R%C3%B6yksopp%22%20AND%20release%3A%22Profound%20Mysteries%20II%22&fmt=json&limit=5",
+      "created": "2026-11-22T17:36:50.164Z",
+      "count": 1,
+      "recordings": [
+        {
+          "id": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+          "title": "Let’s Get It Right",
+          "score": 100,
+          "releaseIds": [
+            "1e79e484-8528-44dc-93e5-c88af5b51f06",
+            "0e38c670-cc66-4269-b4ff-ab887763083c",
+            "b60089b2-3b1c-4702-a002-404552ea4659",
+            "430736cf-4414-440d-93ec-b22a25089c34",
+            "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+            "f1418001-7f1e-46af-bfdb-95faeded8841"
+          ]
+        }
+      ]
+    },
+    "separateCreditsWithReleaseName": {
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Let%E2%80%99s%20Get%20It%20Right%22%20AND%20artist%3A%22R%C3%B6yksopp%22%20AND%20artist%3A%22Astrid%20S%22%20AND%20release%3A%22Profound%20Mysteries%20II%22&fmt=json&limit=5",
+      "created": "2026-11-22T17:36:53.666Z",
+      "count": 1,
+      "recordings": [
+        {
+          "id": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+          "title": "Let’s Get It Right",
+          "score": 100,
+          "releaseIds": [
+            "1e79e484-8528-44dc-93e5-c88af5b51f06",
+            "0e38c670-cc66-4269-b4ff-ab887763083c",
+            "b60089b2-3b1c-4702-a002-404552ea4659",
+            "430736cf-4414-440d-93ec-b22a25089c34",
+            "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+            "f1418001-7f1e-46af-bfdb-95faeded8841"
+          ]
+        }
+      ]
+    },
+    "differentKnownGuestWithReleaseId": {
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Let%E2%80%99s%20Get%20It%20Right%22%20AND%20artist%3A%22R%C3%B6yksopp%22%20AND%20artist%3A%22Jamie%20Irrepressible%22%20AND%20reid%3Ae96c2e7b-94fd-4fbe-9c44-1a27d8664825&fmt=json&limit=5",
+      "created": "2026-11-22T17:36:56.109Z",
+      "count": 0,
+      "recordings": []
+    }
+  },
+  "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12": {
+    "label": {
+      "number": "5",
+      "title": "Sorry",
+      "recording": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12",
+      "artist": "Röyksopp feat. Jamie Irrepressible",
+      "release": "Profound Mysteries II",
+      "releaseId": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+      "tracklistUrl": "https://musicbrainz.org/ws/2/release/e96c2e7b-94fd-4fbe-9c44-1a27d8664825?inc=recordings+artist-credits&fmt=json",
+      "urls": {
+        "name": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sorry%22%20AND%20artist%3A%22R%C3%B6yksopp%20feat.%20Jamie%20Irrepressible%22%20AND%20release%3A%22Profound%20Mysteries%20II%22&fmt=json&limit=5",
+        "id": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sorry%22%20AND%20artist%3A%22R%C3%B6yksopp%20feat.%20Jamie%20Irrepressible%22%20AND%20reid%3Ae96c2e7b-94fd-4fbe-9c44-1a27d8664825&fmt=json&limit=5"
+      }
+    },
+    "credits": [
+      {
+        "id": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+        "name": "Röyksopp",
+        "joinphrase": " feat. "
+      },
+      {
+        "id": "ba508a64-bb22-4689-8d06-ace0aac52f13",
+        "name": "Jamie Irrepressible",
+        "joinphrase": ""
+      }
+    ],
+    "leadOnly": {
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sorry%22%20AND%20artist%3A%22R%C3%B6yksopp%22%20AND%20reid%3Ae96c2e7b-94fd-4fbe-9c44-1a27d8664825&fmt=json&limit=5",
+      "created": "2026-11-22T17:35:50.609Z",
+      "count": 1,
+      "recordings": [
+        {
+          "id": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12",
+          "title": "Sorry",
+          "score": 100,
+          "releaseIds": [
+            "f1418001-7f1e-46af-bfdb-95faeded8841",
+            "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+            "430736cf-4414-440d-93ec-b22a25089c34",
+            "b60089b2-3b1c-4702-a002-404552ea4659",
+            "0e38c670-cc66-4269-b4ff-ab887763083c",
+            "146d7cae-8268-4e1a-a2e4-399a70ec5f85"
+          ]
+        }
+      ]
+    },
+    "separateCredits": {
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sorry%22%20AND%20artist%3A%22R%C3%B6yksopp%22%20AND%20artist%3A%22Jamie%20Irrepressible%22%20AND%20reid%3Ae96c2e7b-94fd-4fbe-9c44-1a27d8664825&fmt=json&limit=5",
+      "created": "2026-11-22T17:35:53.428Z",
+      "count": 1,
+      "recordings": [
+        {
+          "id": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12",
+          "title": "Sorry",
+          "score": 100,
+          "releaseIds": [
+            "f1418001-7f1e-46af-bfdb-95faeded8841",
+            "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+            "430736cf-4414-440d-93ec-b22a25089c34",
+            "b60089b2-3b1c-4702-a002-404552ea4659",
+            "0e38c670-cc66-4269-b4ff-ab887763083c",
+            "146d7cae-8268-4e1a-a2e4-399a70ec5f85"
+          ]
+        }
+      ]
+    },
+    "leadOnlyWithReleaseName": {
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sorry%22%20AND%20artist%3A%22R%C3%B6yksopp%22%20AND%20release%3A%22Profound%20Mysteries%20II%22&fmt=json&limit=5",
+      "created": "2026-11-22T17:36:59.583Z",
+      "count": 1,
+      "recordings": [
+        {
+          "id": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12",
+          "title": "Sorry",
+          "score": 100,
+          "releaseIds": [
+            "f1418001-7f1e-46af-bfdb-95faeded8841",
+            "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+            "430736cf-4414-440d-93ec-b22a25089c34",
+            "b60089b2-3b1c-4702-a002-404552ea4659",
+            "0e38c670-cc66-4269-b4ff-ab887763083c",
+            "146d7cae-8268-4e1a-a2e4-399a70ec5f85"
+          ]
+        }
+      ]
+    },
+    "separateCreditsWithReleaseName": {
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sorry%22%20AND%20artist%3A%22R%C3%B6yksopp%22%20AND%20artist%3A%22Jamie%20Irrepressible%22%20AND%20release%3A%22Profound%20Mysteries%20II%22&fmt=json&limit=5",
+      "created": "2026-11-22T17:37:01.969Z",
+      "count": 1,
+      "recordings": [
+        {
+          "id": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12",
+          "title": "Sorry",
+          "score": 100,
+          "releaseIds": [
+            "f1418001-7f1e-46af-bfdb-95faeded8841",
+            "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+            "430736cf-4414-440d-93ec-b22a25089c34",
+            "b60089b2-3b1c-4702-a002-404552ea4659",
+            "0e38c670-cc66-4269-b4ff-ab887763083c",
+            "146d7cae-8268-4e1a-a2e4-399a70ec5f85"
+          ]
+        }
+      ]
+    },
+    "differentKnownGuestWithReleaseId": {
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sorry%22%20AND%20artist%3A%22R%C3%B6yksopp%22%20AND%20artist%3A%22Astrid%20S%22%20AND%20reid%3Ae96c2e7b-94fd-4fbe-9c44-1a27d8664825&fmt=json&limit=5",
+      "created": "2026-11-22T17:37:04.830Z",
+      "count": 0,
+      "recordings": []
+    }
+  }
+}

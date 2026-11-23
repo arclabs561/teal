@@ -1,0 +1,78 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/c7b56c88-d51b-4a91-a3ae-ae8d8c4e1834?inc=recordings+artist-credits&fmt=json",
+  "id": "c7b56c88-d51b-4a91-a3ae-ae8d8c4e1834",
+  "title": "Disco Jazz",
+  "date": "2019-08-01",
+  "country": "US",
+  "barcode": "825764180535",
+  "packaging": null,
+  "media": [
+    {
+      "position": 1,
+      "format": "CD",
+      "title": "",
+      "tracks": [
+        {
+          "number": "1",
+          "title": "Moja Bhari Moja",
+          "recording": "a49cac61-f88f-441a-beb0-d431e0d373a1",
+          "recordingTitle": "Moja bhari moja",
+          "recordingDisambiguation": "",
+          "length": 496226,
+          "credits": [
+            {
+              "name": "Rupa",
+              "id": "2cf65e90-8e82-47c8-9b89-4fadfec21002",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "2",
+          "title": "East West Shuffle",
+          "recording": "6c80ddf0-69a6-49e5-94fc-7ccf5d9756a6",
+          "recordingTitle": "East West Shuffle",
+          "recordingDisambiguation": "",
+          "length": 298360,
+          "credits": [
+            {
+              "name": "Rupa",
+              "id": "2cf65e90-8e82-47c8-9b89-4fadfec21002",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Aaj Shanibar",
+          "recording": "c25d097b-5876-48e3-a555-69e23bb444a5",
+          "recordingTitle": "Aaj Shanibar",
+          "recordingDisambiguation": "",
+          "length": 479626,
+          "credits": [
+            {
+              "name": "Rupa",
+              "id": "2cf65e90-8e82-47c8-9b89-4fadfec21002",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Ayee Morshume Be‐Reham Duniya",
+          "recording": "38df44dc-38ff-499a-bc5e-1aa9e1d04228",
+          "recordingTitle": "Ayee morshume be‐reham duniya",
+          "recordingDisambiguation": "",
+          "length": 938440,
+          "credits": [
+            {
+              "name": "Rupa",
+              "id": "2cf65e90-8e82-47c8-9b89-4fadfec21002",
+              "joinphrase": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

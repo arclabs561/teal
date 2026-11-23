@@ -1,0 +1,9 @@
+# Soundtrack version replay
+
+Run `node replay-versions.mjs` from this directory with Node 24. The case plan was written from the public tracklist before capturing the new search responses. It includes the English and movie versions of “Sparkle,” “Zenzenzense,” and “Nandemonaiya.” Two earlier recording searches for “Sparkle” were reused. The other four recording searches are new. Labels come from the release tracklist. [Artist’s tracklist](https://radwimps.jp/en/music/12784/) · [MusicBrainz tracklist](https://musicbrainz.org/release/a7fc3d41-d645-418e-a5d2-960a835b04e0)
+
+The current #253 search requested the album first, got zero results, and took exactly two requests on all six inputs. A local rule promotes an explicitly requested version only when both candidates name the requested artist and share a release ID. It moved both “Sparkle” and “Nandemonaiya” movie recordings from second to first. The three English controls remained first. The movie version of “Zenzenzense” was absent from returned results. Plain song queries and synthetic cases with the shared release removed preserved their original order.
+
+First place improved from 3/6 to 5/6 in this replay. Retrieval stayed at 5/6. Both policies spent two requests per case. The six inputs share one artist and album. Use them as CI checks on search and request counts. The local ranking rule needs unrelated releases and cases where same-artist versions share an anthology before it is a candidate for the app.
+
+Two more requests isolated the “Zenzenzense” retrieval failure. Searching the literal provider title returned zero. Substituting the known Japanese title `前前前世 (movie ver.)` returned two recordings and put the expected album recording first. The captured title probe shows that the recording is indexed. A general recovery path would need a source for the native title.

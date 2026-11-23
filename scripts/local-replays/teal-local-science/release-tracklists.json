@@ -1,0 +1,385 @@
+[
+  {
+    "id": "d28cb978-e649-4aa3-9af5-8210cb4adbb8",
+    "url": "https://musicbrainz.org/ws/2/release/d28cb978-e649-4aa3-9af5-8210cb4adbb8?inc=recordings+artist-credits&fmt=json",
+    "title": "Heartbeat City",
+    "tracks": [
+      {
+        "number": "1",
+        "title": "Hello Again",
+        "recording": "5fb2d11b-f88b-4e8d-be59-61c2f485de54",
+        "artist": "The Cars"
+      },
+      {
+        "number": "2",
+        "title": "Looking for Love",
+        "recording": "02d3f60f-5003-4eb0-8b14-51942187a18f",
+        "artist": "The Cars"
+      },
+      {
+        "number": "3",
+        "title": "Magic",
+        "recording": "966a0eec-96e1-41c8-828f-459d2b5cceb5",
+        "artist": "The Cars"
+      },
+      {
+        "number": "4",
+        "title": "Drive",
+        "recording": "c83f4862-38bc-4af3-86cc-3dd51ecea7f3",
+        "artist": "The Cars"
+      },
+      {
+        "number": "5",
+        "title": "Stranger Eyes",
+        "recording": "6292a759-bbec-4b60-a60f-e5dd9f7bdb7f",
+        "artist": "The Cars"
+      },
+      {
+        "number": "6",
+        "title": "You Might Think",
+        "recording": "eed3d984-0bcf-4236-b986-d31da43edb99",
+        "artist": "The Cars"
+      },
+      {
+        "number": "7",
+        "title": "It's Not the Night",
+        "recording": "5ba08110-80fe-41c5-b79d-96c7f5c67f00",
+        "artist": "The Cars"
+      },
+      {
+        "number": "8",
+        "title": "Why Can't I Have You",
+        "recording": "b904e534-e17f-4920-898a-1a065ace7de9",
+        "artist": "The Cars"
+      },
+      {
+        "number": "9",
+        "title": "I Refuse",
+        "recording": "da31ef21-ddf8-4cb7-8b88-f5174afbb92e",
+        "artist": "The Cars"
+      },
+      {
+        "number": "10",
+        "title": "Heartbeat City",
+        "recording": "5e2ec877-0fad-4293-8bbe-73d8d9a6cbc3",
+        "artist": "The Cars"
+      }
+    ]
+  },
+  {
+    "id": "ab823aee-8f6e-4053-8a34-88858743e53c",
+    "url": "https://musicbrainz.org/ws/2/release/ab823aee-8f6e-4053-8a34-88858743e53c?inc=recordings+artist-credits&fmt=json",
+    "title": "La Folie",
+    "tracks": [
+      {
+        "number": "A1",
+        "title": "Non Stop",
+        "recording": "6ae3e161-a6b2-43a4-b9eb-cff65898af4e",
+        "artist": "The Stranglers"
+      },
+      {
+        "number": "A2",
+        "title": "Everybody Loves You When You’re Dead",
+        "recording": "c6353065-ec10-464d-988b-e6839f546c89",
+        "artist": "The Stranglers"
+      },
+      {
+        "number": "A3",
+        "title": "Tramp",
+        "recording": "094ac8aa-4f8f-4453-bd2d-2fe28f4e7915",
+        "artist": "The Stranglers"
+      },
+      {
+        "number": "A4",
+        "title": "Let Me Introduce You to the Family",
+        "recording": "44fb00ef-c8be-4ffb-aa2d-d4f8f8a80571",
+        "artist": "The Stranglers"
+      },
+      {
+        "number": "A5",
+        "title": "Ain’t Nothin’ to It",
+        "recording": "b746d695-f110-413c-92fe-8b9d24ca0c65",
+        "artist": "The Stranglers"
+      },
+      {
+        "number": "A6",
+        "title": "The Man They Love to Hate",
+        "recording": "9f2923a7-0d31-45f8-8ac8-95e758efdb3a",
+        "artist": "The Stranglers"
+      },
+      {
+        "number": "B1",
+        "title": "Pin Up",
+        "recording": "f41bfc5b-e967-489a-ad3a-b776fdb53533",
+        "artist": "The Stranglers"
+      },
+      {
+        "number": "B2",
+        "title": "It Only Takes Two to Tango",
+        "recording": "2674f8df-beff-4be0-9d3c-5deb0751ad57",
+        "artist": "The Stranglers"
+      },
+      {
+        "number": "B3",
+        "title": "Golden Brown",
+        "recording": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0",
+        "artist": "The Stranglers"
+      },
+      {
+        "number": "B4",
+        "title": "How to Find True Love and Happiness in the Present Day",
+        "recording": "5fdb03ca-9d75-4ccc-920d-c27e4868074e",
+        "artist": "The Stranglers"
+      },
+      {
+        "number": "B5",
+        "title": "La Folie",
+        "recording": "baea23bc-1f7c-4111-ae85-8f6f0e0eb3bc",
+        "artist": "The Stranglers"
+      }
+    ]
+  },
+  {
+    "id": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+    "url": "https://musicbrainz.org/ws/2/release/e96c2e7b-94fd-4fbe-9c44-1a27d8664825?inc=recordings+artist-credits&fmt=json",
+    "title": "Profound Mysteries II",
+    "tracks": [
+      {
+        "number": "1",
+        "title": "Denimclad Baboons",
+        "recording": "6400d6f9-83f2-4e18-90fc-03ac5265d269",
+        "artist": "Röyksopp"
+      },
+      {
+        "number": "2",
+        "title": "Let’s Get It Right",
+        "recording": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+        "artist": "Röyksopp feat. Astrid S"
+      },
+      {
+        "number": "3",
+        "title": "Unity",
+        "recording": "07530f77-1296-43a1-aa1d-6936d7246725",
+        "artist": "Röyksopp feat. Karen Harding"
+      },
+      {
+        "number": "4",
+        "title": "Oh, Lover",
+        "recording": "d1d936eb-fef3-4d19-8b73-419b978ede6a",
+        "artist": "Röyksopp feat. Susanne Sundfør"
+      },
+      {
+        "number": "5",
+        "title": "Sorry",
+        "recording": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12",
+        "artist": "Röyksopp feat. Jamie Irrepressible"
+      },
+      {
+        "number": "6",
+        "title": "Control",
+        "recording": "0228a5f7-fd54-4b8c-8d7c-7c6f2d0163b8",
+        "artist": "Röyksopp"
+      },
+      {
+        "number": "7",
+        "title": "It Was a Good Thing",
+        "recording": "100bdac3-db86-41ba-b987-6f639914834c",
+        "artist": "Röyksopp feat. Pixx"
+      },
+      {
+        "number": "8",
+        "title": "Remembering the Departed",
+        "recording": "a8eb2940-b706-4e35-afd2-f15feec4eb20",
+        "artist": "Röyksopp"
+      },
+      {
+        "number": "9",
+        "title": "Tell Him",
+        "recording": "46f0b53f-6731-457c-93e7-57cff0e5b0c2",
+        "artist": "Röyksopp feat. Susanne Sundfør"
+      },
+      {
+        "number": "10",
+        "title": "Some Resolve",
+        "recording": "30d08f4c-d825-4ae1-b79c-44242cddd7c0",
+        "artist": "Röyksopp"
+      }
+    ]
+  },
+  {
+    "id": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+    "url": "https://musicbrainz.org/ws/2/release/ac791926-0b31-43e0-bba6-805eb7a05ebc?inc=recordings+artist-credits&fmt=json",
+    "title": "Sensual Sensual",
+    "tracks": [
+      {
+        "number": "1",
+        "title": "Overture (Concierto de Aranjuez)",
+        "recording": "180179f1-7a86-4dbd-917a-35ecfcfce78e",
+        "artist": "B-Tribe"
+      },
+      {
+        "number": "2",
+        "title": "Alegría",
+        "recording": "6c0f1271-23ff-4ab7-891b-2e39676a5f5e",
+        "artist": "B-Tribe"
+      },
+      {
+        "number": "3",
+        "title": "Sometimes",
+        "recording": "3b8e3dfb-c3f7-4e27-8eba-c8ea541d60b2",
+        "artist": "B-Tribe"
+      },
+      {
+        "number": "4",
+        "title": "Háblame",
+        "recording": "affdd631-e955-4bb1-b25a-a4f11ce143b0",
+        "artist": "B-Tribe"
+      },
+      {
+        "number": "5",
+        "title": "Sensual Sensual",
+        "recording": "d5cad631-15d8-4636-bdf0-76d477c0ad0f",
+        "artist": "B-Tribe"
+      },
+      {
+        "number": "6",
+        "title": "Zapateado",
+        "recording": "584d20cf-50a9-4742-9f10-b1d00134598b",
+        "artist": "B-Tribe"
+      },
+      {
+        "number": "7",
+        "title": "Tribute to J.S. Bach",
+        "recording": "41301395-6d54-43ea-bf32-9f09295dbee6",
+        "artist": "B-Tribe"
+      },
+      {
+        "number": "8",
+        "title": "La Guapa",
+        "recording": "b8df962a-6127-4d6d-a157-b414e14cb0a1",
+        "artist": "B-Tribe"
+      },
+      {
+        "number": "9",
+        "title": "Desesperada",
+        "recording": "f96062e8-4ae6-4202-b519-655da8f087ff",
+        "artist": "B-Tribe"
+      },
+      {
+        "number": "10",
+        "title": "Sa Trincha",
+        "recording": "95eeaae3-df80-44b5-8520-678a32b1b133",
+        "artist": "B-Tribe"
+      },
+      {
+        "number": "11",
+        "title": "Ahoy Ahoy",
+        "recording": "32e1f732-84f9-48cf-82bf-115d359849d7",
+        "artist": "B-Tribe"
+      },
+      {
+        "number": "12",
+        "title": "Ultima Canción",
+        "recording": "b5a5dfd7-baeb-46c4-a4fa-320a5efc21c0",
+        "artist": "B-Tribe"
+      },
+      {
+        "number": "13",
+        "title": "La Unica Excusa...",
+        "recording": "bb43c116-d500-417b-b313-7cae643fd54f",
+        "artist": "B-Tribe"
+      }
+    ]
+  },
+  {
+    "id": "c7974d11-385c-4770-be81-ee4253b99478",
+    "url": "https://musicbrainz.org/ws/2/release/c7974d11-385c-4770-be81-ee4253b99478?inc=recordings+artist-credits&fmt=json",
+    "title": "狂言",
+    "tracks": [
+      {
+        "number": "1",
+        "title": "レディメイド",
+        "recording": "5e7a3676-dbdb-48f9-b916-ddee65d015c8",
+        "artist": "Ado"
+      },
+      {
+        "number": "2",
+        "title": "踊",
+        "recording": "edb6736a-50b3-4815-ba46-e453807f0835",
+        "artist": "Ado"
+      },
+      {
+        "number": "3",
+        "title": "ドメスティックでバイオレンス",
+        "recording": "2b886020-c7e7-4da7-8c04-46d2daabd88e",
+        "artist": "Ado"
+      },
+      {
+        "number": "4",
+        "title": "FREEDOM",
+        "recording": "e85a1656-1d91-45d8-b028-2a98b33af9bd",
+        "artist": "Ado"
+      },
+      {
+        "number": "5",
+        "title": "花火",
+        "recording": "9eacbbd7-65ca-4154-ae76-9a1866ff6bcd",
+        "artist": "Ado"
+      },
+      {
+        "number": "6",
+        "title": "会いたくて",
+        "recording": "ab7a42e2-c477-44e6-8cc7-056f8f8b10a5",
+        "artist": "Ado"
+      },
+      {
+        "number": "7",
+        "title": "ラッキー・ブルート",
+        "recording": "058d99f7-2770-4a65-86c0-19f92f9fcea3",
+        "artist": "Ado"
+      },
+      {
+        "number": "8",
+        "title": "ギラギラ",
+        "recording": "d7e4646b-e831-4d85-a740-647ad9e1e37d",
+        "artist": "Ado"
+      },
+      {
+        "number": "9",
+        "title": "阿修羅ちゃん",
+        "recording": "8dc671a4-3ee1-4f3e-9b3b-00d4a2e980ed",
+        "artist": "Ado"
+      },
+      {
+        "number": "10",
+        "title": "心という名の不可解",
+        "recording": "ab14c6ef-be4f-440a-9c4a-fd1a067c2c52",
+        "artist": "Ado"
+      },
+      {
+        "number": "11",
+        "title": "うっせぇわ",
+        "recording": "5d992918-e00d-420a-85cd-04dd6e262a00",
+        "artist": "Ado"
+      },
+      {
+        "number": "12",
+        "title": "マザーランド",
+        "recording": "079df479-7a6a-4e6b-b3b2-df911006e670",
+        "artist": "Ado"
+      },
+      {
+        "number": "13",
+        "title": "過学習",
+        "recording": "0394cf8e-14a4-4eb2-9816-8ddef32ed94d",
+        "artist": "Ado"
+      },
+      {
+        "number": "14",
+        "title": "夜のピエロ",
+        "recording": "7334cbd8-5104-4a04-b931-cce1889f920f",
+        "artist": "Ado"
+      }
+    ]
+  }
+]

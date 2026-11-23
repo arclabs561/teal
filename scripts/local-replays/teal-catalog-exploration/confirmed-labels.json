@@ -1,0 +1,98 @@
+[
+  {
+    "track": "Tell Him",
+    "artist": "Röyksopp feat. Susanne Sundfør",
+    "release": "Profound Mysteries II",
+    "recordingId": "46f0b53f-6731-457c-93e7-57cff0e5b0c2",
+    "trackNumber": "9",
+    "evidence": "https://musicbrainz.org/ws/2/release/e96c2e7b-94fd-4fbe-9c44-1a27d8664825?inc=recordings+artist-credits&fmt=json"
+  },
+  {
+    "track": "Control",
+    "artist": "Röyksopp",
+    "release": "Profound Mysteries II",
+    "recordingId": "0228a5f7-fd54-4b8c-8d7c-7c6f2d0163b8",
+    "trackNumber": "6",
+    "evidence": "https://musicbrainz.org/ws/2/release/e96c2e7b-94fd-4fbe-9c44-1a27d8664825?inc=recordings+artist-credits&fmt=json"
+  },
+  {
+    "track": "Let’s Get It Right",
+    "artist": "Röyksopp feat. Astrid S",
+    "release": "Profound Mysteries II",
+    "recordingId": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+    "trackNumber": "2",
+    "evidence": "https://musicbrainz.org/ws/2/release/e96c2e7b-94fd-4fbe-9c44-1a27d8664825?inc=recordings+artist-credits&fmt=json"
+  },
+  {
+    "track": "Sorry",
+    "artist": "Röyksopp feat. Jamie Irrepressible",
+    "release": "Profound Mysteries II",
+    "recordingId": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12",
+    "trackNumber": "5",
+    "evidence": "https://musicbrainz.org/ws/2/release/e96c2e7b-94fd-4fbe-9c44-1a27d8664825?inc=recordings+artist-credits&fmt=json"
+  },
+  {
+    "track": "Oh, Lover",
+    "artist": "Röyksopp feat. Susanne Sundfør",
+    "release": "Profound Mysteries II",
+    "recordingId": "d1d936eb-fef3-4d19-8b73-419b978ede6a",
+    "trackNumber": "4",
+    "evidence": "https://musicbrainz.org/ws/2/release/e96c2e7b-94fd-4fbe-9c44-1a27d8664825?inc=recordings+artist-credits&fmt=json"
+  },
+  {
+    "track": "Tribute to J.S. Bach",
+    "artist": "B-Tribe",
+    "release": "Sensual Sensual",
+    "recordingId": "41301395-6d54-43ea-bf32-9f09295dbee6",
+    "trackNumber": "7",
+    "evidence": "https://musicbrainz.org/ws/2/release/ac791926-0b31-43e0-bba6-805eb7a05ebc?inc=recordings+artist-credits&fmt=json"
+  },
+  {
+    "track": "Unity",
+    "artist": "Röyksopp feat. Karen Harding",
+    "release": "Profound Mysteries II",
+    "recordingId": "07530f77-1296-43a1-aa1d-6936d7246725",
+    "trackNumber": "3",
+    "evidence": "https://musicbrainz.org/ws/2/release/e96c2e7b-94fd-4fbe-9c44-1a27d8664825?inc=recordings+artist-credits&fmt=json"
+  },
+  {
+    "track": "Some Resolve",
+    "artist": "Röyksopp",
+    "release": "Profound Mysteries II",
+    "recordingId": "30d08f4c-d825-4ae1-b79c-44242cddd7c0",
+    "trackNumber": "10",
+    "evidence": "https://musicbrainz.org/ws/2/release/e96c2e7b-94fd-4fbe-9c44-1a27d8664825?inc=recordings+artist-credits&fmt=json"
+  },
+  {
+    "track": "La Guapa",
+    "artist": "B-Tribe",
+    "release": "Sensual Sensual",
+    "recordingId": "b8df962a-6127-4d6d-a157-b414e14cb0a1",
+    "trackNumber": "8",
+    "evidence": "https://musicbrainz.org/ws/2/release/ac791926-0b31-43e0-bba6-805eb7a05ebc?inc=recordings+artist-credits&fmt=json"
+  },
+  {
+    "track": "Remembering the Departed",
+    "artist": "Röyksopp",
+    "release": "Profound Mysteries II",
+    "recordingId": "a8eb2940-b706-4e35-afd2-f15feec4eb20",
+    "trackNumber": "8",
+    "evidence": "https://musicbrainz.org/ws/2/release/e96c2e7b-94fd-4fbe-9c44-1a27d8664825?inc=recordings+artist-credits&fmt=json"
+  },
+  {
+    "track": "Denimclad Baboons",
+    "artist": "Röyksopp",
+    "release": "Profound Mysteries II",
+    "recordingId": "6400d6f9-83f2-4e18-90fc-03ac5265d269",
+    "trackNumber": "1",
+    "evidence": "https://musicbrainz.org/ws/2/release/e96c2e7b-94fd-4fbe-9c44-1a27d8664825?inc=recordings+artist-credits&fmt=json"
+  },
+  {
+    "track": "It Was a Good Thing",
+    "artist": "Röyksopp feat. Pixx",
+    "release": "Profound Mysteries II",
+    "recordingId": "100bdac3-db86-41ba-b987-6f639914834c",
+    "trackNumber": "7",
+    "evidence": "https://musicbrainz.org/ws/2/release/e96c2e7b-94fd-4fbe-9c44-1a27d8664825?inc=recordings+artist-credits&fmt=json"
+  }
+]

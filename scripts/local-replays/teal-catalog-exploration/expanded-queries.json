@@ -1,0 +1,62 @@
+[
+  {
+    "input": {
+      "track": "Titanium (remix)",
+      "artist": "SayMaxWell",
+      "release": "Titanium (remix)"
+    },
+    "expected": "b38db97b-dec6-4a16-9e66-a242096c32a8",
+    "evidence": "https://musicbrainz.org/ws/2/recording/b38db97b-dec6-4a16-9e66-a242096c32a8?inc=releases+artist-credits&fmt=json",
+    "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Titanium%20(remix)%22%20AND%20artist%3A%22SayMaxWell%22%20AND%20release%3A%22Titanium%20(remix)%22&fmt=json&limit=25"
+  },
+  {
+    "input": {
+      "track": "Iris (Ligotti Remix)",
+      "artist": "The Goo Goo Dolls",
+      "release": "Iris (Ligotti Remix)"
+    },
+    "expected": "4de49ab7-3dd5-4f8e-a1f1-44927fc300c9",
+    "evidence": "https://musicbrainz.org/ws/2/recording/4de49ab7-3dd5-4f8e-a1f1-44927fc300c9?inc=releases+artist-credits&fmt=json",
+    "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Iris%20(Ligotti%20Remix)%22%20AND%20artist%3A%22The%20Goo%20Goo%20Dolls%22%20AND%20release%3A%22Iris%20(Ligotti%20Remix)%22&fmt=json&limit=25"
+  },
+  {
+    "input": {
+      "track": "The Outlines",
+      "artist": "Koven, Circadian",
+      "release": "The Outlines"
+    },
+    "expected": "035d921d-1105-499b-8a71-7fbb2b27d67d",
+    "evidence": "https://musicbrainz.org/ws/2/recording/035d921d-1105-499b-8a71-7fbb2b27d67d?inc=releases+artist-credits&fmt=json",
+    "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22The%20Outlines%22%20AND%20artist%3A%22Koven%2C%20Circadian%22%20AND%20release%3A%22The%20Outlines%22&fmt=json&limit=25"
+  },
+  {
+    "input": {
+      "track": "Don’t Bring Me Down",
+      "artist": "Justin OH",
+      "release": "Don’t Bring Me Down"
+    },
+    "expected": "9c6eaf4f-980b-40b1-9917-74d514894b53",
+    "evidence": "https://musicbrainz.org/ws/2/recording/9c6eaf4f-980b-40b1-9917-74d514894b53?inc=releases+artist-credits&fmt=json",
+    "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Don%E2%80%99t%20Bring%20Me%20Down%22%20AND%20artist%3A%22Justin%20OH%22%20AND%20release%3A%22Don%E2%80%99t%20Bring%20Me%20Down%22&fmt=json&limit=25"
+  },
+  {
+    "input": {
+      "track": "Boss Wave",
+      "artist": "Xilent",
+      "release": "Boss Wave"
+    },
+    "expected": "fb48bde2-bfc1-4a9c-b231-31296db2b740",
+    "evidence": "https://musicbrainz.org/ws/2/recording/fb48bde2-bfc1-4a9c-b231-31296db2b740?inc=releases+artist-credits&fmt=json",
+    "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Boss%20Wave%22%20AND%20artist%3A%22Xilent%22%20AND%20release%3A%22Boss%20Wave%22&fmt=json&limit=25"
+  },
+  {
+    "input": {
+      "track": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)",
+      "artist": "Cosmograph, LEVEL NINE",
+      "release": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)"
+    },
+    "expected": "d2fc36c0-45ed-4d5c-80c4-bbe3f2c02be7",
+    "evidence": "https://musicbrainz.org/ws/2/recording/d2fc36c0-45ed-4d5c-80c4-bbe3f2c02be7?inc=releases+artist-credits&fmt=json",
+    "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Dirty%20Backyard%20(Goddess%20of%20Victory%3A%20NIKKE%20Original%20Soundtrack)%22%20AND%20artist%3A%22Cosmograph%2C%20LEVEL%20NINE%22%20AND%20release%3A%22Dirty%20Backyard%20(Goddess%20of%20Victory%3A%20NIKKE%20Original%20Soundtrack)%22&fmt=json&limit=25"
+  }
+]

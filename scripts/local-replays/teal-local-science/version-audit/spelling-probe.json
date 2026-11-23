@@ -1,0 +1,27 @@
+{
+  "provider-spelling": {
+    "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Zenzenzense%20-%20movie%20ver.%22%20AND%20artist%3A%22RADWIMPS%22&fmt=json&limit=5",
+    "count": 0,
+    "created": "2026-11-22T18:07:11.573Z",
+    "recordings": [],
+    "rank": null
+  },
+  "native-spelling": {
+    "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22%E5%89%8D%E5%89%8D%E5%89%8D%E4%B8%96%20(movie%20ver.)%22%20AND%20artist%3A%22RADWIMPS%22&fmt=json&limit=5",
+    "count": 2,
+    "created": "2026-11-22T18:07:14.151Z",
+    "recordings": [
+      {
+        "id": "f7f524cc-e991-49cd-873e-cc3278190aa1",
+        "title": "前前前世 (movie ver.)",
+        "score": 100
+      },
+      {
+        "id": "f5df9aaf-e9e9-46ca-8187-5e093373caa4",
+        "title": "前前前世 (movie ver.)",
+        "score": 90
+      }
+    ],
+    "rank": 1
+  }
+}

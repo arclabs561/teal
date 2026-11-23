@@ -1,0 +1,80 @@
+[
+  {
+    "name": "shifted copy",
+    "plays": [
+      {"namespace":"alpha","key":"a","seconds":0,"artist":"Artist A","recording":1,"listen":1},
+      {"namespace":"stable","key":"b","seconds":90,"artist":"Artist A","recording":1,"listen":1}
+    ]
+  },
+  {
+    "name": "same payload fields as shifted copy but two listens",
+    "plays": [
+      {"namespace":"alpha","key":"a","seconds":0,"artist":"Artist A","recording":1,"listen":1},
+      {"namespace":"stable","key":"b","seconds":90,"artist":"Artist A","recording":1,"listen":2}
+    ]
+  },
+  {
+    "name": "same-recording repeat at 45 seconds",
+    "plays": [
+      {"namespace":"alpha","key":"a","seconds":0,"artist":"Artist A","recording":1,"listen":1},
+      {"namespace":"stable","key":"b","seconds":45,"artist":"Artist A","recording":1,"listen":2}
+    ]
+  },
+  {
+    "name": "same-recording repeat at three minutes",
+    "plays": [
+      {"namespace":"alpha","key":"a","seconds":0,"artist":"Artist A","recording":1,"listen":1},
+      {"namespace":"stable","key":"b","seconds":180,"artist":"Artist A","recording":1,"listen":2}
+    ]
+  },
+  {
+    "name": "one copy plus one repeat",
+    "plays": [
+      {"namespace":"alpha","key":"a","seconds":0,"artist":"Artist A","recording":1,"listen":1},
+      {"namespace":"alpha","key":"b","seconds":180,"artist":"Artist A","recording":1,"listen":2},
+      {"namespace":"stable","key":"c","seconds":30,"artist":"Artist A","recording":1,"listen":1}
+    ]
+  },
+  {
+    "name": "different artists, one recording ID missing",
+    "plays": [
+      {"namespace":"alpha","key":"a","seconds":0,"artist":"Artist A","recording":null,"listen":1},
+      {"namespace":"stable","key":"b","seconds":90,"artist":"Artist B","recording":2,"listen":2}
+    ]
+  },
+  {
+    "name": "copy with artist alias and one recording ID missing",
+    "plays": [
+      {"namespace":"alpha","key":"a","seconds":0,"artist":"Joe Hisaishi","recording":null,"listen":1},
+      {"namespace":"stable","key":"b","seconds":90,"artist":"久石譲","recording":2,"listen":1}
+    ]
+  },
+  {
+    "name": "different known recordings",
+    "plays": [
+      {"namespace":"alpha","key":"a","seconds":0,"artist":"Artist A","recording":1,"listen":1},
+      {"namespace":"stable","key":"b","seconds":90,"artist":"Artist A","recording":2,"listen":2}
+    ]
+  },
+  {
+    "name": "shared key after metadata correction",
+    "plays": [
+      {"namespace":"alpha","key":"a","seconds":0,"artist":"Artist A","recording":1,"listen":1},
+      {"namespace":"stable","key":"a","seconds":90,"artist":"Artist B","recording":2,"listen":1}
+    ]
+  },
+  {
+    "name": "copy at the ten-minute boundary",
+    "plays": [
+      {"namespace":"alpha","key":"a","seconds":0,"artist":"Artist A","recording":1,"listen":1},
+      {"namespace":"stable","key":"b","seconds":600,"artist":"Artist A","recording":1,"listen":1}
+    ]
+  },
+  {
+    "name": "copy one second outside the window",
+    "plays": [
+      {"namespace":"alpha","key":"a","seconds":0,"artist":"Artist A","recording":1,"listen":1},
+      {"namespace":"stable","key":"b","seconds":601,"artist":"Artist A","recording":1,"listen":1}
+    ]
+  }
+]

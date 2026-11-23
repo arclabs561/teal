@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-22",
+  "releaseTracklists": [
+    {
+      "releaseId": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+      "release": "Profound Mysteries II",
+      "source": "https://musicbrainz.org/ws/2/release/e96c2e7b-94fd-4fbe-9c44-1a27d8664825?inc=recordings+artist-credits&fmt=json",
+      "tracks": [
+        {
+          "number": "1",
+          "track": "Denimclad Baboons",
+          "recordingId": "6400d6f9-83f2-4e18-90fc-03ac5265d269"
+        },
+        {
+          "number": "2",
+          "track": "Let’s Get It Right",
+          "recordingId": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a"
+        },
+        {
+          "number": "3",
+          "track": "Unity",
+          "recordingId": "07530f77-1296-43a1-aa1d-6936d7246725"
+        },
+        {
+          "number": "4",
+          "track": "Oh, Lover",
+          "recordingId": "d1d936eb-fef3-4d19-8b73-419b978ede6a"
+        },
+        {
+          "number": "5",
+          "track": "Sorry",
+          "recordingId": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12"
+        },
+        {
+          "number": "6",
+          "track": "Control",
+          "recordingId": "0228a5f7-fd54-4b8c-8d7c-7c6f2d0163b8"
+        },
+        {
+          "number": "7",
+          "track": "It Was a Good Thing",
+          "recordingId": "100bdac3-db86-41ba-b987-6f639914834c"
+        },
+        {
+          "number": "8",
+          "track": "Remembering the Departed",
+          "recordingId": "a8eb2940-b706-4e35-afd2-f15feec4eb20"
+        },
+        {
+          "number": "9",
+          "track": "Tell Him",
+          "recordingId": "46f0b53f-6731-457c-93e7-57cff0e5b0c2"
+        },
+        {
+          "number": "10",
+          "track": "Some Resolve",
+          "recordingId": "30d08f4c-d825-4ae1-b79c-44242cddd7c0"
+        }
+      ]
+    },
+    {
+      "releaseId": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+      "release": "Sensual Sensual",
+      "source": "https://musicbrainz.org/ws/2/release/ac791926-0b31-43e0-bba6-805eb7a05ebc?inc=recordings+artist-credits&fmt=json",
+      "tracks": [
+        {
+          "number": "1",
+          "track": "Overture (Concierto de Aranjuez)",
+          "recordingId": "180179f1-7a86-4dbd-917a-35ecfcfce78e"
+        },
+        {
+          "number": "2",
+          "track": "Alegría",
+          "recordingId": "6c0f1271-23ff-4ab7-891b-2e39676a5f5e"
+        },
+        {
+          "number": "3",
+          "track": "Sometimes",
+          "recordingId": "3b8e3dfb-c3f7-4e27-8eba-c8ea541d60b2"
+        },
+        {
+          "number": "4",
+          "track": "Háblame",
+          "recordingId": "affdd631-e955-4bb1-b25a-a4f11ce143b0"
+        },
+        {
+          "number": "5",
+          "track": "Sensual Sensual",
+          "recordingId": "d5cad631-15d8-4636-bdf0-76d477c0ad0f"
+        },
+        {
+          "number": "6",
+          "track": "Zapateado",
+          "recordingId": "584d20cf-50a9-4742-9f10-b1d00134598b"
+        },
+        {
+          "number": "7",
+          "track": "Tribute to J.S. Bach",
+          "recordingId": "41301395-6d54-43ea-bf32-9f09295dbee6"
+        },
+        {
+          "number": "8",
+          "track": "La Guapa",
+          "recordingId": "b8df962a-6127-4d6d-a157-b414e14cb0a1"
+        },
+        {
+          "number": "9",
+          "track": "Desesperada",
+          "recordingId": "f96062e8-4ae6-4202-b519-655da8f087ff"
+        },
+        {
+          "number": "10",
+          "track": "Sa Trincha",
+          "recordingId": "95eeaae3-df80-44b5-8520-678a32b1b133"
+        },
+        {
+          "number": "11",
+          "track": "Ahoy Ahoy",
+          "recordingId": "32e1f732-84f9-48cf-82bf-115d359849d7"
+        },
+        {
+          "number": "12",
+          "track": "Ultima Canción",
+          "recordingId": "b5a5dfd7-baeb-46c4-a4fa-320a5efc21c0"
+        },
+        {
+          "number": "13",
+          "track": "La Unica Excusa...",
+          "recordingId": "bb43c116-d500-417b-b313-7cae643fd54f"
+        }
+      ]
+    }
+  ],
+  "isrcLookups": [
+    {
+      "isrc": "JPPO02105117",
+      "source": "https://musicbrainz.org/ws/2/isrc/JPPO02105117?inc=artist-credits+releases&fmt=json",
+      "outcome": "captured",
+      "recordings": [
+        {
+          "id": "9eacbbd7-65ca-4154-ae76-9a1866ff6bcd",
+          "title": "花火",
+          "length": 212373,
+          "disambiguation": ""
+        }
+      ]
+    },
+    {
+      "isrc": "INS181305468",
+      "source": "https://musicbrainz.org/ws/2/isrc/INS181305468?inc=artist-credits+releases&fmt=json",
+      "outcome": "unavailable",
+      "error": "Error fetching URL(s): https://musicbrainz.org/ws/2/isrc/INS181305468?inc=artist-credits+releases&fmt=json: CRAWL_NOT_FOUND"
+    },
+    {
+      "isrc": "CAW112500963",
+      "source": "https://musicbrainz.org/ws/2/isrc/CAW112500963?inc=artist-credits+releases&fmt=json",
+      "outcome": "captured",
+      "recordings": [
+        {
+          "id": "67bc2dde-b38f-4f4e-9eb2-c2d7e2cdf461",
+          "title": "For A Reason",
+          "length": 180000,
+          "disambiguation": ""
+        }
+      ]
+    },
+    {
+      "isrc": "GBAYE8100053",
+      "source": "https://musicbrainz.org/ws/2/isrc/GBAYE8100053?inc=artist-credits+releases&fmt=json",
+      "outcome": "captured",
+      "recordings": [
+        {
+          "id": "b64ee63a-a649-4e8c-b047-de7a48da4ae5",
+          "title": "Golden Brown",
+          "length": 206811,
+          "disambiguation": ""
+        },
+        {
+          "id": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0",
+          "title": "Golden Brown",
+          "length": 207893,
+          "disambiguation": ""
+        },
+        {
+          "id": "0cda5ff4-c7d6-4f71-a5df-09a29351f95d",
+          "title": "Golden Brown",
+          "length": 188893,
+          "disambiguation": ""
+        }
+      ]
+    },
+    {
+      "isrc": "USUM70824408",
+      "source": "https://musicbrainz.org/ws/2/isrc/USUM70824408?inc=artist-credits+releases&fmt=json",
+      "outcome": "captured",
+      "recordings": [
+        {
+          "id": "7a1040dc-bac0-479c-9921-f43797ed0b81",
+          "title": "Paparazzi",
+          "length": 209000,
+          "disambiguation": ""
+        }
+      ]
+    },
+    {
+      "isrc": "GBKRT1856624",
+      "source": "https://musicbrainz.org/ws/2/isrc/GBKRT1856624?inc=artist-credits+releases&fmt=json",
+      "outcome": "unavailable",
+      "error": "Error fetching URL(s): https://musicbrainz.org/ws/2/isrc/GBKRT1856624?inc=artist-credits+releases&fmt=json: CRAWL_NOT_FOUND"
+    }
+  ],
+  "isrcInputs": [
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "isrc": "INS181305468"
+    },
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "isrc": "INS181305468"
+    },
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "isrc": "INS181305468"
+    },
+    {
+      "track": "For A Reason",
+      "artist": "Karan Aujla, Ikky",
+      "release": "P-POP CULTURE",
+      "isrc": "CAW112500963",
+      "mapped": "67bc2dde-b38f-4f4e-9eb2-c2d7e2cdf461"
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "La Folie",
+      "isrc": "GBAYE8100053",
+      "mapped": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0"
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "La Folie",
+      "isrc": "GBAYE8100053",
+      "mapped": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0"
+    },
+    {
+      "track": "Paparazzi",
+      "artist": "Lady Gaga",
+      "release": "The Fame",
+      "isrc": "USUM70824408",
+      "mapped": "7a1040dc-bac0-479c-9921-f43797ed0b81"
+    },
+    {
+      "track": "Un Ka Andaz-E-Karam",
+      "artist": "Nusrat Fateh Ali Khan",
+      "release": "Sadness (Best Sad Qawwalies)",
+      "isrc": "GBKRT1856624",
+      "mapped": "6cbbd60b-6fee-4863-b6de-df4953834c6e"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "source": "https://musicbrainz.org/ws/2/release/f43996d5-b160-41a9-810d-1205e6c3aaf3?inc=recordings&fmt=json",
+    "label": [
+      [
+        "4",
+        "Drive",
+        "c83f4862-38bc-4af3-86cc-3dd51ecea7f3"
+      ]
+    ],
+    "indexedCandidate": "ad8dbfc2-5623-47e4-b9b1-cd2b1ae4f065"
+  },
+  {
+    "source": "https://musicbrainz.org/ws/2/release/d28cb978-e649-4aa3-9af5-8210cb4adbb8?inc=recordings&fmt=json",
+    "label": [
+      [
+        "4",
+        "Drive",
+        "c83f4862-38bc-4af3-86cc-3dd51ecea7f3"
+      ]
+    ]
+  }
+]

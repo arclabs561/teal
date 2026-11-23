@@ -1,0 +1,367 @@
+[
+  {
+    "input": {
+      "artist": "Justin OH",
+      "client_recording_id": "9c6eaf4f-980b-40b1-9917-74d514894b53",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "9c6eaf4f-980b-40b1-9917-74d514894b53",
+      "release": "Don’t Bring Me Down",
+      "spotify_id": null,
+      "track": "Don’t Bring Me Down"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/9c6eaf4f-980b-40b1-9917-74d514894b53?inc=releases+artist-credits&fmt=json",
+    "recordingId": "9c6eaf4f-980b-40b1-9917-74d514894b53",
+    "catalogTitle": "Don’t Bring Me Down",
+    "releaseMatches": [
+      [
+        "04c88c5d-bed8-423f-ab1a-cbf9ce2ddcb2",
+        "Don’t Bring Me Down"
+      ]
+    ],
+    "artistCredits": [
+      "Justin OH"
+    ],
+    "titleExact": true
+  },
+  {
+    "input": {
+      "artist": "Fleetwood Mac",
+      "client_recording_id": "248cc9d1-97ea-493e-84d4-4c5ec718683b",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "248cc9d1-97ea-493e-84d4-4c5ec718683b",
+      "release": "The Very Best of Fleetwood Mac",
+      "spotify_id": null,
+      "track": "Dreams"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/248cc9d1-97ea-493e-84d4-4c5ec718683b?inc=releases+artist-credits&fmt=json",
+    "recordingId": "248cc9d1-97ea-493e-84d4-4c5ec718683b",
+    "catalogTitle": "Dreams",
+    "releaseMatches": [],
+    "artistCredits": [
+      "Fleetwood Mac"
+    ],
+    "titleExact": true
+  },
+  {
+    "input": {
+      "artist": "The Cars",
+      "client_recording_id": "ad8dbfc2-5623-47e4-b9b1-cd2b1ae4f065",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "ad8dbfc2-5623-47e4-b9b1-cd2b1ae4f065",
+      "release": "Heartbeat City",
+      "spotify_id": null,
+      "track": "Drive"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/ad8dbfc2-5623-47e4-b9b1-cd2b1ae4f065?inc=releases+artist-credits&fmt=json",
+    "recordingId": "ad8dbfc2-5623-47e4-b9b1-cd2b1ae4f065",
+    "catalogTitle": "Drive",
+    "releaseMatches": [],
+    "artistCredits": [
+      "The Cars"
+    ],
+    "titleExact": true
+  },
+  {
+    "input": {
+      "artist": "Koven, Circadian",
+      "client_recording_id": "035d921d-1105-499b-8a71-7fbb2b27d67d",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "035d921d-1105-499b-8a71-7fbb2b27d67d",
+      "release": "The Outlines",
+      "spotify_id": null,
+      "track": "The Outlines"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/035d921d-1105-499b-8a71-7fbb2b27d67d?inc=releases+artist-credits&fmt=json",
+    "recordingId": "035d921d-1105-499b-8a71-7fbb2b27d67d",
+    "catalogTitle": "The Outlines",
+    "releaseMatches": [
+      [
+        "7e8985d6-967f-4235-9ae9-4f6d82d7ae42",
+        "The Outlines"
+      ]
+    ],
+    "artistCredits": [
+      "Koven",
+      "Circadian"
+    ],
+    "titleExact": true
+  },
+  {
+    "input": {
+      "artist": "SayMaxWell",
+      "client_recording_id": "b38db97b-dec6-4a16-9e66-a242096c32a8",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "b38db97b-dec6-4a16-9e66-a242096c32a8",
+      "release": "Titanium (remix)",
+      "spotify_id": null,
+      "track": "Titanium (remix)"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/b38db97b-dec6-4a16-9e66-a242096c32a8?inc=releases+artist-credits&fmt=json",
+    "recordingId": "b38db97b-dec6-4a16-9e66-a242096c32a8",
+    "catalogTitle": "Titanium (remix)",
+    "releaseMatches": [
+      [
+        "006091d6-84ef-4932-b213-7ef616bfe1ba",
+        "Titanium (remix)"
+      ]
+    ],
+    "artistCredits": [
+      "SayMaxWell"
+    ],
+    "titleExact": true
+  },
+  {
+    "input": {
+      "artist": "The Goo Goo Dolls",
+      "client_recording_id": "4de49ab7-3dd5-4f8e-a1f1-44927fc300c9",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "4de49ab7-3dd5-4f8e-a1f1-44927fc300c9",
+      "release": "Iris (Ligotti Remix)",
+      "spotify_id": null,
+      "track": "Iris (Ligotti Remix)"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/4de49ab7-3dd5-4f8e-a1f1-44927fc300c9?inc=releases+artist-credits&fmt=json",
+    "recordingId": "4de49ab7-3dd5-4f8e-a1f1-44927fc300c9",
+    "catalogTitle": "Iris (Ligotti Remix)",
+    "releaseMatches": [
+      [
+        "7963a935-40a5-40d5-be33-ee9a5eca8a3f",
+        "Iris (Ligotti Remix)"
+      ]
+    ],
+    "artistCredits": [
+      "The Goo Goo Dolls"
+    ],
+    "titleExact": true
+  },
+  {
+    "input": {
+      "artist": "Venjent",
+      "client_recording_id": "19e8ec5d-e42a-45ed-9140-c5355b6e7cd7",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "19e8ec5d-e42a-45ed-9140-c5355b6e7cd7",
+      "release": "Open the Door",
+      "spotify_id": null,
+      "track": "Open the Door"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/19e8ec5d-e42a-45ed-9140-c5355b6e7cd7?inc=releases+artist-credits&fmt=json",
+    "recordingId": "19e8ec5d-e42a-45ed-9140-c5355b6e7cd7",
+    "catalogTitle": "Open the Door",
+    "releaseMatches": [
+      [
+        "a38b400d-7707-4f06-b83d-fdc8ecf5fb9c",
+        "Open the Door"
+      ],
+      [
+        "d0a5fad6-25b7-44be-a1f9-73f5158af78a",
+        "Open the Door"
+      ],
+      [
+        "1620639c-1987-42d7-8daf-a45f3b416c19",
+        "Open the Door"
+      ]
+    ],
+    "artistCredits": [
+      "Venjent"
+    ],
+    "titleExact": true
+  },
+  {
+    "input": {
+      "artist": "George Ezra",
+      "client_recording_id": "7b3a8c39-627f-4a94-844e-3222d6f7f4cb",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "7b3a8c39-627f-4a94-844e-3222d6f7f4cb",
+      "release": "Wanted on Voyage",
+      "spotify_id": null,
+      "track": "Budapest"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/7b3a8c39-627f-4a94-844e-3222d6f7f4cb?inc=releases+artist-credits&fmt=json",
+    "recordingId": "7b3a8c39-627f-4a94-844e-3222d6f7f4cb",
+    "catalogTitle": "Budapest",
+    "releaseMatches": [],
+    "artistCredits": [
+      "George Ezra"
+    ],
+    "titleExact": true
+  },
+  {
+    "input": {
+      "artist": "Elton John",
+      "client_recording_id": "e79541e2-f93d-41eb-8b09-27660f32c2fb",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "e79541e2-f93d-41eb-8b09-27660f32c2fb",
+      "release": "Madman Across the Water",
+      "spotify_id": null,
+      "track": "Tiny Dancer"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/e79541e2-f93d-41eb-8b09-27660f32c2fb?inc=releases+artist-credits&fmt=json",
+    "recordingId": "e79541e2-f93d-41eb-8b09-27660f32c2fb",
+    "catalogTitle": "Tiny Dancer",
+    "releaseMatches": [],
+    "artistCredits": [
+      "Elton John"
+    ],
+    "titleExact": true
+  },
+  {
+    "input": {
+      "artist": "Exyl, Creo",
+      "client_recording_id": "d3247aab-6e9e-4016-8947-156d59a62542",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "d3247aab-6e9e-4016-8947-156d59a62542",
+      "release": "Save This World",
+      "spotify_id": null,
+      "track": "Cosmic War"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/d3247aab-6e9e-4016-8947-156d59a62542?inc=releases+artist-credits&fmt=json",
+    "recordingId": "d3247aab-6e9e-4016-8947-156d59a62542",
+    "catalogTitle": "Cosmic War",
+    "releaseMatches": [
+      [
+        "14e032de-8d02-4181-9fe3-d9a2baec5448",
+        "Save This World"
+      ]
+    ],
+    "artistCredits": [
+      "Exyl",
+      "Creo"
+    ],
+    "titleExact": true
+  },
+  {
+    "input": {
+      "artist": "Guns N’ Roses",
+      "client_recording_id": "159f585a-2c4d-4e26-b4c9-7b3fbb629010",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "159f585a-2c4d-4e26-b4c9-7b3fbb629010",
+      "release": "G N’ R Lies",
+      "spotify_id": null,
+      "track": "Patience"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/159f585a-2c4d-4e26-b4c9-7b3fbb629010?inc=releases+artist-credits&fmt=json",
+    "recordingId": "159f585a-2c4d-4e26-b4c9-7b3fbb629010",
+    "catalogTitle": "Patience",
+    "releaseMatches": [],
+    "artistCredits": [
+      "Guns N’ Roses"
+    ],
+    "titleExact": true
+  },
+  {
+    "input": {
+      "artist": "Cosmograph, LEVEL NINE",
+      "client_recording_id": "d2fc36c0-45ed-4d5c-80c4-bbe3f2c02be7",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "d2fc36c0-45ed-4d5c-80c4-bbe3f2c02be7",
+      "release": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)",
+      "spotify_id": null,
+      "track": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/d2fc36c0-45ed-4d5c-80c4-bbe3f2c02be7?inc=releases+artist-credits&fmt=json",
+    "recordingId": "d2fc36c0-45ed-4d5c-80c4-bbe3f2c02be7",
+    "catalogTitle": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)",
+    "releaseMatches": [
+      [
+        "503963dc-2db0-4317-b4b0-b6e098ebae26",
+        "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)"
+      ]
+    ],
+    "artistCredits": [
+      "Cosmograph",
+      "LEVEL NINE"
+    ],
+    "titleExact": true
+  },
+  {
+    "input": {
+      "artist": "Xilent",
+      "client_recording_id": "fb48bde2-bfc1-4a9c-b231-31296db2b740",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "fb48bde2-bfc1-4a9c-b231-31296db2b740",
+      "release": "Boss Wave",
+      "spotify_id": null,
+      "track": "Boss Wave"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/fb48bde2-bfc1-4a9c-b231-31296db2b740?inc=releases+artist-credits&fmt=json",
+    "recordingId": "fb48bde2-bfc1-4a9c-b231-31296db2b740",
+    "catalogTitle": "Boss Wave",
+    "releaseMatches": [
+      [
+        "db504675-9e45-476a-9037-1161f112dfe2",
+        "Boss Wave"
+      ]
+    ],
+    "artistCredits": [
+      "Xilent"
+    ],
+    "titleExact": true
+  },
+  {
+    "input": {
+      "artist": "Exyl",
+      "client_recording_id": "62c0cac9-0697-4350-b569-bc1714420802",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "62c0cac9-0697-4350-b569-bc1714420802",
+      "release": "Ping! 2",
+      "spotify_id": null,
+      "track": "Ping! 2"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/62c0cac9-0697-4350-b569-bc1714420802?inc=releases+artist-credits&fmt=json",
+    "recordingId": "62c0cac9-0697-4350-b569-bc1714420802",
+    "catalogTitle": "Ping! 2",
+    "releaseMatches": [
+      [
+        "18b53df9-6d2b-4eb8-9dd3-7b5feecfbf33",
+        "Ping! 2"
+      ]
+    ],
+    "artistCredits": [
+      "Exyl"
+    ],
+    "titleExact": true
+  },
+  {
+    "input": {
+      "artist": "Lynyrd Skynyrd",
+      "client_recording_id": "588d1f08-5ac3-47ff-ae31-ec601b2274c4",
+      "isrc": null,
+      "label_tier": "client_id_needs_validation",
+      "mapped_recording_id": "588d1f08-5ac3-47ff-ae31-ec601b2274c4",
+      "release": "The Essential Lynyrd Skynyrd",
+      "spotify_id": null,
+      "track": "Simple Man"
+    },
+    "source": "https://musicbrainz.org/ws/2/recording/588d1f08-5ac3-47ff-ae31-ec601b2274c4?inc=releases+artist-credits&fmt=json",
+    "recordingId": "588d1f08-5ac3-47ff-ae31-ec601b2274c4",
+    "catalogTitle": "Simple Man",
+    "releaseMatches": [
+      [
+        "5d998987-ab6d-4ffc-a5db-255436bb415a",
+        "The Essential Lynyrd Skynyrd"
+      ],
+      [
+        "8bcbcee7-e7d3-4da2-a830-35ba62993032",
+        "The Essential Lynyrd Skynyrd"
+      ]
+    ],
+    "artistCredits": [
+      "Lynyrd Skynyrd"
+    ],
+    "titleExact": true
+  }
+]

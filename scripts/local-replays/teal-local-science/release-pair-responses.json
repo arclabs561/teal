@@ -1,0 +1,797 @@
+{
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22Hello%20Again%22%20AND%20artist%3A%22The%20Cars%22%20AND%20release%3A%22Heartbeat%20City%22&fmt=json&limit=5": {
+    "created": "2026-11-22T17:33:22.415Z",
+    "count": 11,
+    "recordings": [
+      {
+        "id": "a9cbebff-98e1-4a19-a4c7-6348b0a94103",
+        "title": "Hello Again",
+        "score": 100,
+        "releaseIds": [
+          "5b234289-5678-4b35-b4f6-03ca8dec844c"
+        ]
+      },
+      {
+        "id": "24582ce1-f1fd-4fc8-a807-0a5c70598633",
+        "title": "Hello Again",
+        "score": 100,
+        "releaseIds": [
+          "eb5e0dfb-bdd4-48e8-be6d-fa980d647051"
+        ]
+      },
+      {
+        "id": "d5bc5d09-b4fd-42a9-9569-c08d9f6fc6d7",
+        "title": "Hello Again",
+        "score": 95,
+        "releaseIds": [
+          "19c1bbaa-e2ae-4db4-a7c5-c35bf0490af2",
+          "60ba5f86-ea95-4afb-997b-af6de963a70d",
+          "1cf9057e-541e-4911-ae3d-7c84837f4b46",
+          "eb5e0dfb-bdd4-48e8-be6d-fa980d647051",
+          "09517abb-d05b-43bd-a91c-76831d2689f0"
+        ]
+      },
+      {
+        "id": "370d9e9f-526c-44c9-ac62-a8a8c590797e",
+        "title": "Hello Again (live)",
+        "score": 91,
+        "releaseIds": [
+          "bc42788a-f71d-4582-934a-9ae42a6149ad"
+        ]
+      },
+      {
+        "id": "1b607d05-839d-481c-a548-eb8c03825722",
+        "title": "Hello Again (early mix)",
+        "score": 88,
+        "releaseIds": [
+          "09517abb-d05b-43bd-a91c-76831d2689f0",
+          "eb5e0dfb-bdd4-48e8-be6d-fa980d647051"
+        ]
+      }
+    ]
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22Hello%20Again%22%20AND%20artist%3A%22The%20Cars%22%20AND%20reid%3Ad28cb978-e649-4aa3-9af5-8210cb4adbb8&fmt=json&limit=5": {
+    "created": "2026-11-22T17:33:25.371Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "5fb2d11b-f88b-4e8d-be59-61c2f485de54",
+        "title": "Hello Again",
+        "score": 100,
+        "releaseIds": [
+          "f9488936-6a84-412f-8565-7c0b9e448e8a",
+          "389af5c3-f4b4-4086-b799-90efe7a22ae4",
+          "1cf9057e-541e-4911-ae3d-7c84837f4b46",
+          "09517abb-d05b-43bd-a91c-76831d2689f0",
+          "09517abb-d05b-43bd-a91c-76831d2689f0",
+          "60ba5f86-ea95-4afb-997b-af6de963a70d",
+          "eb5e0dfb-bdd4-48e8-be6d-fa980d647051",
+          "eb5e0dfb-bdd4-48e8-be6d-fa980d647051",
+          "968325ab-1874-4760-b2da-eaf026c071b4",
+          "37322005-143c-443c-ae31-53cdc860bcdf",
+          "9acbb8ab-1c21-4cb4-8e89-30b88b4d749d",
+          "4e9b492e-fb54-4229-9270-a14385be7a34",
+          "07363b26-b70e-4116-8267-6ec0927e10bb",
+          "99d6eaee-7703-4729-98b4-6a14cb34e731",
+          "62132981-c5f2-4e4e-979e-03ec8a8ef7c3",
+          "c57121d1-6a29-4188-99e0-8fc887f6cfc6",
+          "371e2d3a-0b8b-4aab-bf71-5fffb1213ea7",
+          "3596ff03-07cc-413d-b98a-f091747b7319",
+          "f43996d5-b160-41a9-810d-1205e6c3aaf3",
+          "a2f32fa8-2972-48fc-a277-7bda2809a53d",
+          "3de73383-e3f9-4f67-ba5d-01cd0d5f796b",
+          "34078cf6-d093-42a1-a457-9f4d9c0dcea5",
+          "7fe92905-60e8-43c0-8385-6fdfa96a5eb2",
+          "44f02186-b57d-4e57-b7f8-f05b2089fa06",
+          "d94edb6f-bfd0-4203-8789-60c462a90f84",
+          "0862adf2-8bca-41f0-b735-afea5d2ad75f",
+          "9a122f16-8618-4304-8bb8-d3f310a79883",
+          "8c9b2f62-ee63-4f88-a6f9-fba85db37645",
+          "304bbdae-91e4-4553-8ba4-6a599be551d5",
+          "9d5db8fc-c986-4b5a-8461-1fbb611ac5c2",
+          "6918a7e2-2acf-4c1e-a329-75e5865728f0",
+          "a09d7819-b182-4d67-80a7-5add78abf9dc",
+          "53ce5ec9-ded8-4bd7-9f41-798f47597ecb",
+          "8202a5cd-9f20-4bdf-a3b3-5ac649f58d0f",
+          "9e3f25d3-1358-4863-91b8-32af75a43bf4",
+          "3002f0d5-72a6-4feb-8fc0-004f4a61bace",
+          "73878d4a-1f4e-4b98-b478-bd30089d1a71",
+          "b9369d77-b76e-4b02-a95f-cca791204883",
+          "7cced291-3c35-41b8-86e1-be1a74a9f6a4",
+          "a2fbfaba-3826-4a5c-b06a-08b1de9685a9",
+          "409acff5-bda7-40da-b649-e303c6c6fb70",
+          "277fd638-e56a-4a8f-9e5c-6934835e385a",
+          "9a8d3c38-97e4-41f3-8e8d-821660342505",
+          "1a6d0279-9f5e-448d-999a-5fea6615c8e9",
+          "8ccbe1aa-4620-4f93-a8bd-c794fbb88f75",
+          "cd2b7b02-5cf1-420b-b655-940a1982054a",
+          "511d1587-8483-4ea4-bc5b-d704d8eec087",
+          "b8f32a59-8853-48fc-8ced-e03be15c06bd",
+          "e90907dd-e7d8-43ca-9998-fc8d15aa549d",
+          "cf9b70f7-41ec-4f55-9ed1-47aad06ce855",
+          "dfffe292-3976-4bf1-8159-d7d3c7ee8fd3",
+          "589545a8-8b6a-4d24-ba51-b46b4ba11cf6",
+          "fa80db52-ea2b-3b9d-9c3b-fe62f515eb1d",
+          "df07423a-2566-315f-bc4f-640c754bdd09",
+          "bc8ebbad-3380-4c6b-ac02-2ec147d09bea",
+          "d9c6b754-923c-4f3e-81f0-9a64f923e27f",
+          "8c3970ab-fd00-4098-8605-4c8cdb98bdf8",
+          "82db403e-e66c-4110-829c-db317bfd669f",
+          "9c01416f-03f4-4611-bee8-49734e1d5c12",
+          "d28cb978-e649-4aa3-9af5-8210cb4adbb8",
+          "1db10f80-d959-45fe-ae6c-e44916e0c9f9",
+          "1ba7a7e6-052d-42e4-bd78-56f33c2c958a",
+          "c826c51f-658a-4574-b694-35c7c3676456",
+          "878c9674-871d-47d7-a942-e6a893403f02",
+          "d94edb6f-bfd0-4203-8789-60c462a90f84"
+        ]
+      }
+    ],
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?fmt=json&limit=5&query=title%3A%22Hello%20Again%22%20AND%20artist%3A%22The%20Cars%22%20AND%20reid%3Ad28cb978-e649-4aa3-9af5-8210cb4adbb8",
+    "firstAttemptUnavailable": "Unterminated string in JSON at position 160000 (line 1 column 160001)"
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22I%20Refuse%22%20AND%20artist%3A%22The%20Cars%22%20AND%20reid%3Ad28cb978-e649-4aa3-9af5-8210cb4adbb8&fmt=json&limit=5": {
+    "created": "2026-11-22T17:34:51.514Z",
+    "count": 2,
+    "recordings": [
+      {
+        "id": "da31ef21-ddf8-4cb7-8b88-f5174afbb92e",
+        "title": "I Refuse",
+        "score": 100,
+        "releaseIds": [
+          "f9488936-6a84-412f-8565-7c0b9e448e8a",
+          "60ba5f86-ea95-4afb-997b-af6de963a70d",
+          "09517abb-d05b-43bd-a91c-76831d2689f0",
+          "eb5e0dfb-bdd4-48e8-be6d-fa980d647051",
+          "eb5e0dfb-bdd4-48e8-be6d-fa980d647051",
+          "968325ab-1874-4760-b2da-eaf026c071b4",
+          "37322005-143c-443c-ae31-53cdc860bcdf",
+          "9acbb8ab-1c21-4cb4-8e89-30b88b4d749d",
+          "99d6eaee-7703-4729-98b4-6a14cb34e731",
+          "c57121d1-6a29-4188-99e0-8fc887f6cfc6",
+          "f43996d5-b160-41a9-810d-1205e6c3aaf3",
+          "3de73383-e3f9-4f67-ba5d-01cd0d5f796b",
+          "7fe92905-60e8-43c0-8385-6fdfa96a5eb2",
+          "44f02186-b57d-4e57-b7f8-f05b2089fa06",
+          "d94edb6f-bfd0-4203-8789-60c462a90f84",
+          "0862adf2-8bca-41f0-b735-afea5d2ad75f",
+          "6918a7e2-2acf-4c1e-a329-75e5865728f0",
+          "304bbdae-91e4-4553-8ba4-6a599be551d5",
+          "9a122f16-8618-4304-8bb8-d3f310a79883",
+          "8c9b2f62-ee63-4f88-a6f9-fba85db37645",
+          "9d5db8fc-c986-4b5a-8461-1fbb611ac5c2",
+          "1db10f80-d959-45fe-ae6c-e44916e0c9f9",
+          "a09d7819-b182-4d67-80a7-5add78abf9dc",
+          "9e3f25d3-1358-4863-91b8-32af75a43bf4",
+          "277fd638-e56a-4a8f-9e5c-6934835e385a",
+          "9a8d3c38-97e4-41f3-8e8d-821660342505",
+          "dfffe292-3976-4bf1-8159-d7d3c7ee8fd3",
+          "fa80db52-ea2b-3b9d-9c3b-fe62f515eb1d",
+          "df07423a-2566-315f-bc4f-640c754bdd09",
+          "82db403e-e66c-4110-829c-db317bfd669f",
+          "7b569a21-8d3e-4028-bb89-1f6401e6c5ff",
+          "9c01416f-03f4-4611-bee8-49734e1d5c12",
+          "d28cb978-e649-4aa3-9af5-8210cb4adbb8",
+          "8c3970ab-fd00-4098-8605-4c8cdb98bdf8",
+          "1ba7a7e6-052d-42e4-bd78-56f33c2c958a",
+          "589545a8-8b6a-4d24-ba51-b46b4ba11cf6",
+          "c826c51f-658a-4574-b694-35c7c3676456",
+          "878c9674-871d-47d7-a942-e6a893403f02",
+          "d94edb6f-bfd0-4203-8789-60c462a90f84"
+        ]
+      },
+      {
+        "id": "966a0eec-96e1-41c8-828f-459d2b5cceb5",
+        "title": "Magic",
+        "score": 47,
+        "releaseIds": [
+          "fc0d10ff-b761-4204-9db1-e06867476e97",
+          "eac1b4e1-c733-4592-b2c3-81b8228e6a30",
+          "f9488936-6a84-412f-8565-7c0b9e448e8a",
+          "ae46646e-420d-4c90-9c45-b9f227b9a9fc",
+          "71d67145-ed68-483c-9ee9-dfc0f05d9c16",
+          "1cf9057e-541e-4911-ae3d-7c84837f4b46",
+          "09517abb-d05b-43bd-a91c-76831d2689f0",
+          "60ba5f86-ea95-4afb-997b-af6de963a70d",
+          "09517abb-d05b-43bd-a91c-76831d2689f0",
+          "a9ae648a-25fd-477a-98b1-f16949e32898",
+          "eb5e0dfb-bdd4-48e8-be6d-fa980d647051",
+          "eb5e0dfb-bdd4-48e8-be6d-fa980d647051",
+          "e85083b8-fc81-4866-b854-df14eb44078f",
+          "968325ab-1874-4760-b2da-eaf026c071b4",
+          "37322005-143c-443c-ae31-53cdc860bcdf",
+          "91f9143c-0ea9-47b3-bbbd-67487de3c3e9",
+          "7782b103-6cca-4695-962a-104e3158928f",
+          "c1502f46-525a-43c2-a74d-fb3fd8174e5f",
+          "b8245222-71bc-4e0a-9c6e-a771f5d097b4",
+          "b57510fb-e1d5-44a5-87e7-036e9e215cf7",
+          "a65732ed-ba45-47f8-933a-7528d7466f13",
+          "d4912a5a-a158-46bd-94de-164b9ad8fe5e",
+          "68093ddb-a131-4674-b8c3-36f7b31417b7",
+          "79aa8f27-70d4-4f01-b128-f3f0bd55a031",
+          "cc4cfa74-5a80-487e-8c60-c993a87003d4",
+          "fbbfddd0-5a64-4883-ac94-2c8ac92a892f",
+          "9acbb8ab-1c21-4cb4-8e89-30b88b4d749d",
+          "4c8ea2e3-8314-4732-853d-72ace3c64462",
+          "99d6eaee-7703-4729-98b4-6a14cb34e731",
+          "6e7c7f0c-0ab0-40de-a5d3-32cf8c92adbc",
+          "98c02af9-99b8-4828-beaf-6480e59e2757",
+          "c57121d1-6a29-4188-99e0-8fc887f6cfc6",
+          "371e2d3a-0b8b-4aab-bf71-5fffb1213ea7",
+          "f43996d5-b160-41a9-810d-1205e6c3aaf3",
+          "a2f32fa8-2972-48fc-a277-7bda2809a53d",
+          "3de73383-e3f9-4f67-ba5d-01cd0d5f796b",
+          "7fe92905-60e8-43c0-8385-6fdfa96a5eb2",
+          "6d7cd225-aba1-4549-b31b-62244d19dd47",
+          "44f02186-b57d-4e57-b7f8-f05b2089fa06",
+          "20c265c6-18cc-439e-85b2-ef255b0da820",
+          "d94edb6f-bfd0-4203-8789-60c462a90f84",
+          "d8ca8afc-f73d-4b10-924b-39bf7cc7ebf8",
+          "719a571d-18f7-4910-8129-00ec7c1344d2",
+          "0862adf2-8bca-41f0-b735-afea5d2ad75f",
+          "9a122f16-8618-4304-8bb8-d3f310a79883",
+          "8c9b2f62-ee63-4f88-a6f9-fba85db37645",
+          "304bbdae-91e4-4553-8ba4-6a599be551d5",
+          "9d5db8fc-c986-4b5a-8461-1fbb611ac5c2",
+          "1db10f80-d959-45fe-ae6c-e44916e0c9f9",
+          "c50bedc2-63a6-44d6-a27d-67ead7dc1c7b",
+          "432f6da0-cfd7-3432-9ea1-5a37b42ac078",
+          "9555f76c-d376-3752-a59c-d7273ff86870",
+          "38bb3960-8bb7-4a13-9c27-4c9da356cdf7",
+          "9452b4f6-df3b-4256-ae4c-cf4ddbe5e741",
+          "6918a7e2-2acf-4c1e-a329-75e5865728f0",
+          "a09d7819-b182-4d67-80a7-5add78abf9dc",
+          "db908a9e-1f95-42a8-8518-625e0d79f0f2",
+          "53ce5ec9-ded8-4bd7-9f41-798f47597ecb",
+          "8202a5cd-9f20-4bdf-a3b3-5ac649f58d0f",
+          "9e3f25d3-1358-4863-91b8-32af75a43bf4",
+          "3002f0d5-72a6-4feb-8fc0-004f4a61bace",
+          "8ccbe1aa-4620-4f93-a8bd-c794fbb88f75",
+          "67eee74d-42c0-46d2-8fc7-b5305c62b9a8",
+          "7b569a21-8d3e-4028-bb89-1f6401e6c5ff",
+          "3596ff03-07cc-413d-b98a-f091747b7319",
+          "cd2b7b02-5cf1-420b-b655-940a1982054a",
+          "924d932a-d879-46a4-8ffa-514e9a9fc140",
+          "409acff5-bda7-40da-b649-e303c6c6fb70",
+          "73878d4a-1f4e-4b98-b478-bd30089d1a71",
+          "b9369d77-b76e-4b02-a95f-cca791204883",
+          "7cced291-3c35-41b8-86e1-be1a74a9f6a4",
+          "26a9ce6b-9dbd-42f7-a617-7efa0794411c",
+          "a2fbfaba-3826-4a5c-b06a-08b1de9685a9",
+          "277fd638-e56a-4a8f-9e5c-6934835e385a",
+          "9a8d3c38-97e4-41f3-8e8d-821660342505",
+          "f8af0572-fb49-46e8-8adb-17d16512f24a",
+          "b9586ecf-5073-4bed-975f-3a08f27f3c2f",
+          "cf9b70f7-41ec-4f55-9ed1-47aad06ce855",
+          "dfffe292-3976-4bf1-8159-d7d3c7ee8fd3",
+          "fa80db52-ea2b-3b9d-9c3b-fe62f515eb1d",
+          "df07423a-2566-315f-bc4f-640c754bdd09",
+          "d1afd0d9-b57d-4465-a8d0-672dd95dbad0",
+          "46dacb2c-89b4-4e58-9ac6-84a243bf7692",
+          "511d1587-8483-4ea4-bc5b-d704d8eec087",
+          "8c3970ab-fd00-4098-8605-4c8cdb98bdf8",
+          "90160b61-0563-44dc-9c30-abf2d4b5dbe9",
+          "82db403e-e66c-4110-829c-db317bfd669f",
+          "cc0c3114-294b-41cb-9f07-beac27f7dad1",
+          "a7d90b1d-20bd-4d53-a0a4-3572fc95ff6e",
+          "9c01416f-03f4-4611-bee8-49734e1d5c12",
+          "d28cb978-e649-4aa3-9af5-8210cb4adbb8",
+          "1ba7a7e6-052d-42e4-bd78-56f33c2c958a",
+          "bc8ebbad-3380-4c6b-ac02-2ec147d09bea",
+          "589545a8-8b6a-4d24-ba51-b46b4ba11cf6",
+          "3747052e-23d1-4158-a6a2-4ae0f262c32b",
+          "c826c51f-658a-4574-b694-35c7c3676456",
+          "878c9674-871d-47d7-a942-e6a893403f02",
+          "d94edb6f-bfd0-4203-8789-60c462a90f84",
+          "8a04ac57-8610-4d3f-8ea1-15401e028491"
+        ]
+      }
+    ],
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?fmt=json&limit=5&query=title%3A%22I%20Refuse%22%20AND%20artist%3A%22The%20Cars%22%20AND%20reid%3Ad28cb978-e649-4aa3-9af5-8210cb4adbb8",
+    "firstAttemptUnavailable": "Error fetching URL(s): https://musicbrainz.org/ws/2/recording?query=title%3A%22I%20Refuse%22%20AND%20artist%3A%22The%20Cars%22%20AND%20reid%3Ad28cb978-e649-4aa3-9af5-8210cb4adbb8&fmt=json&limit=5: CRAWL_HTTP_503"
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22I%20Refuse%22%20AND%20artist%3A%22The%20Cars%22%20AND%20release%3A%22Heartbeat%20City%22&fmt=json&limit=5": {
+    "created": "2026-11-22T17:33:31.505Z",
+    "count": 6,
+    "recordings": [
+      {
+        "id": "9e990480-a0d1-4eee-b653-e562081d5655",
+        "title": "I Refuse",
+        "score": 100,
+        "releaseIds": [
+          "09517abb-d05b-43bd-a91c-76831d2689f0",
+          "1cf9057e-541e-4911-ae3d-7c84837f4b46"
+        ]
+      },
+      {
+        "id": "b8106021-dd90-404b-9e15-62ecd9166a11",
+        "title": "Baby I Refuse (early version of “I Refuse”)",
+        "score": 91,
+        "releaseIds": [
+          "60ba5f86-ea95-4afb-997b-af6de963a70d",
+          "1cf9057e-541e-4911-ae3d-7c84837f4b46",
+          "eb5e0dfb-bdd4-48e8-be6d-fa980d647051",
+          "9acbb8ab-1c21-4cb4-8e89-30b88b4d749d",
+          "3de73383-e3f9-4f67-ba5d-01cd0d5f796b",
+          "0862adf2-8bca-41f0-b735-afea5d2ad75f",
+          "304bbdae-91e4-4553-8ba4-6a599be551d5"
+        ]
+      },
+      {
+        "id": "a8c177d5-b787-48ab-aeba-16c221ef18be",
+        "title": "Baby I Refuse (early version of “I Refuse”)",
+        "score": 91,
+        "releaseIds": [
+          "09517abb-d05b-43bd-a91c-76831d2689f0"
+        ]
+      },
+      {
+        "id": "6003a701-2892-4989-987a-8ee5d2a16930",
+        "title": "I Refuse (early mix)",
+        "score": 88,
+        "releaseIds": [
+          "60ba5f86-ea95-4afb-997b-af6de963a70d",
+          "1cf9057e-541e-4911-ae3d-7c84837f4b46",
+          "09517abb-d05b-43bd-a91c-76831d2689f0",
+          "eb5e0dfb-bdd4-48e8-be6d-fa980d647051"
+        ]
+      },
+      {
+        "id": "da31ef21-ddf8-4cb7-8b88-f5174afbb92e",
+        "title": "I Refuse",
+        "score": 87,
+        "releaseIds": [
+          "f9488936-6a84-412f-8565-7c0b9e448e8a",
+          "60ba5f86-ea95-4afb-997b-af6de963a70d",
+          "09517abb-d05b-43bd-a91c-76831d2689f0",
+          "eb5e0dfb-bdd4-48e8-be6d-fa980d647051",
+          "eb5e0dfb-bdd4-48e8-be6d-fa980d647051",
+          "968325ab-1874-4760-b2da-eaf026c071b4",
+          "37322005-143c-443c-ae31-53cdc860bcdf",
+          "9acbb8ab-1c21-4cb4-8e89-30b88b4d749d",
+          "99d6eaee-7703-4729-98b4-6a14cb34e731",
+          "c57121d1-6a29-4188-99e0-8fc887f6cfc6",
+          "f43996d5-b160-41a9-810d-1205e6c3aaf3",
+          "3de73383-e3f9-4f67-ba5d-01cd0d5f796b",
+          "7fe92905-60e8-43c0-8385-6fdfa96a5eb2",
+          "44f02186-b57d-4e57-b7f8-f05b2089fa06",
+          "d94edb6f-bfd0-4203-8789-60c462a90f84",
+          "0862adf2-8bca-41f0-b735-afea5d2ad75f",
+          "6918a7e2-2acf-4c1e-a329-75e5865728f0",
+          "304bbdae-91e4-4553-8ba4-6a599be551d5",
+          "9a122f16-8618-4304-8bb8-d3f310a79883",
+          "8c9b2f62-ee63-4f88-a6f9-fba85db37645",
+          "9d5db8fc-c986-4b5a-8461-1fbb611ac5c2",
+          "1db10f80-d959-45fe-ae6c-e44916e0c9f9",
+          "a09d7819-b182-4d67-80a7-5add78abf9dc",
+          "9e3f25d3-1358-4863-91b8-32af75a43bf4",
+          "277fd638-e56a-4a8f-9e5c-6934835e385a",
+          "9a8d3c38-97e4-41f3-8e8d-821660342505",
+          "dfffe292-3976-4bf1-8159-d7d3c7ee8fd3",
+          "fa80db52-ea2b-3b9d-9c3b-fe62f515eb1d",
+          "df07423a-2566-315f-bc4f-640c754bdd09",
+          "82db403e-e66c-4110-829c-db317bfd669f",
+          "7b569a21-8d3e-4028-bb89-1f6401e6c5ff",
+          "9c01416f-03f4-4611-bee8-49734e1d5c12",
+          "d28cb978-e649-4aa3-9af5-8210cb4adbb8",
+          "8c3970ab-fd00-4098-8605-4c8cdb98bdf8",
+          "1ba7a7e6-052d-42e4-bd78-56f33c2c958a",
+          "589545a8-8b6a-4d24-ba51-b46b4ba11cf6",
+          "c826c51f-658a-4574-b694-35c7c3676456",
+          "878c9674-871d-47d7-a942-e6a893403f02",
+          "d94edb6f-bfd0-4203-8789-60c462a90f84"
+        ]
+      }
+    ]
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22Everybody%20Loves%20You%20When%20You%E2%80%99re%20Dead%22%20AND%20artist%3A%22The%20Stranglers%22%20AND%20release%3A%22La%20Folie%22&fmt=json&limit=5": {
+    "created": "2026-11-22T17:34:55.764Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "c6353065-ec10-464d-988b-e6839f546c89",
+        "title": "Everybody Loves You When You’re Dead",
+        "score": 100,
+        "releaseIds": [
+          "c6911b3b-135f-4b7b-a2cc-b90ea1e11ac9",
+          "7137733e-19fe-4819-a6c4-5c2cb7736f5a",
+          "ea375ed0-7e61-47d3-a7b2-adedb1991036",
+          "e2a83950-b7c0-4f1e-b06e-00c7b0d36b38",
+          "cb635cb1-39bf-4a41-b1dc-d0bf140e2a4e",
+          "55d3f6df-2337-4a1b-bd60-79bb04710c50",
+          "ab823aee-8f6e-4053-8a34-88858743e53c",
+          "c3b5297d-9c45-4f65-9e62-66b38b9cc8b8",
+          "b9280e34-ae69-4f88-9f6c-c88f7ce08824",
+          "396ca6ab-2308-4d97-8f80-c44633ca5cd4",
+          "27e4dc8e-be22-4c30-9aab-a016a8fe44c2",
+          "c22ca7eb-f5ad-4c15-b001-7985d6bcd9ee"
+        ]
+      }
+    ],
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?fmt=json&limit=5&query=title%3A%22Everybody%20Loves%20You%20When%20You%E2%80%99re%20Dead%22%20AND%20artist%3A%22The%20Stranglers%22%20AND%20release%3A%22La%20Folie%22",
+    "firstAttemptUnavailable": "Error fetching URL(s): https://musicbrainz.org/ws/2/recording?query=title%3A%22Everybody%20Loves%20You%20When%20You%E2%80%99re%20Dead%22%20AND%20artist%3A%22The%20Stranglers%22%20AND%20release%3A%22La%20Folie%22&fmt=json&limit=5: CRAWL_HTTP_503"
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22Everybody%20Loves%20You%20When%20You%E2%80%99re%20Dead%22%20AND%20artist%3A%22The%20Stranglers%22%20AND%20reid%3Aab823aee-8f6e-4053-8a34-88858743e53c&fmt=json&limit=5": {
+    "created": "2026-11-22T17:33:37.544Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "c6353065-ec10-464d-988b-e6839f546c89",
+        "title": "Everybody Loves You When You’re Dead",
+        "score": 100,
+        "releaseIds": [
+          "c6911b3b-135f-4b7b-a2cc-b90ea1e11ac9",
+          "7137733e-19fe-4819-a6c4-5c2cb7736f5a",
+          "ea375ed0-7e61-47d3-a7b2-adedb1991036",
+          "e2a83950-b7c0-4f1e-b06e-00c7b0d36b38",
+          "cb635cb1-39bf-4a41-b1dc-d0bf140e2a4e",
+          "55d3f6df-2337-4a1b-bd60-79bb04710c50",
+          "ab823aee-8f6e-4053-8a34-88858743e53c",
+          "c3b5297d-9c45-4f65-9e62-66b38b9cc8b8",
+          "b9280e34-ae69-4f88-9f6c-c88f7ce08824",
+          "396ca6ab-2308-4d97-8f80-c44633ca5cd4",
+          "27e4dc8e-be22-4c30-9aab-a016a8fe44c2",
+          "c22ca7eb-f5ad-4c15-b001-7985d6bcd9ee"
+        ]
+      }
+    ]
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22Pin%20Up%22%20AND%20artist%3A%22The%20Stranglers%22%20AND%20reid%3Aab823aee-8f6e-4053-8a34-88858743e53c&fmt=json&limit=5": {
+    "created": "2026-11-22T17:35:39.758Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "f41bfc5b-e967-489a-ad3a-b776fdb53533",
+        "title": "Pin Up",
+        "score": 100,
+        "releaseIds": [
+          "c6911b3b-135f-4b7b-a2cc-b90ea1e11ac9",
+          "7137733e-19fe-4819-a6c4-5c2cb7736f5a",
+          "ea375ed0-7e61-47d3-a7b2-adedb1991036",
+          "e2a83950-b7c0-4f1e-b06e-00c7b0d36b38",
+          "cb635cb1-39bf-4a41-b1dc-d0bf140e2a4e",
+          "c3b5297d-9c45-4f65-9e62-66b38b9cc8b8",
+          "b9280e34-ae69-4f88-9f6c-c88f7ce08824",
+          "396ca6ab-2308-4d97-8f80-c44633ca5cd4",
+          "27e4dc8e-be22-4c30-9aab-a016a8fe44c2",
+          "c22ca7eb-f5ad-4c15-b001-7985d6bcd9ee",
+          "55d3f6df-2337-4a1b-bd60-79bb04710c50",
+          "ab823aee-8f6e-4053-8a34-88858743e53c"
+        ]
+      }
+    ],
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?limit=5&query=title%3A%22Pin%20Up%22%20AND%20artist%3A%22The%20Stranglers%22%20AND%20reid%3Aab823aee-8f6e-4053-8a34-88858743e53c&fmt=json",
+    "firstAttemptUnavailable": "Error fetching URL(s): https://musicbrainz.org/ws/2/recording?query=title%3A%22Pin%20Up%22%20AND%20artist%3A%22The%20Stranglers%22%20AND%20reid%3Aab823aee-8f6e-4053-8a34-88858743e53c&fmt=json&limit=5: CRAWL_HTTP_503",
+    "secondAttemptUnavailable": "Error fetching URL(s): https://musicbrainz.org/ws/2/recording?fmt=json&limit=5&query=title%3A%22Pin%20Up%22%20AND%20artist%3A%22The%20Stranglers%22%20AND%20reid%3Aab823aee-8f6e-4053-8a34-88858743e53c: CRAWL_HTTP_503"
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22Pin%20Up%22%20AND%20artist%3A%22The%20Stranglers%22%20AND%20release%3A%22La%20Folie%22&fmt=json&limit=5": {
+    "created": "2026-11-22T17:33:43.337Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "f41bfc5b-e967-489a-ad3a-b776fdb53533",
+        "title": "Pin Up",
+        "score": 100,
+        "releaseIds": [
+          "c6911b3b-135f-4b7b-a2cc-b90ea1e11ac9",
+          "7137733e-19fe-4819-a6c4-5c2cb7736f5a",
+          "ea375ed0-7e61-47d3-a7b2-adedb1991036",
+          "e2a83950-b7c0-4f1e-b06e-00c7b0d36b38",
+          "cb635cb1-39bf-4a41-b1dc-d0bf140e2a4e",
+          "c3b5297d-9c45-4f65-9e62-66b38b9cc8b8",
+          "b9280e34-ae69-4f88-9f6c-c88f7ce08824",
+          "396ca6ab-2308-4d97-8f80-c44633ca5cd4",
+          "27e4dc8e-be22-4c30-9aab-a016a8fe44c2",
+          "c22ca7eb-f5ad-4c15-b001-7985d6bcd9ee",
+          "55d3f6df-2337-4a1b-bd60-79bb04710c50",
+          "ab823aee-8f6e-4053-8a34-88858743e53c"
+        ]
+      }
+    ]
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sorry%22%20AND%20artist%3A%22R%C3%B6yksopp%20feat.%20Jamie%20Irrepressible%22%20AND%20release%3A%22Profound%20Mysteries%20II%22&fmt=json&limit=5": {
+    "created": "2026-11-22T17:33:46.568Z",
+    "count": 0,
+    "recordings": []
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sorry%22%20AND%20artist%3A%22R%C3%B6yksopp%20feat.%20Jamie%20Irrepressible%22%20AND%20reid%3Ae96c2e7b-94fd-4fbe-9c44-1a27d8664825&fmt=json&limit=5": {
+    "created": "2026-11-22T17:33:49.430Z",
+    "count": 0,
+    "recordings": []
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22Let%E2%80%99s%20Get%20It%20Right%22%20AND%20artist%3A%22R%C3%B6yksopp%20feat.%20Astrid%20S%22%20AND%20reid%3Ae96c2e7b-94fd-4fbe-9c44-1a27d8664825&fmt=json&limit=5": {
+    "created": "2026-11-22T17:33:52.548Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+        "title": "Let’s Get It Right",
+        "score": 100,
+        "releaseIds": [
+          "1e79e484-8528-44dc-93e5-c88af5b51f06",
+          "0e38c670-cc66-4269-b4ff-ab887763083c",
+          "b60089b2-3b1c-4702-a002-404552ea4659",
+          "430736cf-4414-440d-93ec-b22a25089c34",
+          "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+          "f1418001-7f1e-46af-bfdb-95faeded8841"
+        ]
+      }
+    ]
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22Let%E2%80%99s%20Get%20It%20Right%22%20AND%20artist%3A%22R%C3%B6yksopp%20feat.%20Astrid%20S%22%20AND%20release%3A%22Profound%20Mysteries%20II%22&fmt=json&limit=5": {
+    "created": "2026-11-22T17:33:55.461Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+        "title": "Let’s Get It Right",
+        "score": 100,
+        "releaseIds": [
+          "1e79e484-8528-44dc-93e5-c88af5b51f06",
+          "0e38c670-cc66-4269-b4ff-ab887763083c",
+          "b60089b2-3b1c-4702-a002-404552ea4659",
+          "430736cf-4414-440d-93ec-b22a25089c34",
+          "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+          "f1418001-7f1e-46af-bfdb-95faeded8841"
+        ]
+      }
+    ]
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22H%C3%A1blame%22%20AND%20artist%3A%22B-Tribe%22%20AND%20release%3A%22Sensual%20Sensual%22&fmt=json&limit=5": {
+    "created": "2026-11-22T17:33:57.830Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "affdd631-e955-4bb1-b25a-a4f11ce143b0",
+        "title": "Háblame",
+        "score": 100,
+        "releaseIds": [
+          "4602230d-6163-49fe-9f28-332f178baebe",
+          "aeabd822-e0c6-42a6-bbac-1adb1cbcf59c",
+          "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+          "ed260926-1ab6-408e-8686-d474485bfbf8"
+        ]
+      }
+    ]
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22H%C3%A1blame%22%20AND%20artist%3A%22B-Tribe%22%20AND%20reid%3Aac791926-0b31-43e0-bba6-805eb7a05ebc&fmt=json&limit=5": {
+    "created": "2026-11-22T17:35:01.580Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "affdd631-e955-4bb1-b25a-a4f11ce143b0",
+        "title": "Háblame",
+        "score": 100,
+        "releaseIds": [
+          "4602230d-6163-49fe-9f28-332f178baebe",
+          "aeabd822-e0c6-42a6-bbac-1adb1cbcf59c",
+          "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+          "ed260926-1ab6-408e-8686-d474485bfbf8"
+        ]
+      }
+    ],
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?fmt=json&limit=5&query=title%3A%22H%C3%A1blame%22%20AND%20artist%3A%22B-Tribe%22%20AND%20reid%3Aac791926-0b31-43e0-bba6-805eb7a05ebc",
+    "firstAttemptUnavailable": "Error fetching URL(s): https://musicbrainz.org/ws/2/recording?query=title%3A%22H%C3%A1blame%22%20AND%20artist%3A%22B-Tribe%22%20AND%20reid%3Aac791926-0b31-43e0-bba6-805eb7a05ebc&fmt=json&limit=5: CRAWL_HTTP_503"
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22Zapateado%22%20AND%20artist%3A%22B-Tribe%22%20AND%20reid%3Aac791926-0b31-43e0-bba6-805eb7a05ebc&fmt=json&limit=5": {
+    "created": "2026-11-22T17:34:03.510Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "584d20cf-50a9-4742-9f10-b1d00134598b",
+        "title": "Zapateado",
+        "score": 100,
+        "releaseIds": [
+          "934910f3-81a8-44e4-9f5b-015de75410f5",
+          "4602230d-6163-49fe-9f28-332f178baebe",
+          "ac791926-0b31-43e0-bba6-805eb7a05ebc"
+        ]
+      }
+    ]
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22Zapateado%22%20AND%20artist%3A%22B-Tribe%22%20AND%20release%3A%22Sensual%20Sensual%22&fmt=json&limit=5": {
+    "created": "2026-11-22T17:34:05.844Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "584d20cf-50a9-4742-9f10-b1d00134598b",
+        "title": "Zapateado",
+        "score": 100,
+        "releaseIds": [
+          "934910f3-81a8-44e4-9f5b-015de75410f5",
+          "4602230d-6163-49fe-9f28-332f178baebe",
+          "ac791926-0b31-43e0-bba6-805eb7a05ebc"
+        ]
+      }
+    ]
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8F%E3%81%A6%22%20AND%20artist%3A%22Ado%22%20AND%20release%3A%22%E7%8B%82%E8%A8%80%22&fmt=json&limit=5": {
+    "created": "2026-11-22T17:34:09.409Z",
+    "count": 2,
+    "recordings": [
+      {
+        "id": "f947884b-5d84-47c2-827f-3396e0f590ad",
+        "title": "会いたくて",
+        "score": 100,
+        "releaseIds": [
+          "f55654fa-fa15-4eb5-8709-56b5047b3629",
+          "652831c6-04d2-4571-bdbe-4a6af088547a"
+        ]
+      },
+      {
+        "id": "ab7a42e2-c477-44e6-8cc7-056f8f8b10a5",
+        "title": "会いたくて",
+        "score": 84,
+        "releaseIds": [
+          "48d92b27-c25e-427d-bdea-27446f510069",
+          "9877a738-84bd-4830-9a16-2971c0ccc6be",
+          "10924432-e7f7-4d2d-9ffc-5a673dfb9eb5",
+          "3106ffb9-4872-40ba-acde-2a07f41d7403",
+          "bb0ed865-8b45-44ce-bdbf-6a43250c54ab",
+          "c7974d11-385c-4770-be81-ee4253b99478",
+          "ac2df55e-60d3-4944-ad70-6fc957906b42",
+          "0e091834-a094-4ade-aad9-4bca159fad02",
+          "3b9bb626-b6ab-48e9-8968-7523e93d5466",
+          "c776e94e-c3f4-4784-90d6-bfdfd8c9a756",
+          "0dd04718-0910-4307-87b2-89d0377fbc5b",
+          "d9fbf729-3bcf-46b1-94a4-7b4bf7babced",
+          "09643922-a694-4e8f-a036-fdc7c5811324",
+          "1574de95-b256-4746-bcb1-cbd934041930",
+          "5cf4d047-0d06-4c3b-b41a-15e6113bc9c1",
+          "c129e0c8-dc39-436a-a070-55084fbf66ef",
+          "daa7e6ad-f367-4368-87dd-358bac6d7efe",
+          "636f2e60-7ffd-43ee-9f22-7132a9428d38",
+          "26669526-5721-42ad-a5a2-e6245c8fa5dc",
+          "3e5dca25-eb77-4aa7-b5b5-6900f7dc605d",
+          "c2e2a0de-d63d-4333-998e-dfd855f3ad70",
+          "5ae25f48-4c58-47f0-b3a6-a7c3ba8a4a55",
+          "55b448cd-cc4c-43f6-a378-41ae48fdbf20",
+          "652831c6-04d2-4571-bdbe-4a6af088547a",
+          "f3de41cd-9a15-4928-b50c-ef364812cb87",
+          "ed4e12b4-4106-4069-8e60-7e0abf6a2d77",
+          "f5e81e1e-759c-45a8-b03e-48768c211005",
+          "923ae2c4-5eba-4770-9e03-a394a16d1e28",
+          "a1639974-9569-4f8d-a726-ac4867065463",
+          "f55654fa-fa15-4eb5-8709-56b5047b3629",
+          "afa0b316-2a3e-40af-b76e-80a4b14a6329",
+          "cb769a4c-96d2-4c62-a6c0-5b16de09624a"
+        ]
+      }
+    ]
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8F%E3%81%A6%22%20AND%20artist%3A%22Ado%22%20AND%20reid%3Ac7974d11-385c-4770-be81-ee4253b99478&fmt=json&limit=5": {
+    "created": "2026-11-22T17:35:04.476Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "ab7a42e2-c477-44e6-8cc7-056f8f8b10a5",
+        "title": "会いたくて",
+        "score": 100,
+        "releaseIds": [
+          "48d92b27-c25e-427d-bdea-27446f510069",
+          "9877a738-84bd-4830-9a16-2971c0ccc6be",
+          "10924432-e7f7-4d2d-9ffc-5a673dfb9eb5",
+          "3106ffb9-4872-40ba-acde-2a07f41d7403",
+          "bb0ed865-8b45-44ce-bdbf-6a43250c54ab",
+          "c7974d11-385c-4770-be81-ee4253b99478",
+          "ac2df55e-60d3-4944-ad70-6fc957906b42",
+          "0e091834-a094-4ade-aad9-4bca159fad02",
+          "3b9bb626-b6ab-48e9-8968-7523e93d5466",
+          "c776e94e-c3f4-4784-90d6-bfdfd8c9a756",
+          "0dd04718-0910-4307-87b2-89d0377fbc5b",
+          "d9fbf729-3bcf-46b1-94a4-7b4bf7babced",
+          "09643922-a694-4e8f-a036-fdc7c5811324",
+          "1574de95-b256-4746-bcb1-cbd934041930",
+          "5cf4d047-0d06-4c3b-b41a-15e6113bc9c1",
+          "c129e0c8-dc39-436a-a070-55084fbf66ef",
+          "daa7e6ad-f367-4368-87dd-358bac6d7efe",
+          "636f2e60-7ffd-43ee-9f22-7132a9428d38",
+          "26669526-5721-42ad-a5a2-e6245c8fa5dc",
+          "3e5dca25-eb77-4aa7-b5b5-6900f7dc605d",
+          "c2e2a0de-d63d-4333-998e-dfd855f3ad70",
+          "5ae25f48-4c58-47f0-b3a6-a7c3ba8a4a55",
+          "55b448cd-cc4c-43f6-a378-41ae48fdbf20",
+          "652831c6-04d2-4571-bdbe-4a6af088547a",
+          "f3de41cd-9a15-4928-b50c-ef364812cb87",
+          "ed4e12b4-4106-4069-8e60-7e0abf6a2d77",
+          "f5e81e1e-759c-45a8-b03e-48768c211005",
+          "923ae2c4-5eba-4770-9e03-a394a16d1e28",
+          "a1639974-9569-4f8d-a726-ac4867065463",
+          "f55654fa-fa15-4eb5-8709-56b5047b3629",
+          "afa0b316-2a3e-40af-b76e-80a4b14a6329",
+          "cb769a4c-96d2-4c62-a6c0-5b16de09624a"
+        ]
+      }
+    ],
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?fmt=json&limit=5&query=title%3A%22%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8F%E3%81%A6%22%20AND%20artist%3A%22Ado%22%20AND%20reid%3Ac7974d11-385c-4770-be81-ee4253b99478",
+    "firstAttemptUnavailable": "Error fetching URL(s): https://musicbrainz.org/ws/2/recording?query=title%3A%22%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8F%E3%81%A6%22%20AND%20artist%3A%22Ado%22%20AND%20reid%3Ac7974d11-385c-4770-be81-ee4253b99478&fmt=json&limit=5: CRAWL_HTTP_503"
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22FREEDOM%22%20AND%20artist%3A%22Ado%22%20AND%20reid%3Ac7974d11-385c-4770-be81-ee4253b99478&fmt=json&limit=5": {
+    "created": "2026-11-22T17:34:15.344Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "e85a1656-1d91-45d8-b028-2a98b33af9bd",
+        "title": "FREEDOM",
+        "score": 100,
+        "releaseIds": [
+          "48d92b27-c25e-427d-bdea-27446f510069",
+          "9877a738-84bd-4830-9a16-2971c0ccc6be",
+          "10924432-e7f7-4d2d-9ffc-5a673dfb9eb5",
+          "493ed617-3c09-45ed-8d32-c28e405e2105",
+          "3106ffb9-4872-40ba-acde-2a07f41d7403",
+          "c0b7f174-d504-402e-938d-6ffc6419f6f5",
+          "c7974d11-385c-4770-be81-ee4253b99478",
+          "ac2df55e-60d3-4944-ad70-6fc957906b42",
+          "0e091834-a094-4ade-aad9-4bca159fad02",
+          "3b9bb626-b6ab-48e9-8968-7523e93d5466",
+          "c776e94e-c3f4-4784-90d6-bfdfd8c9a756",
+          "d9fbf729-3bcf-46b1-94a4-7b4bf7babced",
+          "09643922-a694-4e8f-a036-fdc7c5811324",
+          "1574de95-b256-4746-bcb1-cbd934041930",
+          "5cf4d047-0d06-4c3b-b41a-15e6113bc9c1",
+          "c129e0c8-dc39-436a-a070-55084fbf66ef",
+          "daa7e6ad-f367-4368-87dd-358bac6d7efe",
+          "636f2e60-7ffd-43ee-9f22-7132a9428d38",
+          "26669526-5721-42ad-a5a2-e6245c8fa5dc",
+          "3e5dca25-eb77-4aa7-b5b5-6900f7dc605d",
+          "c2e2a0de-d63d-4333-998e-dfd855f3ad70",
+          "5ae25f48-4c58-47f0-b3a6-a7c3ba8a4a55",
+          "652831c6-04d2-4571-bdbe-4a6af088547a",
+          "f3de41cd-9a15-4928-b50c-ef364812cb87",
+          "ed4e12b4-4106-4069-8e60-7e0abf6a2d77",
+          "9615508e-8176-46ff-b232-0f0f0833a84b",
+          "f5e81e1e-759c-45a8-b03e-48768c211005",
+          "923ae2c4-5eba-4770-9e03-a394a16d1e28",
+          "a1639974-9569-4f8d-a726-ac4867065463",
+          "f55654fa-fa15-4eb5-8709-56b5047b3629",
+          "0dd04718-0910-4307-87b2-89d0377fbc5b"
+        ]
+      }
+    ]
+  },
+  "https://musicbrainz.org/ws/2/recording?query=title%3A%22FREEDOM%22%20AND%20artist%3A%22Ado%22%20AND%20release%3A%22%E7%8B%82%E8%A8%80%22&fmt=json&limit=5": {
+    "created": "2026-11-22T17:34:17.762Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "e85a1656-1d91-45d8-b028-2a98b33af9bd",
+        "title": "FREEDOM",
+        "score": 100,
+        "releaseIds": [
+          "48d92b27-c25e-427d-bdea-27446f510069",
+          "9877a738-84bd-4830-9a16-2971c0ccc6be",
+          "10924432-e7f7-4d2d-9ffc-5a673dfb9eb5",
+          "493ed617-3c09-45ed-8d32-c28e405e2105",
+          "3106ffb9-4872-40ba-acde-2a07f41d7403",
+          "c0b7f174-d504-402e-938d-6ffc6419f6f5",
+          "c7974d11-385c-4770-be81-ee4253b99478",
+          "ac2df55e-60d3-4944-ad70-6fc957906b42",
+          "0e091834-a094-4ade-aad9-4bca159fad02",
+          "3b9bb626-b6ab-48e9-8968-7523e93d5466",
+          "c776e94e-c3f4-4784-90d6-bfdfd8c9a756",
+          "d9fbf729-3bcf-46b1-94a4-7b4bf7babced",
+          "09643922-a694-4e8f-a036-fdc7c5811324",
+          "1574de95-b256-4746-bcb1-cbd934041930",
+          "5cf4d047-0d06-4c3b-b41a-15e6113bc9c1",
+          "c129e0c8-dc39-436a-a070-55084fbf66ef",
+          "daa7e6ad-f367-4368-87dd-358bac6d7efe",
+          "636f2e60-7ffd-43ee-9f22-7132a9428d38",
+          "26669526-5721-42ad-a5a2-e6245c8fa5dc",
+          "3e5dca25-eb77-4aa7-b5b5-6900f7dc605d",
+          "c2e2a0de-d63d-4333-998e-dfd855f3ad70",
+          "5ae25f48-4c58-47f0-b3a6-a7c3ba8a4a55",
+          "652831c6-04d2-4571-bdbe-4a6af088547a",
+          "f3de41cd-9a15-4928-b50c-ef364812cb87",
+          "ed4e12b4-4106-4069-8e60-7e0abf6a2d77",
+          "9615508e-8176-46ff-b232-0f0f0833a84b",
+          "f5e81e1e-759c-45a8-b03e-48768c211005",
+          "923ae2c4-5eba-4770-9e03-a394a16d1e28",
+          "a1639974-9569-4f8d-a726-ac4867065463",
+          "f55654fa-fa15-4eb5-8709-56b5047b3629",
+          "0dd04718-0910-4307-87b2-89d0377fbc5b"
+        ]
+      }
+    ]
+  }
+}

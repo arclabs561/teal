@@ -1,0 +1,396 @@
+{
+  "capturedOn": "2026-11-22",
+  "sample": {
+    "rows": 108,
+    "withClientArtistNames": 54,
+    "multipleClientArtistNames": 10,
+    "checkedCollaborationsWithMappedNames": 7
+  },
+  "searches": [
+    {
+      "name": "cosmic combined",
+      "query": "title:\"Cosmic War\" AND artist:\"Exyl, Creo\" AND release:\"Save This World\"",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Cosmic%20War%22%20AND%20artist%3A%22Exyl%2C%20Creo%22%20AND%20release%3A%22Save%20This%20World%22&fmt=json&limit=5",
+      "data": {
+        "created": "2026-11-22T17:17:40.751Z",
+        "count": 0,
+        "rows": []
+      }
+    },
+    {
+      "name": "cosmic separate",
+      "query": "title:\"Cosmic War\" AND artist:\"Exyl\" AND artist:\"Creo\" AND release:\"Save This World\"",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Cosmic%20War%22%20AND%20artist%3A%22Exyl%22%20AND%20artist%3A%22Creo%22%20AND%20release%3A%22Save%20This%20World%22&fmt=json&limit=5",
+      "data": {
+        "created": "2026-11-22T17:17:44.424Z",
+        "count": 1,
+        "rows": [
+          [
+            "d3247aab-6e9e-4016-8947-156d59a62542",
+            "Cosmic War",
+            100,
+            [
+              "Exyl",
+              "Creo"
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "name": "earth combined",
+      "query": "title:\"September\" AND artist:\"Earth, Wind & Fire\"",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22September%22%20AND%20artist%3A%22Earth%2C%20Wind%20%26%20Fire%22&fmt=json&limit=5",
+      "data": {
+        "created": "2026-11-22T17:17:46.942Z",
+        "count": 211,
+        "rows": [
+          [
+            "027ca7d9-091e-4b20-9b40-1de0b7c39121",
+            "September",
+            100,
+            [
+              "Earth, Wind & Fire"
+            ]
+          ],
+          [
+            "dc2e68eb-f315-4f58-8b79-bfd532b6cb02",
+            "September",
+            100,
+            [
+              "Earth, Wind & Fire"
+            ]
+          ],
+          [
+            "fa5f5dd3-8b6a-4fc3-bb23-9c333cceca78",
+            "September",
+            100,
+            [
+              "Earth, Wind & Fire"
+            ]
+          ],
+          [
+            "34e0f517-f023-44aa-a129-42ac9d7602a5",
+            "September",
+            100,
+            [
+              "Earth, Wind & Fire"
+            ]
+          ],
+          [
+            "2a7a5830-d415-4132-8f0b-8334ec044f14",
+            "September",
+            100,
+            [
+              "Earth, Wind & Fire"
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "name": "earth split",
+      "query": "title:\"September\" AND artist:\"Earth\" AND artist:\"Wind & Fire\"",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22September%22%20AND%20artist%3A%22Earth%22%20AND%20artist%3A%22Wind%20%26%20Fire%22&fmt=json&limit=5",
+      "data": {
+        "created": "2026-11-22T17:17:50.216Z",
+        "count": 211,
+        "rows": [
+          [
+            "06903e8c-13df-4376-bd4a-08c6970e307e",
+            "September",
+            100,
+            [
+              "Earth, Wind & Fire"
+            ]
+          ],
+          [
+            "027ca7d9-091e-4b20-9b40-1de0b7c39121",
+            "September",
+            100,
+            [
+              "Earth, Wind & Fire"
+            ]
+          ],
+          [
+            "dc2e68eb-f315-4f58-8b79-bfd532b6cb02",
+            "September",
+            100,
+            [
+              "Earth, Wind & Fire"
+            ]
+          ],
+          [
+            "fa5f5dd3-8b6a-4fc3-bb23-9c333cceca78",
+            "September",
+            100,
+            [
+              "Earth, Wind & Fire"
+            ]
+          ],
+          [
+            "2a7a5830-d415-4132-8f0b-8334ec044f14",
+            "September",
+            100,
+            [
+              "Earth, Wind & Fire"
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "name": "tyler combined",
+      "query": "title:\"EARFQUAKE\" AND artist:\"Tyler, The Creator\"",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22EARFQUAKE%22%20AND%20artist%3A%22Tyler%2C%20The%20Creator%22&fmt=json&limit=5",
+      "data": {
+        "created": "2026-11-22T17:17:52.906Z",
+        "count": 9,
+        "rows": [
+          [
+            "b9648e9e-e8b9-4db1-943e-eb1f6db72257",
+            "EARFQUAKE",
+            100,
+            [
+              "Tyler, The Creator"
+            ]
+          ],
+          [
+            "a74cd8de-7e43-4857-8c31-2f1db565351d",
+            "EARFQUAKE",
+            100,
+            [
+              "Tyler, The Creator"
+            ]
+          ],
+          [
+            "4fb4b8fe-f837-4ffb-b0ac-efd30940654a",
+            "EARFQUAKE",
+            100,
+            [
+              "Tyler, The Creator"
+            ]
+          ],
+          [
+            "7bfbdd56-d54d-495c-953d-780617ee39e2",
+            "EARFQUAKE",
+            100,
+            [
+              "Tyler, The Creator"
+            ]
+          ],
+          [
+            "c3c6a3db-8876-449e-859d-62e1a0427df7",
+            "EARFQUAKE",
+            100,
+            [
+              "Tyler, The Creator"
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "name": "tyler split",
+      "query": "title:\"EARFQUAKE\" AND artist:\"Tyler\" AND artist:\"The Creator\"",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22EARFQUAKE%22%20AND%20artist%3A%22Tyler%22%20AND%20artist%3A%22The%20Creator%22&fmt=json&limit=5",
+      "data": {
+        "created": "2026-11-22T17:17:55.662Z",
+        "count": 9,
+        "rows": [
+          [
+            "7bfbdd56-d54d-495c-953d-780617ee39e2",
+            "EARFQUAKE",
+            100,
+            [
+              "Tyler, The Creator"
+            ]
+          ],
+          [
+            "4fb4b8fe-f837-4ffb-b0ac-efd30940654a",
+            "EARFQUAKE",
+            100,
+            [
+              "Tyler, The Creator"
+            ]
+          ],
+          [
+            "c3c6a3db-8876-449e-859d-62e1a0427df7",
+            "EARFQUAKE",
+            100,
+            [
+              "Tyler, The Creator"
+            ]
+          ],
+          [
+            "b9648e9e-e8b9-4db1-943e-eb1f6db72257",
+            "EARFQUAKE",
+            100,
+            [
+              "Tyler, The Creator"
+            ]
+          ],
+          [
+            "a74cd8de-7e43-4857-8c31-2f1db565351d",
+            "EARFQUAKE",
+            100,
+            [
+              "Tyler, The Creator"
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "repeatCaptures": [
+    {
+      "name": "earth combined",
+      "created": "2026-11-22T17:17:46.942Z",
+      "ids": [
+        "027ca7d9-091e-4b20-9b40-1de0b7c39121",
+        "dc2e68eb-f315-4f58-8b79-bfd532b6cb02",
+        "fa5f5dd3-8b6a-4fc3-bb23-9c333cceca78",
+        "34e0f517-f023-44aa-a129-42ac9d7602a5",
+        "2a7a5830-d415-4132-8f0b-8334ec044f14"
+      ]
+    },
+    {
+      "name": "earth split",
+      "created": "2026-11-22T17:17:50.216Z",
+      "ids": [
+        "06903e8c-13df-4376-bd4a-08c6970e307e",
+        "027ca7d9-091e-4b20-9b40-1de0b7c39121",
+        "dc2e68eb-f315-4f58-8b79-bfd532b6cb02",
+        "fa5f5dd3-8b6a-4fc3-bb23-9c333cceca78",
+        "2a7a5830-d415-4132-8f0b-8334ec044f14"
+      ]
+    },
+    {
+      "name": "tyler combined",
+      "created": "2026-11-22T17:17:52.906Z",
+      "ids": [
+        "b9648e9e-e8b9-4db1-943e-eb1f6db72257",
+        "a74cd8de-7e43-4857-8c31-2f1db565351d",
+        "4fb4b8fe-f837-4ffb-b0ac-efd30940654a",
+        "7bfbdd56-d54d-495c-953d-780617ee39e2",
+        "c3c6a3db-8876-449e-859d-62e1a0427df7"
+      ]
+    },
+    {
+      "name": "tyler split",
+      "created": "2026-11-22T17:17:55.662Z",
+      "ids": [
+        "7bfbdd56-d54d-495c-953d-780617ee39e2",
+        "4fb4b8fe-f837-4ffb-b0ac-efd30940654a",
+        "c3c6a3db-8876-449e-859d-62e1a0427df7",
+        "b9648e9e-e8b9-4db1-943e-eb1f6db72257",
+        "a74cd8de-7e43-4857-8c31-2f1db565351d"
+      ]
+    }
+  ],
+  "mappedCollaborations": [
+    {
+      "track": "La Mitad",
+      "displayName": "Camilo, Christian Nodal",
+      "sourceNames": [
+        "Camilo",
+        "Christian Nodal"
+      ],
+      "mappedNames": [
+        "Camilo",
+        "Christian Nodal"
+      ],
+      "hasRecordingMapping": true
+    },
+    {
+      "track": "Ni Me Debes Ni Te Debo",
+      "displayName": "Carín León, Camilo",
+      "sourceNames": [
+        "Carín León",
+        "Camilo"
+      ],
+      "mappedNames": [
+        "Carin León",
+        "Camilo"
+      ],
+      "hasRecordingMapping": true
+    },
+    {
+      "track": "Una Vida Pasada",
+      "displayName": "Camilo, Carín León",
+      "sourceNames": [
+        "Camilo",
+        "Carín León"
+      ],
+      "mappedNames": [
+        "Camilo",
+        "Carin León"
+      ],
+      "hasRecordingMapping": true
+    },
+    {
+      "track": "La Medalla",
+      "displayName": "Camilo, Evaluna Montaner",
+      "sourceNames": [
+        "Camilo",
+        "Evaluna Montaner"
+      ],
+      "mappedNames": [
+        "Camilo",
+        "Evaluna Montaner"
+      ],
+      "hasRecordingMapping": true
+    },
+    {
+      "track": "Cosmic War",
+      "displayName": "Exyl, Creo",
+      "sourceNames": [
+        "Exyl",
+        "Creo"
+      ],
+      "sourceIds": [
+        "d36f4e2f-f7fa-4e6b-92e3-09f073511165",
+        "754e2a05-7f44-4898-bcfd-64a837a6b05f"
+      ],
+      "mappedNames": [
+        "Exyl",
+        "Creo"
+      ],
+      "hasRecordingMapping": true
+    },
+    {
+      "track": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)",
+      "displayName": "Cosmograph, LEVEL NINE",
+      "sourceNames": [
+        "Cosmograph",
+        "LEVEL NINE"
+      ],
+      "sourceIds": [
+        "2d03fd97-af30-42ea-8ac5-4801e5c1d70e",
+        "15767960-e6cc-4181-93e7-a32b0a9ad523"
+      ],
+      "mappedNames": [
+        "Cosmograph",
+        "LEVEL NINE"
+      ],
+      "hasRecordingMapping": true
+    },
+    {
+      "track": "The Outlines",
+      "displayName": "Koven, Circadian",
+      "sourceNames": [
+        "Koven",
+        "Circadian"
+      ],
+      "sourceIds": [
+        "ad110705-cbe6-4c47-9b99-8526e6db0f41",
+        "f8d4709a-fe7a-4128-99a8-afef545aeae0"
+      ],
+      "mappedNames": [
+        "Koven",
+        "Circadian"
+      ],
+      "hasRecordingMapping": true
+    }
+  ]
+}

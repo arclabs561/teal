@@ -1,0 +1,1285 @@
+{
+  "sample": "page-3",
+  "rows": [
+    {
+      "track": "From the Beginning",
+      "artist": "Emerson, Lake & Palmer",
+      "release": "Trilogy",
+      "submitted": {
+        "artist_names": [
+          "Emerson, Lake & Palmer"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 4,
+        "discnumber": 1,
+        "duration_ms": 256333,
+        "isrc": "GBAJE7200290"
+      },
+      "mapped": {
+        "recording_mbid": "c96d8665-a200-4345-bdd1-4addde65c017",
+        "release_mbid": "de9a7d6d-baeb-4f0d-b6c3-d64582549b50",
+        "release_group_mbid": "990536ff-396d-37ad-9df3-fa7f548abcac",
+        "artist_mbids": [
+          "ad996aef-cc1c-42ac-af5c-619c370f4b8a"
+        ],
+        "recording_name": "From the Beginning",
+        "credits": [
+          {
+            "artist_credit_name": "Emerson, Lake & Palmer",
+            "artist_mbid": "ad996aef-cc1c-42ac-af5c-619c370f4b8a",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "On an Island",
+      "artist": "David Gilmour",
+      "release": "On an Island",
+      "submitted": {
+        "artist_names": [
+          "David Gilmour"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 2,
+        "discnumber": 1,
+        "duration_ms": 407586,
+        "isrc": "GBLTP0600002"
+      },
+      "mapped": {
+        "recording_mbid": "65ed34f0-3af5-40af-8eff-fd8a10d34f26",
+        "release_mbid": "ecc6ec73-cc69-4d10-817d-6ebb2af22737",
+        "release_group_mbid": "ba6fabec-b71a-3eec-93e5-acf4db197f50",
+        "artist_mbids": [
+          "1dce970e-34bc-48b2-ab51-48d87544a4c2"
+        ],
+        "recording_name": "On an Island",
+        "credits": [
+          {
+            "artist_credit_name": "David Gilmour",
+            "artist_mbid": "1dce970e-34bc-48b2-ab51-48d87544a4c2",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Goodbye Blue Sky",
+      "artist": "Pink Floyd",
+      "release": "The Wall",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 7,
+        "discnumber": 1,
+        "duration_ms": 167239,
+        "isrc": "GBN9Y1100101"
+      },
+      "mapped": {
+        "recording_mbid": "bb0d3c16-b684-4a5a-a107-e12bbd4f3041",
+        "release_mbid": "8eb1532a-bccb-4cc4-b590-5be19386a6f7",
+        "release_group_mbid": "f2026101-945b-3d05-9ef4-aa718fc3feef",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Goodbye Blue Sky",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Out on the Weekend",
+      "artist": "Neil Young",
+      "release": "Harvest (50th Anniversary Edition)",
+      "submitted": {
+        "artist_names": [
+          "Neil Young"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "discnumber": 1,
+        "duration_ms": 274160,
+        "isrc": "USRE12200583"
+      },
+      "mapped": {
+        "recording_mbid": "35a10dd3-9b81-4367-99d6-a9c43b9fb495",
+        "release_mbid": "e272a5ce-f1d1-415b-ab4e-fc92ed75605d",
+        "release_group_mbid": "b25419cf-71bf-3a54-8cd4-2161c61056a0",
+        "artist_mbids": [
+          "75167b8b-44e4-407b-9d35-effe87b223cf"
+        ],
+        "recording_name": "Out on the Weekend",
+        "credits": [
+          {
+            "artist_credit_name": "Neil Young",
+            "artist_mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Beware of Darkness (2014 Remaster)",
+      "artist": "George Harrison",
+      "release": "All Things Must Pass (2014 Remaster)",
+      "submitted": {
+        "artist_names": [
+          "George Harrison"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "discnumber": 2,
+        "duration_ms": 231143,
+        "isrc": "GB77R1400039"
+      },
+      "mapped": {
+        "recording_mbid": "2a936707-d877-4280-86e1-5e137915044b",
+        "release_mbid": "09f91730-85f7-4148-b31c-ff62b14fcd3e",
+        "release_group_mbid": "d4b0f3e2-e3eb-3531-b305-ed8105cb5be4",
+        "artist_mbids": [
+          "42a8f507-8412-4611-854f-926571049fa0"
+        ],
+        "recording_name": "Beware of Darkness",
+        "credits": [
+          {
+            "artist_credit_name": "George Harrison",
+            "artist_mbid": "42a8f507-8412-4611-854f-926571049fa0",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Since I've Been Loving You - Remaster",
+      "artist": "Led Zeppelin",
+      "release": "Led Zeppelin III (Remaster)",
+      "submitted": {
+        "artist_names": [
+          "Led Zeppelin"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 4,
+        "discnumber": 1,
+        "duration_ms": 444148,
+        "isrc": "USAT21300937"
+      },
+      "mapped": {
+        "recording_mbid": "d9c83399-5c8a-4c66-804b-95ad757c8f1b",
+        "release_mbid": "93ac1812-d38d-4125-88e8-8440e3e89072",
+        "release_group_mbid": "53f80f76-f8af-3558-bfd5-e7221e055c75",
+        "artist_mbids": [
+          "678d88b2-87b0-403b-b63d-5da7465aecc3"
+        ],
+        "recording_name": "Since I’ve Been Loving You",
+        "credits": [
+          {
+            "artist_credit_name": "Led Zeppelin",
+            "artist_mbid": "678d88b2-87b0-403b-b63d-5da7465aecc3",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "One of the Few",
+      "artist": "Pink Floyd",
+      "release": "The Final Cut",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 3,
+        "discnumber": 1,
+        "duration_ms": 77029,
+        "isrc": "GBN9Y1100123"
+      },
+      "mapped": {
+        "recording_mbid": "a8df78f9-7d7e-4bc8-ba11-8657a1dcb393",
+        "release_mbid": "dbd0ce67-cae6-33eb-8f5a-1143a30c2353",
+        "release_group_mbid": "e8b7e7a3-ef56-34a5-bedf-085783c9a076",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "One of the Few",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Obscured by Clouds",
+      "artist": "Pink Floyd",
+      "release": "Obscured by Clouds",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "discnumber": 1,
+        "duration_ms": 184040,
+        "isrc": "GBN9Y1100066"
+      },
+      "mapped": {
+        "recording_mbid": "76b875f0-136a-4342-a206-56475fff60c3",
+        "release_mbid": "0d3bc463-52f2-39cf-9319-117f15be62ee",
+        "release_group_mbid": "a6f0826e-9b27-3d75-b30c-e5d33235777a",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Obscured by Clouds",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "A New Machine, Pt. 2",
+      "artist": "Pink Floyd",
+      "release": "A Momentary Lapse of Reason",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 10,
+        "discnumber": 1,
+        "duration_ms": 39008,
+        "isrc": "GBN9X1100010"
+      },
+      "mapped": {
+        "recording_mbid": "990dc3f8-30d4-4741-b0ed-21c313b94ae2",
+        "release_mbid": "3d717fff-83c5-4c46-b41b-8f7cea506f9c",
+        "release_group_mbid": "4940b8aa-898b-3e60-9992-94e073bab6f6",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "A New Machine Pt2",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Your Possible Pasts",
+      "artist": "Pink Floyd",
+      "release": "The Final Cut",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 2,
+        "discnumber": 1,
+        "duration_ms": 266302,
+        "isrc": "GBN9Y1100122"
+      },
+      "mapped": {
+        "recording_mbid": "25697fc3-597c-4924-b61d-ab61d6ab0d1d",
+        "release_mbid": "dbd0ce67-cae6-33eb-8f5a-1143a30c2353",
+        "release_group_mbid": "e8b7e7a3-ef56-34a5-bedf-085783c9a076",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Your Possible Pasts",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Wot's...Uh the Deal",
+      "artist": "Pink Floyd",
+      "release": "Obscured by Clouds",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 5,
+        "discnumber": 1,
+        "duration_ms": 309106,
+        "isrc": "GBN9Y1100070"
+      },
+      "mapped": {
+        "recording_mbid": "d4d20412-189f-4785-98d7-e7d4d13fbe65",
+        "release_mbid": "0d3bc463-52f2-39cf-9319-117f15be62ee",
+        "release_group_mbid": "a6f0826e-9b27-3d75-b30c-e5d33235777a",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Wot’s… Uh the Deal",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "A Pillow of Winds",
+      "artist": "Pink Floyd",
+      "release": "Meddle",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 2,
+        "discnumber": 1,
+        "duration_ms": 312893,
+        "isrc": "GBN9Y1100061"
+      },
+      "mapped": {
+        "recording_mbid": "4c984349-4f7e-4b3e-ba48-bc2510869872",
+        "release_mbid": "d6d20fc9-23b7-4c00-9516-28441b0c122a",
+        "release_group_mbid": "4e98c9b4-92f6-3049-b9da-a1088b623672",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "A Pillow of Winds",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Terminal Frost",
+      "artist": "Pink Floyd",
+      "release": "A Momentary Lapse of Reason",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 9,
+        "discnumber": 1,
+        "duration_ms": 375440,
+        "isrc": "GBN9X1100009"
+      },
+      "mapped": {
+        "recording_mbid": "b1839cbe-2d04-4c54-95b1-7481e6cec28c",
+        "release_mbid": "b207d7d6-5922-3297-a077-9953cc9ee52d",
+        "release_group_mbid": "4940b8aa-898b-3e60-9992-94e073bab6f6",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Terminal Frost",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Fletcher Memorial Home",
+      "artist": "Pink Floyd",
+      "release": "The Final Cut",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 9,
+        "discnumber": 1,
+        "duration_ms": 249441,
+        "isrc": "GBN9Y1100129"
+      },
+      "mapped": {
+        "recording_mbid": "720fc4d0-eb8f-4d1f-a933-7c1dac136d17",
+        "release_mbid": "dbd0ce67-cae6-33eb-8f5a-1143a30c2353",
+        "release_group_mbid": "e8b7e7a3-ef56-34a5-bedf-085783c9a076",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "The Fletcher Memorial Home",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Childhood's End",
+      "artist": "Pink Floyd",
+      "release": "Obscured by Clouds",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 7,
+        "discnumber": 1,
+        "duration_ms": 273386,
+        "isrc": "GBN9Y1100072"
+      },
+      "mapped": {
+        "recording_mbid": "815ca8b3-7d27-46ec-b843-b14c832bc902",
+        "release_mbid": "52879627-8215-47c1-91aa-96ee5e6c7c2a",
+        "release_group_mbid": "c762686c-a694-47a1-90ce-368106f97ad2",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Childhood’s End",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "San Tropez",
+      "artist": "Pink Floyd",
+      "release": "Meddle",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 4,
+        "discnumber": 1,
+        "duration_ms": 223066,
+        "isrc": "GBN9Y1100063"
+      },
+      "mapped": {
+        "recording_mbid": "2a3bddac-ec40-40d2-9c84-8406c8278f46",
+        "release_mbid": "d6d20fc9-23b7-4c00-9516-28441b0c122a",
+        "release_group_mbid": "4e98c9b4-92f6-3049-b9da-a1088b623672",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "San Tropez",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Sorrow",
+      "artist": "Pink Floyd",
+      "release": "A Momentary Lapse of Reason",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 11,
+        "discnumber": 1,
+        "duration_ms": 524753,
+        "isrc": "GBN9X1100011"
+      },
+      "mapped": {
+        "recording_mbid": "af558f89-1608-44f2-8649-34d90029a482",
+        "release_mbid": "b207d7d6-5922-3297-a077-9953cc9ee52d",
+        "release_group_mbid": "4940b8aa-898b-3e60-9992-94e073bab6f6",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Sorrow",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Sheep",
+      "artist": "Pink Floyd",
+      "release": "Animals",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 4,
+        "discnumber": 1,
+        "duration_ms": 619079,
+        "isrc": "GBN9Y1100093"
+      },
+      "mapped": {
+        "recording_mbid": "dc014ebe-f3ae-444f-bdec-791e9614eadd",
+        "release_mbid": "e802a957-519f-3382-a9cb-a8bb2d0be466",
+        "release_group_mbid": "20c77fb4-1c9f-33c8-9d7e-c4977f11e847",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Sheep",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Poles Apart",
+      "artist": "Pink Floyd",
+      "release": "The Division Bell",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 3,
+        "discnumber": 1,
+        "duration_ms": 423064,
+        "isrc": "GBN9X1100014"
+      },
+      "mapped": {
+        "recording_mbid": "c50d3988-0c48-4b9c-ab44-ebdc4f465088",
+        "release_mbid": "12eb7e4c-29a1-46d2-a971-f852655c7587",
+        "release_group_mbid": "90878b63-f639-3c8b-aefb-190bdf3d1790",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Poles Apart",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "One of These Days",
+      "artist": "Pink Floyd",
+      "release": "Meddle",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "discnumber": 1,
+        "duration_ms": 354613,
+        "isrc": "GBN9Y1100060"
+      },
+      "mapped": {
+        "recording_mbid": "8a313f74-75fe-40ff-a1a9-0b000216c555",
+        "release_mbid": "d6d20fc9-23b7-4c00-9516-28441b0c122a",
+        "release_group_mbid": "4e98c9b4-92f6-3049-b9da-a1088b623672",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "One of These Days",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Final Cut",
+      "artist": "Pink Floyd",
+      "release": "The Final Cut",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 11,
+        "discnumber": 1,
+        "duration_ms": 282602,
+        "isrc": "GBN9Y1100131"
+      },
+      "mapped": {
+        "recording_mbid": "684503e5-281f-4049-9d2c-e59ec1310398",
+        "release_mbid": "dbd0ce67-cae6-33eb-8f5a-1143a30c2353",
+        "release_group_mbid": "e8b7e7a3-ef56-34a5-bedf-085783c9a076",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "The Final Cut",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Dogs",
+      "artist": "Pink Floyd",
+      "release": "Animals",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 2,
+        "discnumber": 1,
+        "duration_ms": 1025280,
+        "isrc": "GBN9Y1100091"
+      },
+      "mapped": {
+        "recording_mbid": "93972412-fe18-4656-98ed-82995598d8df",
+        "release_mbid": "e802a957-519f-3382-a9cb-a8bb2d0be466",
+        "release_group_mbid": "20c77fb4-1c9f-33c8-9d7e-c4977f11e847",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Dogs",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Lost for Words",
+      "artist": "Pink Floyd",
+      "release": "The Division Bell",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 10,
+        "discnumber": 1,
+        "duration_ms": 314960,
+        "isrc": "GBN9X1100021"
+      },
+      "mapped": {
+        "recording_mbid": "1ec5ea31-99ec-4c12-851a-058749ad8319",
+        "release_mbid": "12eb7e4c-29a1-46d2-a971-f852655c7587",
+        "release_group_mbid": "90878b63-f639-3c8b-aefb-190bdf3d1790",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Lost for Words",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Fearless",
+      "artist": "Pink Floyd",
+      "release": "Meddle",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 3,
+        "discnumber": 1,
+        "duration_ms": 367933,
+        "isrc": "GBN9Y1100062"
+      },
+      "mapped": {
+        "recording_mbid": "43998b23-acc0-408f-8059-e69b0334970f",
+        "release_mbid": "d6d20fc9-23b7-4c00-9516-28441b0c122a",
+        "release_group_mbid": "4e98c9b4-92f6-3049-b9da-a1088b623672",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Fearless",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Us and Them",
+      "artist": "Pink Floyd",
+      "release": "The Dark Side of the Moon",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 7,
+        "discnumber": 1,
+        "duration_ms": 469224,
+        "isrc": "GBN9Y1100082"
+      },
+      "mapped": {
+        "recording_mbid": "2d1201cf-59bb-4ffa-9f52-f5b3afa13346",
+        "release_mbid": "7f6d3088-837d-495e-905f-be5c70ac2d82",
+        "release_group_mbid": "f5093c06-23e3-404f-aeaa-40f72885ee3a",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Us and Them",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Another Brick in the Wall, Pt. 1",
+      "artist": "Pink Floyd",
+      "release": "The Wall",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 3,
+        "discnumber": 1,
+        "duration_ms": 192145,
+        "isrc": "GBN9Y1100097"
+      },
+      "mapped": {
+        "recording_mbid": "ee05ad8d-1432-4240-b8e6-2787aa30b2aa",
+        "release_mbid": "081823f7-573c-43e9-a25a-541ecc832706",
+        "release_group_mbid": "78e1e9c9-ba17-4937-ad41-5d53d6bc44b0",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Another Brick in the Wall, Pt. 1",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Take It Back",
+      "artist": "Pink Floyd",
+      "release": "The Division Bell",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 7,
+        "discnumber": 1,
+        "duration_ms": 372225,
+        "isrc": "GBN9X1100018"
+      },
+      "mapped": {
+        "recording_mbid": "a38a3114-859a-40c2-8e95-b1cf6273ca65",
+        "release_mbid": "12eb7e4c-29a1-46d2-a971-f852655c7587",
+        "release_group_mbid": "90878b63-f639-3c8b-aefb-190bdf3d1790",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Take It Back",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Pigs (Three Different Ones)",
+      "artist": "Pink Floyd",
+      "release": "Animals",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 3,
+        "discnumber": 1,
+        "duration_ms": 685880,
+        "isrc": "GBN9Y1100092"
+      },
+      "mapped": {
+        "recording_mbid": "ebe902f4-c982-4cb6-83e6-6441691e1376",
+        "release_mbid": "e802a957-519f-3382-a9cb-a8bb2d0be466",
+        "release_group_mbid": "20c77fb4-1c9f-33c8-9d7e-c4977f11e847",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Pigs (Three Different Ones)",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Great Gig in the Sky",
+      "artist": "Pink Floyd",
+      "release": "The Dark Side of the Moon",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 5,
+        "discnumber": 1,
+        "duration_ms": 283872,
+        "isrc": "GBN9Y1100080"
+      },
+      "mapped": {
+        "recording_mbid": "73b01cea-2dad-4fc2-9e61-02a31477c1b1",
+        "release_mbid": "7f6d3088-837d-495e-905f-be5c70ac2d82",
+        "release_group_mbid": "f5093c06-23e3-404f-aeaa-40f72885ee3a",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "The Great Gig in the Sky",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Mother",
+      "artist": "Pink Floyd",
+      "release": "The Wall",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 6,
+        "discnumber": 1,
+        "duration_ms": 334893,
+        "isrc": "GBN9Y1100100"
+      },
+      "mapped": {
+        "recording_mbid": "2423ca5e-99d3-4b49-be53-542e6ee38a82",
+        "release_mbid": "8eb1532a-bccb-4cc4-b590-5be19386a6f7",
+        "release_group_mbid": "f2026101-945b-3d05-9ef4-aa718fc3feef",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Mother",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "What Do You Want from Me",
+      "artist": "Pink Floyd",
+      "release": "The Division Bell",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 2,
+        "discnumber": 1,
+        "duration_ms": 261587,
+        "isrc": "GBN9X1100013"
+      },
+      "mapped": {
+        "recording_mbid": "48c10127-0fcd-44f0-9a65-4432667e52e9",
+        "release_mbid": "12eb7e4c-29a1-46d2-a971-f852655c7587",
+        "release_group_mbid": "90878b63-f639-3c8b-aefb-190bdf3d1790",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "What Do You Want From Me",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Pigs on the Wing 1",
+      "artist": "Pink Floyd",
+      "release": "Animals",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "discnumber": 1,
+        "duration_ms": 84280,
+        "isrc": "GBN9Y1100090"
+      },
+      "mapped": {
+        "recording_mbid": "4832d0f0-76a0-4dc4-9f66-666bab928bca",
+        "release_mbid": "2e28425d-8f8b-451b-89c3-75482336a9e3",
+        "release_group_mbid": "bb11c68d-ae8a-3858-847d-9af8cdf2e5e0",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Pigs on the Wing 1",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Brain Damage",
+      "artist": "Pink Floyd",
+      "release": "The Dark Side of the Moon",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 9,
+        "discnumber": 1,
+        "duration_ms": 226666,
+        "isrc": "GBN9Y1100140"
+      },
+      "mapped": {
+        "recording_mbid": "71c0e054-b700-4fd2-a35b-95c7afc566cb",
+        "release_mbid": "7f6d3088-837d-495e-905f-be5c70ac2d82",
+        "release_group_mbid": "f5093c06-23e3-404f-aeaa-40f72885ee3a",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Brain Damage",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Young Lust",
+      "artist": "Pink Floyd",
+      "release": "The Wall",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 9,
+        "discnumber": 1,
+        "duration_ms": 209956,
+        "isrc": "GBN9Y1100103"
+      },
+      "mapped": {
+        "recording_mbid": "69a70dce-fac4-4d55-84e8-c47d8943f8b5",
+        "release_mbid": "8eb1532a-bccb-4cc4-b590-5be19386a6f7",
+        "release_group_mbid": "f2026101-945b-3d05-9ef4-aa718fc3feef",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Young Lust",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Marooned",
+      "artist": "Pink Floyd",
+      "release": "The Division Bell",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 4,
+        "discnumber": 1,
+        "duration_ms": 330385,
+        "isrc": "GBN9X1100015"
+      },
+      "mapped": {
+        "recording_mbid": "1e55b30d-74ad-446a-af99-2f8d069de8af",
+        "release_mbid": "12eb7e4c-29a1-46d2-a971-f852655c7587",
+        "release_group_mbid": "90878b63-f639-3c8b-aefb-190bdf3d1790",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Marooned",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "On the Turning Away",
+      "artist": "Pink Floyd",
+      "release": "A Momentary Lapse of Reason",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 5,
+        "discnumber": 1,
+        "duration_ms": 341666,
+        "isrc": "GBN9X1100005"
+      },
+      "mapped": {
+        "recording_mbid": "87539a50-4303-4814-814d-e0e829ed52a7",
+        "release_mbid": "b207d7d6-5922-3297-a077-9953cc9ee52d",
+        "release_group_mbid": "4940b8aa-898b-3e60-9992-94e073bab6f6",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "On the Turning Away",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Money",
+      "artist": "Pink Floyd",
+      "release": "The Dark Side of the Moon",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 6,
+        "discnumber": 1,
+        "duration_ms": 382834,
+        "isrc": "GBN9Y1100081"
+      },
+      "mapped": {
+        "recording_mbid": "7fef22bd-76aa-4803-b56b-93a5d6e70662",
+        "release_mbid": "7f6d3088-837d-495e-905f-be5c70ac2d82",
+        "release_group_mbid": "f5093c06-23e3-404f-aeaa-40f72885ee3a",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Money",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Hey You",
+      "artist": "Pink Floyd",
+      "release": "The Wall",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "discnumber": 2,
+        "duration_ms": 278440,
+        "isrc": "GBN9Y1100108"
+      },
+      "mapped": {
+        "recording_mbid": "daebd800-fe8a-48bf-bfb4-d8655a895dff",
+        "release_mbid": "8eb1532a-bccb-4cc4-b590-5be19386a6f7",
+        "release_group_mbid": "f2026101-945b-3d05-9ef4-aa718fc3feef",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Hey You",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Welcome to the Machine",
+      "artist": "Pink Floyd",
+      "release": "Wish You Were Here",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 2,
+        "discnumber": 1,
+        "duration_ms": 451680,
+        "isrc": "GBN9Y1100086"
+      },
+      "mapped": {
+        "recording_mbid": "3794be20-3b5c-41e8-99d5-1d5649fe3821",
+        "release_mbid": "f973f4e5-9c7d-4211-af65-ec628b0480f7",
+        "release_group_mbid": "1a272023-10d3-38ee-bab3-317b55fcc21d",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Welcome to the Machine",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Coming Back to Life",
+      "artist": "Pink Floyd",
+      "release": "The Division Bell",
+      "submitted": {
+        "artist_names": [
+          "Pink Floyd"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 8,
+        "discnumber": 1,
+        "duration_ms": 379241,
+        "isrc": "GBN9X1100019"
+      },
+      "mapped": {
+        "recording_mbid": "0e1029f5-6be8-4cbb-ac73-2323d240558e",
+        "release_mbid": "12eb7e4c-29a1-46d2-a971-f852655c7587",
+        "release_group_mbid": "90878b63-f639-3c8b-aefb-190bdf3d1790",
+        "artist_mbids": [
+          "83d91898-7763-47d7-b03b-b92132375c47"
+        ],
+        "recording_name": "Coming Back to Life",
+        "credits": [
+          {
+            "artist_credit_name": "Pink Floyd",
+            "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+            "join_phrase": ""
+          }
+        ]
+      }
+    }
+  ]
+}

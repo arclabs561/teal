@@ -1,0 +1,207 @@
+{
+  "entry": {
+    "number": "6",
+    "title": "会いたくて",
+    "recording": "ab7a42e2-c477-44e6-8cc7-056f8f8b10a5",
+    "artist": "Ado",
+    "release": "狂言",
+    "releaseId": "c7974d11-385c-4770-be81-ee4253b99478",
+    "tracklistUrl": "https://musicbrainz.org/ws/2/release/c7974d11-385c-4770-be81-ee4253b99478?inc=recordings+artist-credits&fmt=json",
+    "urls": {
+      "name": "https://musicbrainz.org/ws/2/recording?query=title%3A%22%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8F%E3%81%A6%22%20AND%20artist%3A%22Ado%22%20AND%20release%3A%22%E7%8B%82%E8%A8%80%22&fmt=json&limit=5",
+      "id": "https://musicbrainz.org/ws/2/recording?query=title%3A%22%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8F%E3%81%A6%22%20AND%20artist%3A%22Ado%22%20AND%20reid%3Ac7974d11-385c-4770-be81-ee4253b99478&fmt=json&limit=5"
+    }
+  },
+  "otherRelease": {
+    "url": "https://musicbrainz.org/ws/2/release/f55654fa-fa15-4eb5-8709-56b5047b3629?inc=recordings+artist-credits&fmt=json",
+    "id": "f55654fa-fa15-4eb5-8709-56b5047b3629",
+    "title": "狂言",
+    "tracklist": [
+      {
+        "medium": 1,
+        "format": "CD",
+        "number": "1",
+        "title": "レディメイド",
+        "recording": "5e7a3676-dbdb-48f9-b916-ddee65d015c8",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 1,
+        "format": "CD",
+        "number": "2",
+        "title": "踊",
+        "recording": "edb6736a-50b3-4815-ba46-e453807f0835",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 1,
+        "format": "CD",
+        "number": "3",
+        "title": "ドメスティックでバイオレンス",
+        "recording": "2b886020-c7e7-4da7-8c04-46d2daabd88e",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 1,
+        "format": "CD",
+        "number": "4",
+        "title": "FREEDOM",
+        "recording": "e85a1656-1d91-45d8-b028-2a98b33af9bd",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 1,
+        "format": "CD",
+        "number": "5",
+        "title": "花火",
+        "recording": "9eacbbd7-65ca-4154-ae76-9a1866ff6bcd",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 1,
+        "format": "CD",
+        "number": "6",
+        "title": "会いたくて",
+        "recording": "ab7a42e2-c477-44e6-8cc7-056f8f8b10a5",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 1,
+        "format": "CD",
+        "number": "7",
+        "title": "ラッキー・ブルート",
+        "recording": "058d99f7-2770-4a65-86c0-19f92f9fcea3",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 1,
+        "format": "CD",
+        "number": "8",
+        "title": "ギラギラ",
+        "recording": "d7e4646b-e831-4d85-a740-647ad9e1e37d",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 1,
+        "format": "CD",
+        "number": "9",
+        "title": "阿修羅ちゃん",
+        "recording": "8dc671a4-3ee1-4f3e-9b3b-00d4a2e980ed",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 1,
+        "format": "CD",
+        "number": "10",
+        "title": "心という名の不可解",
+        "recording": "ab14c6ef-be4f-440a-9c4a-fd1a067c2c52",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 1,
+        "format": "CD",
+        "number": "11",
+        "title": "うっせぇわ",
+        "recording": "5d992918-e00d-420a-85cd-04dd6e262a00",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 1,
+        "format": "CD",
+        "number": "12",
+        "title": "マザーランド",
+        "recording": "079df479-7a6a-4e6b-b3b2-df911006e670",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 1,
+        "format": "CD",
+        "number": "13",
+        "title": "過学習",
+        "recording": "0394cf8e-14a4-4eb2-9816-8ddef32ed94d",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 1,
+        "format": "CD",
+        "number": "14",
+        "title": "夜のピエロ",
+        "recording": "7334cbd8-5104-4a04-b931-cce1889f920f",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 2,
+        "format": "DVD",
+        "number": "1",
+        "title": "うっせぇわ",
+        "recording": "a5fe5a8c-60b7-426a-9a5d-cb8cb929060a",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 2,
+        "format": "DVD",
+        "number": "2",
+        "title": "レディメイド",
+        "recording": "b48df14d-ae6d-4dfa-9cc3-f6f542cd1dad",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 2,
+        "format": "DVD",
+        "number": "3",
+        "title": "ギラギラ",
+        "recording": "de3305d0-43ee-4ad9-b31e-67615d48d73a",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 2,
+        "format": "DVD",
+        "number": "4",
+        "title": "踊",
+        "recording": "ea155ea1-97e6-47c5-9b6a-fd782756b46d",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 2,
+        "format": "DVD",
+        "number": "5",
+        "title": "夜のピエロ",
+        "recording": "1fb433ec-a3f3-40a6-91bf-b1e467e86a19",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 2,
+        "format": "DVD",
+        "number": "6",
+        "title": "会いたくて",
+        "recording": "f947884b-5d84-47c2-827f-3396e0f590ad",
+        "recordingDisambiguation": ""
+      },
+      {
+        "medium": 2,
+        "format": "DVD",
+        "number": "7",
+        "title": "阿修羅ちゃん",
+        "recording": "6433d8b3-102f-4e10-9ccc-1a1bd8d4b16f",
+        "recordingDisambiguation": ""
+      }
+    ]
+  },
+  "result": {
+    "url": "https://musicbrainz.org/ws/2/recording?fmt=json&limit=5&query=title%3A%22%E4%BC%9A%E3%81%84%E3%81%9F%E3%81%8F%E3%81%A6%22%20AND%20artist%3A%22Ado%22%20AND%20reid%3Af55654fa-fa15-4eb5-8709-56b5047b3629",
+    "created": "2026-11-22T17:37:57.658Z",
+    "count": 2,
+    "recordings": [
+      {
+        "id": "ab7a42e2-c477-44e6-8cc7-056f8f8b10a5",
+        "title": "会いたくて",
+        "score": 100
+      },
+      {
+        "id": "f947884b-5d84-47c2-827f-3396e0f590ad",
+        "title": "会いたくて",
+        "score": 100
+      }
+    ]
+  }
+}

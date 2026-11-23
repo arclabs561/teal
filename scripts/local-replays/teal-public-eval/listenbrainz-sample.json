@@ -1,0 +1,412 @@
+{
+  "captured": "2026-11-22",
+  "license": "CC0 (ListenBrainz public listen metadata)",
+  "source": "Three bounded public ListenBrainz recent-listens samples, 15 rows each",
+  "rows": [
+    {
+      "track": "Some Resolve",
+      "artist": "Röyksopp",
+      "release": "Profound Mysteries II",
+      "clientRecordingId": "30d08f4c-d825-4ae1-b79c-44242cddd7c0",
+      "mappedRecordingId": "30d08f4c-d825-4ae1-b79c-44242cddd7c0",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Tell Him",
+      "artist": "Röyksopp feat. Susanne Sundfør",
+      "release": "Profound Mysteries II",
+      "clientRecordingId": "46f0b53f-6731-457c-93e7-57cff0e5b0c2",
+      "mappedRecordingId": "46f0b53f-6731-457c-93e7-57cff0e5b0c2",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Remembering the Departed",
+      "artist": "Röyksopp",
+      "release": "Profound Mysteries II",
+      "clientRecordingId": "a8eb2940-b706-4e35-afd2-f15feec4eb20",
+      "mappedRecordingId": "a8eb2940-b706-4e35-afd2-f15feec4eb20",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "It Was a Good Thing",
+      "artist": "Röyksopp feat. Pixx",
+      "release": "Profound Mysteries II",
+      "clientRecordingId": "100bdac3-db86-41ba-b987-6f639914834c",
+      "mappedRecordingId": "100bdac3-db86-41ba-b987-6f639914834c",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Control",
+      "artist": "Röyksopp",
+      "release": "Profound Mysteries II",
+      "clientRecordingId": "0228a5f7-fd54-4b8c-8d7c-7c6f2d0163b8",
+      "mappedRecordingId": "0228a5f7-fd54-4b8c-8d7c-7c6f2d0163b8",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Sorry",
+      "artist": "Röyksopp feat. Jamie Irrepressible",
+      "release": "Profound Mysteries II",
+      "clientRecordingId": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12",
+      "mappedRecordingId": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Oh, Lover",
+      "artist": "Röyksopp feat. Susanne Sundfør",
+      "release": "Profound Mysteries II",
+      "clientRecordingId": "d1d936eb-fef3-4d19-8b73-419b978ede6a",
+      "mappedRecordingId": "d1d936eb-fef3-4d19-8b73-419b978ede6a",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Unity",
+      "artist": "Röyksopp feat. Karen Harding",
+      "release": "Profound Mysteries II",
+      "clientRecordingId": "07530f77-1296-43a1-aa1d-6936d7246725",
+      "mappedRecordingId": "07530f77-1296-43a1-aa1d-6936d7246725",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Let’s Get It Right",
+      "artist": "Röyksopp feat. Astrid S",
+      "release": "Profound Mysteries II",
+      "clientRecordingId": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+      "mappedRecordingId": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Denimclad Baboons",
+      "artist": "Röyksopp",
+      "release": "Profound Mysteries II",
+      "clientRecordingId": "6400d6f9-83f2-4e18-90fc-03ac5265d269",
+      "mappedRecordingId": "6400d6f9-83f2-4e18-90fc-03ac5265d269",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Let’s Get It Right",
+      "artist": "Röyksopp feat. Astrid S",
+      "release": "Profound Mysteries II",
+      "clientRecordingId": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+      "mappedRecordingId": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Denimclad Baboons",
+      "artist": "Röyksopp",
+      "release": "Profound Mysteries II",
+      "clientRecordingId": "6400d6f9-83f2-4e18-90fc-03ac5265d269",
+      "mappedRecordingId": "6400d6f9-83f2-4e18-90fc-03ac5265d269",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Oh, Lover",
+      "artist": "Röyksopp feat. Susanne Sundfør",
+      "release": "Profound Mysteries II",
+      "clientRecordingId": "d1d936eb-fef3-4d19-8b73-419b978ede6a",
+      "mappedRecordingId": "d1d936eb-fef3-4d19-8b73-419b978ede6a",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "La Guapa",
+      "artist": "B-Tribe",
+      "release": "Sensual Sensual",
+      "clientRecordingId": "b8df962a-6127-4d6d-a157-b414e14cb0a1",
+      "mappedRecordingId": "b8df962a-6127-4d6d-a157-b414e14cb0a1",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Tribute to J.S. Bach",
+      "artist": "B-Tribe",
+      "release": "Sensual Sensual",
+      "clientRecordingId": "41301395-6d54-43ea-bf32-9f09295dbee6",
+      "mappedRecordingId": "41301395-6d54-43ea-bf32-9f09295dbee6",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "clientRecordingId": null,
+      "mappedRecordingId": null,
+      "hasISRC": true,
+      "hasSpotifyID": true
+    },
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "clientRecordingId": null,
+      "mappedRecordingId": null,
+      "hasISRC": true,
+      "hasSpotifyID": true
+    },
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "clientRecordingId": null,
+      "mappedRecordingId": null,
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "clientRecordingId": null,
+      "mappedRecordingId": null,
+      "hasISRC": true,
+      "hasSpotifyID": true
+    },
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "clientRecordingId": null,
+      "mappedRecordingId": null,
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "For A Reason",
+      "artist": "Karan Aujla, Ikky",
+      "release": "P-POP CULTURE",
+      "clientRecordingId": null,
+      "mappedRecordingId": "67bc2dde-b38f-4f4e-9eb2-c2d7e2cdf461",
+      "hasISRC": true,
+      "hasSpotifyID": true
+    },
+    {
+      "track": "For A Reason",
+      "artist": "Karan Aujla, Ikky",
+      "release": "P-POP CULTURE",
+      "clientRecordingId": null,
+      "mappedRecordingId": "67bc2dde-b38f-4f4e-9eb2-c2d7e2cdf461",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "La Folie",
+      "clientRecordingId": null,
+      "mappedRecordingId": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0",
+      "hasISRC": true,
+      "hasSpotifyID": true
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "Clara Sheller (Saison 2)",
+      "clientRecordingId": null,
+      "mappedRecordingId": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Golden Brown - Slowed Down Version",
+      "artist": "The Stranglers",
+      "release": "Golden Brown",
+      "clientRecordingId": null,
+      "mappedRecordingId": "1d719666-90e7-4a52-b24f-85686901e6e7",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "La Folie",
+      "clientRecordingId": null,
+      "mappedRecordingId": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0",
+      "hasISRC": true,
+      "hasSpotifyID": true
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "Clara Sheller (Saison 2)",
+      "clientRecordingId": null,
+      "mappedRecordingId": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Paparazzi",
+      "artist": "Lady Gaga",
+      "release": "The Fame",
+      "clientRecordingId": null,
+      "mappedRecordingId": "7a1040dc-bac0-479c-9921-f43797ed0b81",
+      "hasISRC": true,
+      "hasSpotifyID": true
+    },
+    {
+      "track": "Paparazzi",
+      "artist": "Lady Gaga",
+      "release": "The Fame Monster (France FNAC Version)",
+      "clientRecordingId": null,
+      "mappedRecordingId": "7a1040dc-bac0-479c-9921-f43797ed0b81",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Un Ka Andaz-E-Karam",
+      "artist": "Nusrat Fateh Ali Khan",
+      "release": "Sadness (Best Sad Qawwalies)",
+      "clientRecordingId": null,
+      "mappedRecordingId": "6cbbd60b-6fee-4863-b6de-df4953834c6e",
+      "hasISRC": true,
+      "hasSpotifyID": true
+    },
+    {
+      "track": "Flower in a Hurricane",
+      "artist": "Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard",
+      "release": "Grand Theft Auto VI: The Album",
+      "clientRecordingId": null,
+      "mappedRecordingId": null,
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Sexy Magic",
+      "artist": "CA7RIEL & Paco Amoroso, PinkPantheress, Fred again.. & Étienne de Crécy",
+      "release": "Grand Theft Auto VI: The Album",
+      "clientRecordingId": null,
+      "mappedRecordingId": "bf02a589-aeb8-46af-ba98-cf6a7722a5eb",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "RHYNO",
+      "artist": "Travis Scott",
+      "release": "Grand Theft Auto VI: The Album",
+      "clientRecordingId": null,
+      "mappedRecordingId": "1fe52bac-f8d2-42fa-8e62-f406798f3b50",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "AHH YEA",
+      "artist": "Playboi Carti",
+      "release": "Grand Theft Auto VI: The Album",
+      "clientRecordingId": null,
+      "mappedRecordingId": null,
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Starting from Zero",
+      "artist": "Justice feat. Michael McDonald",
+      "release": "Grand Theft Auto VI: The Album",
+      "clientRecordingId": null,
+      "mappedRecordingId": null,
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Frequencies",
+      "artist": "Katie Herzig",
+      "release": "Walk Through Walls",
+      "clientRecordingId": null,
+      "mappedRecordingId": "1cc28a23-b1d2-4af6-a2d5-b158a334ea0c",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Weightless",
+      "artist": "Katie Herzig",
+      "release": "Weightless",
+      "clientRecordingId": null,
+      "mappedRecordingId": "fccbae16-25b9-4b65-811d-166a1d89b427",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Until You Try",
+      "artist": "Katie Herzig",
+      "release": "Weightless",
+      "clientRecordingId": null,
+      "mappedRecordingId": "e492113d-e78e-4117-9eee-456d85c86972",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Lethal",
+      "artist": "Vera Blue",
+      "release": "Mercurial",
+      "clientRecordingId": null,
+      "mappedRecordingId": "eb84791c-26d5-4409-ae20-7dec59cd653b",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Horses",
+      "artist": "Mallrat",
+      "release": "Light hit my face like a straight right",
+      "clientRecordingId": null,
+      "mappedRecordingId": "defe4fc0-35bb-4e22-bb0e-464df45906c8",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "I Can Fix Him (No Really I Can)",
+      "artist": "Taylor Swift",
+      "release": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+      "clientRecordingId": null,
+      "mappedRecordingId": "085dab8e-2569-4864-8db5-fe150fd2587e",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Sunrise",
+      "artist": "Simply Red",
+      "release": "Home",
+      "clientRecordingId": null,
+      "mappedRecordingId": "32e69a9c-a667-4c82-aaa0-8489d2f5c752",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Haunted",
+      "artist": "Beyoncé",
+      "release": "Beyoncé",
+      "clientRecordingId": null,
+      "mappedRecordingId": "158fe696-8515-4732-9729-0b65f4e4a445",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Mermaid Avenue",
+      "artist": "Vera Blue",
+      "release": "Mercurial",
+      "clientRecordingId": null,
+      "mappedRecordingId": "603bdd27-b833-448b-8c24-9827f2c5e253",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    },
+    {
+      "track": "Million Miles",
+      "artist": "Kylie Minogue",
+      "release": "Kiss Me Once",
+      "clientRecordingId": null,
+      "mappedRecordingId": "e2ad2a5b-5d63-422c-a2fb-dce90c9db94a",
+      "hasISRC": false,
+      "hasSpotifyID": false
+    }
+  ]
+}

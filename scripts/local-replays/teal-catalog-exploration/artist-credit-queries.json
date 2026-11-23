@@ -1,0 +1,36 @@
+[
+  {
+    "input": {
+      "track": "The Outlines",
+      "artist": "Koven, Circadian",
+      "release": "The Outlines"
+    },
+    "expected": "035d921d-1105-499b-8a71-7fbb2b27d67d",
+    "evidence": "https://musicbrainz.org/ws/2/recording/035d921d-1105-499b-8a71-7fbb2b27d67d?inc=releases+artist-credits&fmt=json",
+    "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22The%20Outlines%22%20AND%20artist%3A%22Koven%2C%20Circadian%22%20AND%20release%3A%22The%20Outlines%22&fmt=json&limit=25",
+    "urls": [
+      "https://musicbrainz.org/ws/2/recording?query=title%3A%22The%20Outlines%22%20AND%20artist%3A%22Koven%2C%20Circadian%22%20AND%20release%3A%22The%20Outlines%22&fmt=json&limit=25",
+      "https://musicbrainz.org/ws/2/recording?query=title%3A%22The%20Outlines%22%20AND%20artist%3A%22Koven%2C%20Circadian%22&fmt=json&limit=25",
+      "https://musicbrainz.org/ws/2/recording?query=title%3A%22The%20Outlines%22~3%20AND%20artist%3A%22Koven%2C%20Circadian%22~3&fmt=json&limit=25",
+      "https://musicbrainz.org/ws/2/recording?query=title%3A%22The%20Outlines%22&fmt=json&limit=25"
+    ],
+    "split": "https://musicbrainz.org/ws/2/recording?query=title%3A%22The+Outlines%22+AND+artist%3A%22Koven%22+AND+artist%3A%22Circadian%22+AND+release%3A%22The+Outlines%22&fmt=json&limit=25"
+  },
+  {
+    "input": {
+      "track": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)",
+      "artist": "Cosmograph, LEVEL NINE",
+      "release": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)"
+    },
+    "expected": "d2fc36c0-45ed-4d5c-80c4-bbe3f2c02be7",
+    "evidence": "https://musicbrainz.org/ws/2/recording/d2fc36c0-45ed-4d5c-80c4-bbe3f2c02be7?inc=releases+artist-credits&fmt=json",
+    "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Dirty%20Backyard%20(Goddess%20of%20Victory%3A%20NIKKE%20Original%20Soundtrack)%22%20AND%20artist%3A%22Cosmograph%2C%20LEVEL%20NINE%22%20AND%20release%3A%22Dirty%20Backyard%20(Goddess%20of%20Victory%3A%20NIKKE%20Original%20Soundtrack)%22&fmt=json&limit=25",
+    "urls": [
+      "https://musicbrainz.org/ws/2/recording?query=title%3A%22Dirty%20Backyard%20(Goddess%20of%20Victory%3A%20NIKKE%20Original%20Soundtrack)%22%20AND%20artist%3A%22Cosmograph%2C%20LEVEL%20NINE%22%20AND%20release%3A%22Dirty%20Backyard%20(Goddess%20of%20Victory%3A%20NIKKE%20Original%20Soundtrack)%22&fmt=json&limit=25",
+      "https://musicbrainz.org/ws/2/recording?query=title%3A%22Dirty%20Backyard%20(Goddess%20of%20Victory%3A%20NIKKE%20Original%20Soundtrack)%22%20AND%20artist%3A%22Cosmograph%2C%20LEVEL%20NINE%22&fmt=json&limit=25",
+      "https://musicbrainz.org/ws/2/recording?query=title%3A%22Dirty%20Backyard%20%5C(Goddess%20of%20Victory%5C%3A%20NIKKE%20Original%20Soundtrack%5C)%22~3%20AND%20artist%3A%22Cosmograph%2C%20LEVEL%20NINE%22~3&fmt=json&limit=25",
+      "https://musicbrainz.org/ws/2/recording?query=title%3A%22Dirty%20Backyard%20(Goddess%20of%20Victory%3A%20NIKKE%20Original%20Soundtrack)%22&fmt=json&limit=25"
+    ],
+    "split": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Dirty+Backyard+%28Goddess+of+Victory%3A+NIKKE+Original+Soundtrack%29%22+AND+artist%3A%22Cosmograph%22+AND+artist%3A%22LEVEL+NINE%22+AND+release%3A%22Dirty+Backyard+%28Goddess+of+Victory%3A+NIKKE+Original+Soundtrack%29%22&fmt=json&limit=25"
+  }
+]

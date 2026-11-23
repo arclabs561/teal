@@ -1,0 +1,183 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/12eb7e4c-29a1-46d2-a971-f852655c7587?inc=recordings+artist-credits&fmt=json",
+  "id": "12eb7e4c-29a1-46d2-a971-f852655c7587",
+  "title": "The Division Bell",
+  "date": "1994-03-28",
+  "country": "GB",
+  "barcode": "724382898429",
+  "packaging": "Jewel Case",
+  "media": [
+    {
+      "position": 1,
+      "format": "CD",
+      "title": "",
+      "tracks": [
+        {
+          "number": "1",
+          "title": "Cluster One",
+          "recording": "a155873d-0d25-437a-9da3-d78b2f4efbe9",
+          "recordingTitle": "Cluster One",
+          "recordingDisambiguation": "original studio mix",
+          "length": 358866,
+          "credits": [
+            {
+              "name": "Pink Floyd",
+              "id": "83d91898-7763-47d7-b03b-b92132375c47",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "2",
+          "title": "What Do You Want From Me",
+          "recording": "48c10127-0fcd-44f0-9a65-4432667e52e9",
+          "recordingTitle": "What Do You Want From Me",
+          "recordingDisambiguation": "original studio mix",
+          "length": 261533,
+          "credits": [
+            {
+              "name": "Pink Floyd",
+              "id": "83d91898-7763-47d7-b03b-b92132375c47",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Poles Apart",
+          "recording": "c50d3988-0c48-4b9c-ab44-ebdc4f465088",
+          "recordingTitle": "Poles Apart",
+          "recordingDisambiguation": "original studio mix",
+          "length": 424600,
+          "credits": [
+            {
+              "name": "Pink Floyd",
+              "id": "83d91898-7763-47d7-b03b-b92132375c47",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Marooned",
+          "recording": "1e55b30d-74ad-446a-af99-2f8d069de8af",
+          "recordingTitle": "Marooned",
+          "recordingDisambiguation": "original studio mix",
+          "length": 328333,
+          "credits": [
+            {
+              "name": "Pink Floyd",
+              "id": "83d91898-7763-47d7-b03b-b92132375c47",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "5",
+          "title": "A Great Day for Freedom",
+          "recording": "295e74ce-bf10-49d0-a72e-0d525ec4baee",
+          "recordingTitle": "A Great Day for Freedom",
+          "recordingDisambiguation": "original studio mix",
+          "length": 258493,
+          "credits": [
+            {
+              "name": "Pink Floyd",
+              "id": "83d91898-7763-47d7-b03b-b92132375c47",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Wearing the Inside Out",
+          "recording": "d6e578ac-bfc0-4a2e-9e08-d68e2c633536",
+          "recordingTitle": "Wearing the Inside Out",
+          "recordingDisambiguation": "original studio mix",
+          "length": 408906,
+          "credits": [
+            {
+              "name": "Pink Floyd",
+              "id": "83d91898-7763-47d7-b03b-b92132375c47",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Take It Back",
+          "recording": "a38a3114-859a-40c2-8e95-b1cf6273ca65",
+          "recordingTitle": "Take It Back",
+          "recordingDisambiguation": "original studio mix",
+          "length": 372293,
+          "credits": [
+            {
+              "name": "Pink Floyd",
+              "id": "83d91898-7763-47d7-b03b-b92132375c47",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "8",
+          "title": "Coming Back to Life",
+          "recording": "0e1029f5-6be8-4cbb-ac73-2323d240558e",
+          "recordingTitle": "Coming Back to Life",
+          "recordingDisambiguation": "original studio mix",
+          "length": 379466,
+          "credits": [
+            {
+              "name": "Pink Floyd",
+              "id": "83d91898-7763-47d7-b03b-b92132375c47",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "9",
+          "title": "Keep Talking",
+          "recording": "81ce11c1-21b7-4d88-b5b7-9458101fc423",
+          "recordingTitle": "Keep Talking",
+          "recordingDisambiguation": "original studio mix",
+          "length": 371333,
+          "credits": [
+            {
+              "name": "Pink Floyd",
+              "id": "83d91898-7763-47d7-b03b-b92132375c47",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "10",
+          "title": "Lost for Words",
+          "recording": "1ec5ea31-99ec-4c12-851a-058749ad8319",
+          "recordingTitle": "Lost for Words",
+          "recordingDisambiguation": "original studio mix",
+          "length": 314773,
+          "credits": [
+            {
+              "name": "Pink Floyd",
+              "id": "83d91898-7763-47d7-b03b-b92132375c47",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "11",
+          "title": "High Hopes",
+          "recording": "4e0d8649-1f89-44f3-91af-4c0dbee81f28",
+          "recordingTitle": "High Hopes",
+          "recordingDisambiguation": "original studio mix",
+          "length": 511533,
+          "credits": [
+            {
+              "name": "Pink Floyd",
+              "id": "83d91898-7763-47d7-b03b-b92132375c47",
+              "joinphrase": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

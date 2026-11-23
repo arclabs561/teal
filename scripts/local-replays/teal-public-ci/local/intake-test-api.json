@@ -1,0 +1,695 @@
+{
+  "payload": {
+    "listens": [
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000000,
+        "track_metadata": {
+          "track_name": "Some Resolve",
+          "artist_name": "Röyksopp",
+          "release_name": "Profound Mysteries II",
+          "additional_info": {
+            "recording_mbid": "30d08f4c-d825-4ae1-b79c-44242cddd7c0"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "30d08f4c-d825-4ae1-b79c-44242cddd7c0"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000001,
+        "track_metadata": {
+          "track_name": "Tell Him",
+          "artist_name": "Röyksopp feat. Susanne Sundfør",
+          "release_name": "Profound Mysteries II",
+          "additional_info": {
+            "recording_mbid": "46f0b53f-6731-457c-93e7-57cff0e5b0c2"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "46f0b53f-6731-457c-93e7-57cff0e5b0c2"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000002,
+        "track_metadata": {
+          "track_name": "Remembering the Departed",
+          "artist_name": "Röyksopp",
+          "release_name": "Profound Mysteries II",
+          "additional_info": {
+            "recording_mbid": "a8eb2940-b706-4e35-afd2-f15feec4eb20"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "a8eb2940-b706-4e35-afd2-f15feec4eb20"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000003,
+        "track_metadata": {
+          "track_name": "It Was a Good Thing",
+          "artist_name": "Röyksopp feat. Pixx",
+          "release_name": "Profound Mysteries II",
+          "additional_info": {
+            "recording_mbid": "100bdac3-db86-41ba-b987-6f639914834c"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "100bdac3-db86-41ba-b987-6f639914834c"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000004,
+        "track_metadata": {
+          "track_name": "Control",
+          "artist_name": "Röyksopp",
+          "release_name": "Profound Mysteries II",
+          "additional_info": {
+            "recording_mbid": "0228a5f7-fd54-4b8c-8d7c-7c6f2d0163b8"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "0228a5f7-fd54-4b8c-8d7c-7c6f2d0163b8"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000005,
+        "track_metadata": {
+          "track_name": "Sorry",
+          "artist_name": "Röyksopp feat. Jamie Irrepressible",
+          "release_name": "Profound Mysteries II",
+          "additional_info": {
+            "recording_mbid": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000006,
+        "track_metadata": {
+          "track_name": "Oh, Lover",
+          "artist_name": "Röyksopp feat. Susanne Sundfør",
+          "release_name": "Profound Mysteries II",
+          "additional_info": {
+            "recording_mbid": "d1d936eb-fef3-4d19-8b73-419b978ede6a"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "d1d936eb-fef3-4d19-8b73-419b978ede6a"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000007,
+        "track_metadata": {
+          "track_name": "Unity",
+          "artist_name": "Röyksopp feat. Karen Harding",
+          "release_name": "Profound Mysteries II",
+          "additional_info": {
+            "recording_mbid": "07530f77-1296-43a1-aa1d-6936d7246725"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "07530f77-1296-43a1-aa1d-6936d7246725"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000008,
+        "track_metadata": {
+          "track_name": "Let’s Get It Right",
+          "artist_name": "Röyksopp feat. Astrid S",
+          "release_name": "Profound Mysteries II",
+          "additional_info": {
+            "recording_mbid": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000009,
+        "track_metadata": {
+          "track_name": "Denimclad Baboons",
+          "artist_name": "Röyksopp",
+          "release_name": "Profound Mysteries II",
+          "additional_info": {
+            "recording_mbid": "6400d6f9-83f2-4e18-90fc-03ac5265d269"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "6400d6f9-83f2-4e18-90fc-03ac5265d269"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000010,
+        "track_metadata": {
+          "track_name": "Let’s Get It Right",
+          "artist_name": "Röyksopp feat. Astrid S",
+          "release_name": "Profound Mysteries II",
+          "additional_info": {
+            "recording_mbid": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000011,
+        "track_metadata": {
+          "track_name": "Denimclad Baboons",
+          "artist_name": "Röyksopp",
+          "release_name": "Profound Mysteries II",
+          "additional_info": {
+            "recording_mbid": "6400d6f9-83f2-4e18-90fc-03ac5265d269"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "6400d6f9-83f2-4e18-90fc-03ac5265d269"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000012,
+        "track_metadata": {
+          "track_name": "Oh, Lover",
+          "artist_name": "Röyksopp feat. Susanne Sundfør",
+          "release_name": "Profound Mysteries II",
+          "additional_info": {
+            "recording_mbid": "d1d936eb-fef3-4d19-8b73-419b978ede6a"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "d1d936eb-fef3-4d19-8b73-419b978ede6a"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000013,
+        "track_metadata": {
+          "track_name": "La Guapa",
+          "artist_name": "B-Tribe",
+          "release_name": "Sensual Sensual",
+          "additional_info": {
+            "recording_mbid": "b8df962a-6127-4d6d-a157-b414e14cb0a1"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "b8df962a-6127-4d6d-a157-b414e14cb0a1"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000014,
+        "track_metadata": {
+          "track_name": "Tribute to J.S. Bach",
+          "artist_name": "B-Tribe",
+          "release_name": "Sensual Sensual",
+          "additional_info": {
+            "recording_mbid": "41301395-6d54-43ea-bf32-9f09295dbee6"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "41301395-6d54-43ea-bf32-9f09295dbee6"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000015,
+        "track_metadata": {
+          "track_name": "Dil Kaa Jo Haal Hai",
+          "artist_name": "Abhijeet, Shreya Ghoshal",
+          "release_name": "Besharam",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": null
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000016,
+        "track_metadata": {
+          "track_name": "Dil Kaa Jo Haal Hai",
+          "artist_name": "Abhijeet, Shreya Ghoshal",
+          "release_name": "Besharam",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": null
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000017,
+        "track_metadata": {
+          "track_name": "Dil Kaa Jo Haal Hai",
+          "artist_name": "Abhijeet, Shreya Ghoshal",
+          "release_name": "Besharam",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": null
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000018,
+        "track_metadata": {
+          "track_name": "Dil Kaa Jo Haal Hai",
+          "artist_name": "Abhijeet, Shreya Ghoshal",
+          "release_name": "Besharam",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": null
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000019,
+        "track_metadata": {
+          "track_name": "Dil Kaa Jo Haal Hai",
+          "artist_name": "Abhijeet, Shreya Ghoshal",
+          "release_name": "Besharam",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": null
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000020,
+        "track_metadata": {
+          "track_name": "For A Reason",
+          "artist_name": "Karan Aujla, Ikky",
+          "release_name": "P-POP CULTURE",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "67bc2dde-b38f-4f4e-9eb2-c2d7e2cdf461"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000021,
+        "track_metadata": {
+          "track_name": "For A Reason",
+          "artist_name": "Karan Aujla, Ikky",
+          "release_name": "P-POP CULTURE",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "67bc2dde-b38f-4f4e-9eb2-c2d7e2cdf461"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000022,
+        "track_metadata": {
+          "track_name": "Golden Brown",
+          "artist_name": "The Stranglers",
+          "release_name": "La Folie",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000023,
+        "track_metadata": {
+          "track_name": "Golden Brown",
+          "artist_name": "The Stranglers",
+          "release_name": "Clara Sheller (Saison 2)",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000024,
+        "track_metadata": {
+          "track_name": "Golden Brown - Slowed Down Version",
+          "artist_name": "The Stranglers",
+          "release_name": "Golden Brown",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "1d719666-90e7-4a52-b24f-85686901e6e7"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000025,
+        "track_metadata": {
+          "track_name": "Golden Brown",
+          "artist_name": "The Stranglers",
+          "release_name": "La Folie",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000026,
+        "track_metadata": {
+          "track_name": "Golden Brown",
+          "artist_name": "The Stranglers",
+          "release_name": "Clara Sheller (Saison 2)",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000027,
+        "track_metadata": {
+          "track_name": "Paparazzi",
+          "artist_name": "Lady Gaga",
+          "release_name": "The Fame",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "7a1040dc-bac0-479c-9921-f43797ed0b81"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000028,
+        "track_metadata": {
+          "track_name": "Paparazzi",
+          "artist_name": "Lady Gaga",
+          "release_name": "The Fame Monster (France FNAC Version)",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "7a1040dc-bac0-479c-9921-f43797ed0b81"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000029,
+        "track_metadata": {
+          "track_name": "Un Ka Andaz-E-Karam",
+          "artist_name": "Nusrat Fateh Ali Khan",
+          "release_name": "Sadness (Best Sad Qawwalies)",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "6cbbd60b-6fee-4863-b6de-df4953834c6e"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000030,
+        "track_metadata": {
+          "track_name": "Flower in a Hurricane",
+          "artist_name": "Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard",
+          "release_name": "Grand Theft Auto VI: The Album",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": null
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000031,
+        "track_metadata": {
+          "track_name": "Sexy Magic",
+          "artist_name": "CA7RIEL & Paco Amoroso, PinkPantheress, Fred again.. & Étienne de Crécy",
+          "release_name": "Grand Theft Auto VI: The Album",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "bf02a589-aeb8-46af-ba98-cf6a7722a5eb"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000032,
+        "track_metadata": {
+          "track_name": "RHYNO",
+          "artist_name": "Travis Scott",
+          "release_name": "Grand Theft Auto VI: The Album",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "1fe52bac-f8d2-42fa-8e62-f406798f3b50"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000033,
+        "track_metadata": {
+          "track_name": "AHH YEA",
+          "artist_name": "Playboi Carti",
+          "release_name": "Grand Theft Auto VI: The Album",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": null
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000034,
+        "track_metadata": {
+          "track_name": "Starting from Zero",
+          "artist_name": "Justice feat. Michael McDonald",
+          "release_name": "Grand Theft Auto VI: The Album",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": null
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000035,
+        "track_metadata": {
+          "track_name": "Frequencies",
+          "artist_name": "Katie Herzig",
+          "release_name": "Walk Through Walls",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "1cc28a23-b1d2-4af6-a2d5-b158a334ea0c"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000036,
+        "track_metadata": {
+          "track_name": "Weightless",
+          "artist_name": "Katie Herzig",
+          "release_name": "Weightless",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "fccbae16-25b9-4b65-811d-166a1d89b427"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000037,
+        "track_metadata": {
+          "track_name": "Until You Try",
+          "artist_name": "Katie Herzig",
+          "release_name": "Weightless",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "e492113d-e78e-4117-9eee-456d85c86972"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000038,
+        "track_metadata": {
+          "track_name": "Lethal",
+          "artist_name": "Vera Blue",
+          "release_name": "Mercurial",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "eb84791c-26d5-4409-ae20-7dec59cd653b"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000039,
+        "track_metadata": {
+          "track_name": "Horses",
+          "artist_name": "Mallrat",
+          "release_name": "Light hit my face like a straight right",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "defe4fc0-35bb-4e22-bb0e-464df45906c8"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000040,
+        "track_metadata": {
+          "track_name": "I Can Fix Him (No Really I Can)",
+          "artist_name": "Taylor Swift",
+          "release_name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "085dab8e-2569-4864-8db5-fe150fd2587e"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000041,
+        "track_metadata": {
+          "track_name": "Sunrise",
+          "artist_name": "Simply Red",
+          "release_name": "Home",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "32e69a9c-a667-4c82-aaa0-8489d2f5c752"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000042,
+        "track_metadata": {
+          "track_name": "Haunted",
+          "artist_name": "Beyoncé",
+          "release_name": "Beyoncé",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "158fe696-8515-4732-9729-0b65f4e4a445"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000043,
+        "track_metadata": {
+          "track_name": "Mermaid Avenue",
+          "artist_name": "Vera Blue",
+          "release_name": "Mercurial",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "603bdd27-b833-448b-8c24-9827f2c5e253"
+          }
+        }
+      },
+      {
+        "user_name": "fixture-listener",
+        "listened_at": 1700000044,
+        "track_metadata": {
+          "track_name": "Million Miles",
+          "artist_name": "Kylie Minogue",
+          "release_name": "Kiss Me Once",
+          "additional_info": {
+            "recording_mbid": null
+          },
+          "mbid_mapping": {
+            "recording_mbid": "e2ad2a5b-5d63-422c-a2fb-dce90c9db94a"
+          }
+        }
+      },
+      {
+        "track_metadata": {
+          "track_name": "Conflicting",
+          "artist_name": "Example",
+          "additional_info": {
+            "recording_mbid": "30d08f4c-d825-4ae1-b79c-44242cddd7c0"
+          },
+          "mbid_mapping": {
+            "recording_mbid": "46f0b53f-6731-457c-93e7-57cff0e5b0c2"
+          }
+        },
+        "user_name": "fixture-listener",
+        "listened_at": 1700000045
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "track": "Sparkle - movie ver.",
+    "artist": "RADWIMPS",
+    "release": "Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)",
+    "recordingId": "1d8040f5-95d7-423c-a232-5959915c4af3",
+    "medium": 2,
+    "number": "3",
+    "evidenceUrl": "https://musicbrainz.org/ws/2/release/a7fc3d41-d645-418e-a5d2-960a835b04e0?inc=recordings+artist-credits&fmt=json",
+    "queries": [
+      "title:\"Sparkle\" AND artist:\"RADWIMPS\" AND release:\"Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)\"",
+      "title:\"Sparkle\" AND artist:\"RADWIMPS\"",
+      "title:\"Sparkle - movie ver.\" AND artist:\"RADWIMPS\""
+    ]
+  },
+  {
+    "track": "Sparkle - English ver.",
+    "artist": "RADWIMPS",
+    "release": "Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)",
+    "recordingId": "2ce4bb17-2c5f-49ce-be58-558dec7322ee",
+    "medium": 1,
+    "number": "24",
+    "evidenceUrl": "https://musicbrainz.org/ws/2/release/a7fc3d41-d645-418e-a5d2-960a835b04e0?inc=recordings+artist-credits&fmt=json",
+    "queries": [
+      "title:\"Sparkle\" AND artist:\"RADWIMPS\" AND release:\"Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)\"",
+      "title:\"Sparkle\" AND artist:\"RADWIMPS\"",
+      "title:\"Sparkle - English ver.\" AND artist:\"RADWIMPS\""
+    ]
+  },
+  {
+    "track": "Zenzenzense - movie ver.",
+    "artist": "RADWIMPS",
+    "release": "Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)",
+    "recordingId": "f7f524cc-e991-49cd-873e-cc3278190aa1",
+    "medium": 2,
+    "number": "2",
+    "evidenceUrl": "https://musicbrainz.org/ws/2/release/a7fc3d41-d645-418e-a5d2-960a835b04e0?inc=recordings+artist-credits&fmt=json",
+    "queries": [
+      "title:\"Zenzenzense\" AND artist:\"RADWIMPS\" AND release:\"Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)\"",
+      "title:\"Zenzenzense\" AND artist:\"RADWIMPS\"",
+      "title:\"Zenzenzense - movie ver.\" AND artist:\"RADWIMPS\""
+    ]
+  },
+  {
+    "track": "Zenzenzense - English ver.",
+    "artist": "RADWIMPS",
+    "release": "Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)",
+    "recordingId": "4f0a7ae1-0a1d-45f6-98b8-8b7affdd44fd",
+    "medium": 1,
+    "number": "8",
+    "evidenceUrl": "https://musicbrainz.org/ws/2/release/a7fc3d41-d645-418e-a5d2-960a835b04e0?inc=recordings+artist-credits&fmt=json",
+    "queries": [
+      "title:\"Zenzenzense\" AND artist:\"RADWIMPS\" AND release:\"Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)\"",
+      "title:\"Zenzenzense\" AND artist:\"RADWIMPS\"",
+      "title:\"Zenzenzense - English ver.\" AND artist:\"RADWIMPS\""
+    ]
+  },
+  {
+    "track": "Nandemonaiya - movie ver.",
+    "artist": "RADWIMPS",
+    "release": "Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)",
+    "recordingId": "7310fd56-6c6c-4a88-ab8d-fbedaaab7741",
+    "medium": 2,
+    "number": "4",
+    "evidenceUrl": "https://musicbrainz.org/ws/2/release/a7fc3d41-d645-418e-a5d2-960a835b04e0?inc=recordings+artist-credits&fmt=json",
+    "queries": [
+      "title:\"Nandemonaiya\" AND artist:\"RADWIMPS\" AND release:\"Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)\"",
+      "title:\"Nandemonaiya\" AND artist:\"RADWIMPS\"",
+      "title:\"Nandemonaiya - movie ver.\" AND artist:\"RADWIMPS\""
+    ]
+  },
+  {
+    "track": "Nandemonaiya - English ver.",
+    "artist": "RADWIMPS",
+    "release": "Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)",
+    "recordingId": "ff05f7da-e976-4660-9472-fbe72b10d12f",
+    "medium": 1,
+    "number": "26",
+    "evidenceUrl": "https://musicbrainz.org/ws/2/release/a7fc3d41-d645-418e-a5d2-960a835b04e0?inc=recordings+artist-credits&fmt=json",
+    "queries": [
+      "title:\"Nandemonaiya\" AND artist:\"RADWIMPS\" AND release:\"Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)\"",
+      "title:\"Nandemonaiya\" AND artist:\"RADWIMPS\"",
+      "title:\"Nandemonaiya - English ver.\" AND artist:\"RADWIMPS\""
+    ]
+  }
+]

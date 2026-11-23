@@ -1,0 +1,12 @@
+{
+  "submitted_rows": 108,
+  "unique_query_texts": 108,
+  "artists": 91,
+  "nonempty_release_names": 93,
+  "with_source_duration": 71,
+  "sampled_candidates_by_tier": {
+    "client_id_needs_validation": 15,
+    "server_mapping_only": 79,
+    "unlabeled": 14
+  }
+}

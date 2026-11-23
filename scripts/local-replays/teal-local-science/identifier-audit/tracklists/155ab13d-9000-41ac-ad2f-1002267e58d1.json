@@ -1,0 +1,123 @@
+{
+  "url": "https://musicbrainz.org/ws/2/release/155ab13d-9000-41ac-ad2f-1002267e58d1?inc=recordings+artist-credits&fmt=json",
+  "id": "155ab13d-9000-41ac-ad2f-1002267e58d1",
+  "title": "Phoenix",
+  "date": "2019-11-15",
+  "country": "MX",
+  "barcode": null,
+  "packaging": null,
+  "media": [
+    {
+      "position": 1,
+      "format": "Digital Media",
+      "title": "",
+      "tracks": [
+        {
+          "number": "1",
+          "title": "Marea slta",
+          "recording": "b8aa3083-a5fc-4c28-84cf-4664c293147d",
+          "recordingTitle": "Marea slta",
+          "recordingDisambiguation": "",
+          "length": 208000,
+          "credits": [
+            {
+              "name": "Vazquez Sounds",
+              "id": "f3860c1b-30d3-4ba9-993f-a99f0cb28289",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "2",
+          "title": "Cielo de miel",
+          "recording": "9624298e-1ccd-44a8-b7da-e9ac797919bf",
+          "recordingTitle": "Cielo de miel",
+          "recordingDisambiguation": "",
+          "length": 203000,
+          "credits": [
+            {
+              "name": "Vazquez Sounds",
+              "id": "f3860c1b-30d3-4ba9-993f-a99f0cb28289",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "3",
+          "title": "Phoenix",
+          "recording": "7355a9a7-f503-4206-ae29-e8fa4ad5e4df",
+          "recordingTitle": "Phoenix",
+          "recordingDisambiguation": "",
+          "length": 193000,
+          "credits": [
+            {
+              "name": "Vazquez Sounds",
+              "id": "f3860c1b-30d3-4ba9-993f-a99f0cb28289",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "4",
+          "title": "Natalia",
+          "recording": "aa73d803-2dff-4060-9fee-447053a7556c",
+          "recordingTitle": "Natalia",
+          "recordingDisambiguation": "",
+          "length": 206000,
+          "credits": [
+            {
+              "name": "Vazquez Sounds",
+              "id": "f3860c1b-30d3-4ba9-993f-a99f0cb28289",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "5",
+          "title": "Volverte a ver",
+          "recording": "6d3f7c7a-1d5a-42f7-9e10-e33ed5949874",
+          "recordingTitle": "Volverte a ver",
+          "recordingDisambiguation": "",
+          "length": 186000,
+          "credits": [
+            {
+              "name": "Vazquez Sounds",
+              "id": "f3860c1b-30d3-4ba9-993f-a99f0cb28289",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "6",
+          "title": "Dentro de ti",
+          "recording": "a8ddeaa4-7cc0-4253-9bed-89433b067a62",
+          "recordingTitle": "Dentro de ti",
+          "recordingDisambiguation": "",
+          "length": 197000,
+          "credits": [
+            {
+              "name": "Vazquez Sounds",
+              "id": "f3860c1b-30d3-4ba9-993f-a99f0cb28289",
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "number": "7",
+          "title": "Luz de neón",
+          "recording": "3dc68256-42e6-42b2-9d80-f997b1de9147",
+          "recordingTitle": "Luz de neón",
+          "recordingDisambiguation": "",
+          "length": 215000,
+          "credits": [
+            {
+              "name": "Vazquez Sounds",
+              "id": "f3860c1b-30d3-4ba9-993f-a99f0cb28289",
+              "joinphrase": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

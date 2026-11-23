@@ -1,0 +1,1092 @@
+{
+  "sample": "page-2",
+  "rows": [
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "submitted": {
+        "artist_names": [
+          "Abhijeet",
+          "Shreya Ghoshal"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 4,
+        "discnumber": 1,
+        "duration_ms": 302609,
+        "isrc": "INS181305468"
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "submitted": {
+        "artist_names": [
+          "Abhijeet",
+          "Shreya Ghoshal"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 4,
+        "discnumber": 1,
+        "duration_ms": 302609,
+        "isrc": "INS181305468"
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 4,
+        "duration_ms": 302609
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "submitted": {
+        "artist_names": [
+          "Abhijeet",
+          "Shreya Ghoshal"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 4,
+        "discnumber": 1,
+        "duration_ms": 302609,
+        "isrc": "INS181305468"
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 4,
+        "duration_ms": 302609
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "For A Reason",
+      "artist": "Karan Aujla, Ikky",
+      "release": "P-POP CULTURE",
+      "submitted": {
+        "artist_names": [
+          "Karan Aujla",
+          "Ikky"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 2,
+        "discnumber": 1,
+        "duration_ms": 180000,
+        "isrc": "CAW112500963"
+      },
+      "mapped": {
+        "recording_mbid": "67bc2dde-b38f-4f4e-9eb2-c2d7e2cdf461",
+        "release_mbid": "7efc78cb-a89a-49fe-aaaa-96e2bbdaa3d2",
+        "release_group_mbid": "d947ce0a-c23e-481a-ac3d-c7e95df81266",
+        "artist_mbids": [
+          "4a779683-5404-4b90-a0d7-242495158265"
+        ],
+        "recording_name": "For A Reason",
+        "credits": [
+          {
+            "artist_credit_name": "Karan Aujla",
+            "artist_mbid": "4a779683-5404-4b90-a0d7-242495158265",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "For A Reason",
+      "artist": "Karan Aujla, Ikky",
+      "release": "P-POP CULTURE",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 2,
+        "duration_ms": 180000
+      },
+      "mapped": {
+        "recording_mbid": "67bc2dde-b38f-4f4e-9eb2-c2d7e2cdf461",
+        "release_mbid": "7efc78cb-a89a-49fe-aaaa-96e2bbdaa3d2",
+        "release_group_mbid": "d947ce0a-c23e-481a-ac3d-c7e95df81266",
+        "artist_mbids": [
+          "4a779683-5404-4b90-a0d7-242495158265"
+        ],
+        "recording_name": "For A Reason",
+        "credits": [
+          {
+            "artist_credit_name": "Karan Aujla",
+            "artist_mbid": "4a779683-5404-4b90-a0d7-242495158265",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "La Folie",
+      "submitted": {
+        "artist_names": [
+          "The Stranglers"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 9,
+        "discnumber": 1,
+        "duration_ms": 206760,
+        "isrc": "GBAYE8100053"
+      },
+      "mapped": {
+        "recording_mbid": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0",
+        "release_mbid": "c6911b3b-135f-4b7b-a2cc-b90ea1e11ac9",
+        "release_group_mbid": "7d1a739f-50b5-3549-a951-d4ea02ceb7e6",
+        "artist_mbids": [
+          "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b"
+        ],
+        "recording_name": "Golden Brown",
+        "credits": [
+          {
+            "artist_credit_name": "The Stranglers",
+            "artist_mbid": "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "Clara Sheller (Saison 2)",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 12,
+        "duration_ms": 209200
+      },
+      "mapped": {
+        "recording_mbid": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0",
+        "release_mbid": "c6911b3b-135f-4b7b-a2cc-b90ea1e11ac9",
+        "release_group_mbid": "7d1a739f-50b5-3549-a951-d4ea02ceb7e6",
+        "artist_mbids": [
+          "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b"
+        ],
+        "recording_name": "Golden Brown",
+        "credits": [
+          {
+            "artist_credit_name": "The Stranglers",
+            "artist_mbid": "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Golden Brown - Slowed Down Version",
+      "artist": "The Stranglers",
+      "release": "Golden Brown",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 2,
+        "duration_ms": 248494
+      },
+      "mapped": {
+        "recording_mbid": "1d719666-90e7-4a52-b24f-85686901e6e7",
+        "release_mbid": "bc0a226e-87ec-44ce-a92f-a51fec8bffe9",
+        "release_group_mbid": "c51a5a58-7436-4654-9174-a2d26cf92e21",
+        "artist_mbids": [
+          "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b"
+        ],
+        "recording_name": "Golden Brown",
+        "credits": [
+          {
+            "artist_credit_name": "Stranglers",
+            "artist_mbid": "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "La Folie",
+      "submitted": {
+        "artist_names": [
+          "The Stranglers"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 9,
+        "discnumber": 1,
+        "duration_ms": 206760,
+        "isrc": "GBAYE8100053"
+      },
+      "mapped": {
+        "recording_mbid": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0",
+        "release_mbid": "c6911b3b-135f-4b7b-a2cc-b90ea1e11ac9",
+        "release_group_mbid": "7d1a739f-50b5-3549-a951-d4ea02ceb7e6",
+        "artist_mbids": [
+          "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b"
+        ],
+        "recording_name": "Golden Brown",
+        "credits": [
+          {
+            "artist_credit_name": "The Stranglers",
+            "artist_mbid": "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "Clara Sheller (Saison 2)",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 12,
+        "duration_ms": 209200
+      },
+      "mapped": {
+        "recording_mbid": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0",
+        "release_mbid": "c6911b3b-135f-4b7b-a2cc-b90ea1e11ac9",
+        "release_group_mbid": "7d1a739f-50b5-3549-a951-d4ea02ceb7e6",
+        "artist_mbids": [
+          "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b"
+        ],
+        "recording_name": "Golden Brown",
+        "credits": [
+          {
+            "artist_credit_name": "The Stranglers",
+            "artist_mbid": "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Paparazzi",
+      "artist": "Lady Gaga",
+      "release": "The Fame",
+      "submitted": {
+        "artist_names": [
+          "Lady Gaga"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 3,
+        "discnumber": 1,
+        "duration_ms": 208306,
+        "isrc": "USUM70824408"
+      },
+      "mapped": {
+        "recording_mbid": "7a1040dc-bac0-479c-9921-f43797ed0b81",
+        "release_mbid": "785d7c67-a920-4cee-a871-8cd9896eb8aa",
+        "release_group_mbid": "e5495719-b3ad-3eea-a533-fb70af43c23d",
+        "artist_mbids": [
+          "650e7db6-b795-4eb5-a702-5ea2fc46c848"
+        ],
+        "recording_name": "Paparazzi",
+        "credits": [
+          {
+            "artist_credit_name": "Lady Gaga",
+            "artist_mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Paparazzi",
+      "artist": "Lady Gaga",
+      "release": "The Fame Monster (France FNAC Version)",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 3,
+        "duration_ms": 208306
+      },
+      "mapped": {
+        "recording_mbid": "7a1040dc-bac0-479c-9921-f43797ed0b81",
+        "release_mbid": "785d7c67-a920-4cee-a871-8cd9896eb8aa",
+        "release_group_mbid": "e5495719-b3ad-3eea-a533-fb70af43c23d",
+        "artist_mbids": [
+          "650e7db6-b795-4eb5-a702-5ea2fc46c848"
+        ],
+        "recording_name": "Paparazzi",
+        "credits": [
+          {
+            "artist_credit_name": "Lady Gaga",
+            "artist_mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Un Ka Andaz-E-Karam",
+      "artist": "Nusrat Fateh Ali Khan",
+      "release": "Sadness (Best Sad Qawwalies)",
+      "submitted": {
+        "artist_names": [
+          "Nusrat Fateh Ali Khan"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 24,
+        "discnumber": 1,
+        "duration_ms": 1056116,
+        "isrc": "GBKRT1856624"
+      },
+      "mapped": {
+        "recording_mbid": "6cbbd60b-6fee-4863-b6de-df4953834c6e",
+        "release_mbid": "cae66976-b54d-4c90-995d-a88c477c9ce8",
+        "release_group_mbid": "9e504836-0d8a-36f1-bf70-62090e84dfc4",
+        "artist_mbids": [
+          "5968383c-11c1-4c5b-ada0-504a38cec8e7"
+        ],
+        "recording_name": "Un Ka Andaz-E-Karam",
+        "credits": [
+          {
+            "artist_credit_name": "Nusrat Fateh Ali Khan",
+            "artist_mbid": "5968383c-11c1-4c5b-ada0-504a38cec8e7",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Un Ka Andaz-E-Karam",
+      "artist": "Nusrat Fateh Ali Khan",
+      "release": "Sadness (Best Sad Qawwalies)",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 24,
+        "duration_ms": 1056116
+      },
+      "mapped": {
+        "recording_mbid": "6cbbd60b-6fee-4863-b6de-df4953834c6e",
+        "release_mbid": "cae66976-b54d-4c90-995d-a88c477c9ce8",
+        "release_group_mbid": "9e504836-0d8a-36f1-bf70-62090e84dfc4",
+        "artist_mbids": [
+          "5968383c-11c1-4c5b-ada0-504a38cec8e7"
+        ],
+        "recording_name": "Un Ka Andaz-E-Karam",
+        "credits": [
+          {
+            "artist_credit_name": "Nusrat Fateh Ali Khan",
+            "artist_mbid": "5968383c-11c1-4c5b-ada0-504a38cec8e7",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "release": "The Life of a Showgirl",
+      "submitted": {
+        "artist_names": [
+          "Taylor Swift"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "discnumber": 1,
+        "duration_ms": 226073,
+        "isrc": "USUG12506436"
+      },
+      "mapped": {
+        "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
+        "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
+        "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
+        "artist_mbids": [
+          "20244d07-534f-4eff-b4d4-930878889970"
+        ],
+        "recording_name": "The Fate of Ophelia",
+        "credits": [
+          {
+            "artist_credit_name": "Taylor Swift",
+            "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "release": "The Life of a Showgirl",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "duration_ms": 226073
+      },
+      "mapped": {
+        "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
+        "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
+        "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
+        "artist_mbids": [
+          "20244d07-534f-4eff-b4d4-930878889970"
+        ],
+        "recording_name": "The Fate of Ophelia",
+        "credits": [
+          {
+            "artist_credit_name": "Taylor Swift",
+            "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "release": "The Life of a Showgirl",
+      "submitted": {
+        "artist_names": [
+          "Taylor Swift"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "discnumber": 1,
+        "duration_ms": 226073,
+        "isrc": "USUG12506436"
+      },
+      "mapped": {
+        "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
+        "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
+        "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
+        "artist_mbids": [
+          "20244d07-534f-4eff-b4d4-930878889970"
+        ],
+        "recording_name": "The Fate of Ophelia",
+        "credits": [
+          {
+            "artist_credit_name": "Taylor Swift",
+            "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "release": "The Life of a Showgirl",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "duration_ms": 226073
+      },
+      "mapped": {
+        "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
+        "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
+        "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
+        "artist_mbids": [
+          "20244d07-534f-4eff-b4d4-930878889970"
+        ],
+        "recording_name": "The Fate of Ophelia",
+        "credits": [
+          {
+            "artist_credit_name": "Taylor Swift",
+            "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "release": "The Life of a Showgirl",
+      "submitted": {
+        "artist_names": [
+          "Taylor Swift"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "discnumber": 1,
+        "duration_ms": 226073,
+        "isrc": "USUG12506436"
+      },
+      "mapped": {
+        "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
+        "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
+        "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
+        "artist_mbids": [
+          "20244d07-534f-4eff-b4d4-930878889970"
+        ],
+        "recording_name": "The Fate of Ophelia",
+        "credits": [
+          {
+            "artist_credit_name": "Taylor Swift",
+            "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "release": "The Life of a Showgirl",
+      "submitted": {
+        "artist_names": [
+          "Taylor Swift"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "discnumber": 1,
+        "duration_ms": 226073,
+        "isrc": "USUG12506436"
+      },
+      "mapped": {
+        "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
+        "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
+        "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
+        "artist_mbids": [
+          "20244d07-534f-4eff-b4d4-930878889970"
+        ],
+        "recording_name": "The Fate of Ophelia",
+        "credits": [
+          {
+            "artist_credit_name": "Taylor Swift",
+            "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Paparazzi",
+      "artist": "Lady Gaga",
+      "release": "The Fame",
+      "submitted": {
+        "artist_names": [
+          "Lady Gaga"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 3,
+        "discnumber": 1,
+        "duration_ms": 208306,
+        "isrc": "USUM70824408"
+      },
+      "mapped": {
+        "recording_mbid": "7a1040dc-bac0-479c-9921-f43797ed0b81",
+        "release_mbid": "785d7c67-a920-4cee-a871-8cd9896eb8aa",
+        "release_group_mbid": "e5495719-b3ad-3eea-a533-fb70af43c23d",
+        "artist_mbids": [
+          "650e7db6-b795-4eb5-a702-5ea2fc46c848"
+        ],
+        "recording_name": "Paparazzi",
+        "credits": [
+          {
+            "artist_credit_name": "Lady Gaga",
+            "artist_mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Paparazzi",
+      "artist": "Lady Gaga",
+      "release": "The Fame Monster (France FNAC Version)",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 3,
+        "duration_ms": 208306
+      },
+      "mapped": {
+        "recording_mbid": "7a1040dc-bac0-479c-9921-f43797ed0b81",
+        "release_mbid": "785d7c67-a920-4cee-a871-8cd9896eb8aa",
+        "release_group_mbid": "e5495719-b3ad-3eea-a533-fb70af43c23d",
+        "artist_mbids": [
+          "650e7db6-b795-4eb5-a702-5ea2fc46c848"
+        ],
+        "recording_name": "Paparazzi",
+        "credits": [
+          {
+            "artist_credit_name": "Lady Gaga",
+            "artist_mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "release": "The Life of a Showgirl",
+      "submitted": {
+        "artist_names": [
+          "Taylor Swift"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "discnumber": 1,
+        "duration_ms": 226073,
+        "isrc": "USUG12506436"
+      },
+      "mapped": {
+        "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
+        "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
+        "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
+        "artist_mbids": [
+          "20244d07-534f-4eff-b4d4-930878889970"
+        ],
+        "recording_name": "The Fate of Ophelia",
+        "credits": [
+          {
+            "artist_credit_name": "Taylor Swift",
+            "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "release": "The Life of a Showgirl",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "duration_ms": 226073
+      },
+      "mapped": {
+        "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
+        "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
+        "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
+        "artist_mbids": [
+          "20244d07-534f-4eff-b4d4-930878889970"
+        ],
+        "recording_name": "The Fate of Ophelia",
+        "credits": [
+          {
+            "artist_credit_name": "Taylor Swift",
+            "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "release": "The Life of a Showgirl",
+      "submitted": {
+        "artist_names": [
+          "Taylor Swift"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "discnumber": 1,
+        "duration_ms": 226073,
+        "isrc": "USUG12506436"
+      },
+      "mapped": {
+        "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
+        "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
+        "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
+        "artist_mbids": [
+          "20244d07-534f-4eff-b4d4-930878889970"
+        ],
+        "recording_name": "The Fate of Ophelia",
+        "credits": [
+          {
+            "artist_credit_name": "Taylor Swift",
+            "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "release": "The Life of a Showgirl",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "duration_ms": 226073
+      },
+      "mapped": {
+        "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
+        "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
+        "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
+        "artist_mbids": [
+          "20244d07-534f-4eff-b4d4-930878889970"
+        ],
+        "recording_name": "The Fate of Ophelia",
+        "credits": [
+          {
+            "artist_credit_name": "Taylor Swift",
+            "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "release": "The Life of a Showgirl",
+      "submitted": {
+        "artist_names": [
+          "Taylor Swift"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "discnumber": 1,
+        "duration_ms": 226073,
+        "isrc": "USUG12506436"
+      },
+      "mapped": {
+        "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
+        "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
+        "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
+        "artist_mbids": [
+          "20244d07-534f-4eff-b4d4-930878889970"
+        ],
+        "recording_name": "The Fate of Ophelia",
+        "credits": [
+          {
+            "artist_credit_name": "Taylor Swift",
+            "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "release": "The Life of a Showgirl",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 1,
+        "duration_ms": 226073
+      },
+      "mapped": {
+        "recording_mbid": "8670a098-6ab7-4e18-8ac0-0ec7259151f8",
+        "release_mbid": "2def1edd-2cb4-4622-a792-0ddc2907f29d",
+        "release_group_mbid": "9ae7e7e9-ac40-4874-bd43-d77a9bb9b617",
+        "artist_mbids": [
+          "20244d07-534f-4eff-b4d4-930878889970"
+        ],
+        "recording_name": "The Fate of Ophelia",
+        "credits": [
+          {
+            "artist_credit_name": "Taylor Swift",
+            "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Sparkle - movie ver.",
+      "artist": "RADWIMPS",
+      "release": "Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 3,
+        "duration_ms": 534120
+      },
+      "mapped": {
+        "recording_mbid": "2ce4bb17-2c5f-49ce-be58-558dec7322ee",
+        "release_mbid": "a7fc3d41-d645-418e-a5d2-960a835b04e0",
+        "release_group_mbid": "f2c10017-ead9-47a4-8ef1-928cff3ac1ec",
+        "artist_mbids": [
+          "6f500293-7396-4903-b4fd-118127d06f9e"
+        ],
+        "recording_name": "Sparkle (English ver.)",
+        "credits": [
+          {
+            "artist_credit_name": "RADWIMPS",
+            "artist_mbid": "6f500293-7396-4903-b4fd-118127d06f9e",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "submitted": {
+        "artist_names": [
+          "Abhijeet",
+          "Shreya Ghoshal"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 4,
+        "discnumber": 1,
+        "duration_ms": 302609,
+        "isrc": "INS181305468"
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 4,
+        "duration_ms": 302609
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "La Folie",
+      "submitted": {
+        "artist_names": [
+          "The Stranglers"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 9,
+        "discnumber": 1,
+        "duration_ms": 206760,
+        "isrc": "GBAYE8100053"
+      },
+      "mapped": {
+        "recording_mbid": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0",
+        "release_mbid": "c6911b3b-135f-4b7b-a2cc-b90ea1e11ac9",
+        "release_group_mbid": "7d1a739f-50b5-3549-a951-d4ea02ceb7e6",
+        "artist_mbids": [
+          "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b"
+        ],
+        "recording_name": "Golden Brown",
+        "credits": [
+          {
+            "artist_credit_name": "The Stranglers",
+            "artist_mbid": "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Golden Brown",
+      "artist": "The Stranglers",
+      "release": "Clara Sheller (Saison 2)",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 12,
+        "duration_ms": 209200
+      },
+      "mapped": {
+        "recording_mbid": "c7d0bf6e-b2aa-4ffa-bded-2448415b39b0",
+        "release_mbid": "c6911b3b-135f-4b7b-a2cc-b90ea1e11ac9",
+        "release_group_mbid": "7d1a739f-50b5-3549-a951-d4ea02ceb7e6",
+        "artist_mbids": [
+          "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b"
+        ],
+        "recording_name": "Golden Brown",
+        "credits": [
+          {
+            "artist_credit_name": "The Stranglers",
+            "artist_mbid": "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Un Ka Andaz-E-Karam",
+      "artist": "Nusrat Fateh Ali Khan",
+      "release": "Sadness (Best Sad Qawwalies)",
+      "submitted": {
+        "artist_names": [
+          "Nusrat Fateh Ali Khan"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 24,
+        "discnumber": 1,
+        "duration_ms": 1056116,
+        "isrc": "GBKRT1856624"
+      },
+      "mapped": {
+        "recording_mbid": "6cbbd60b-6fee-4863-b6de-df4953834c6e",
+        "release_mbid": "cae66976-b54d-4c90-995d-a88c477c9ce8",
+        "release_group_mbid": "9e504836-0d8a-36f1-bf70-62090e84dfc4",
+        "artist_mbids": [
+          "5968383c-11c1-4c5b-ada0-504a38cec8e7"
+        ],
+        "recording_name": "Un Ka Andaz-E-Karam",
+        "credits": [
+          {
+            "artist_credit_name": "Nusrat Fateh Ali Khan",
+            "artist_mbid": "5968383c-11c1-4c5b-ada0-504a38cec8e7",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Un Ka Andaz-E-Karam",
+      "artist": "Nusrat Fateh Ali Khan",
+      "release": "Sadness (Best Sad Qawwalies)",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 24,
+        "duration_ms": 1056116
+      },
+      "mapped": {
+        "recording_mbid": "6cbbd60b-6fee-4863-b6de-df4953834c6e",
+        "release_mbid": "cae66976-b54d-4c90-995d-a88c477c9ce8",
+        "release_group_mbid": "9e504836-0d8a-36f1-bf70-62090e84dfc4",
+        "artist_mbids": [
+          "5968383c-11c1-4c5b-ada0-504a38cec8e7"
+        ],
+        "recording_name": "Un Ka Andaz-E-Karam",
+        "credits": [
+          {
+            "artist_credit_name": "Nusrat Fateh Ali Khan",
+            "artist_mbid": "5968383c-11c1-4c5b-ada0-504a38cec8e7",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Un Ka Andaz-E-Karam",
+      "artist": "Nusrat Fateh Ali Khan",
+      "release": "Sadness (Best Sad Qawwalies)",
+      "submitted": {
+        "artist_names": [
+          "Nusrat Fateh Ali Khan"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 24,
+        "discnumber": 1,
+        "duration_ms": 1056116,
+        "isrc": "GBKRT1856624"
+      },
+      "mapped": {
+        "recording_mbid": "6cbbd60b-6fee-4863-b6de-df4953834c6e",
+        "release_mbid": "cae66976-b54d-4c90-995d-a88c477c9ce8",
+        "release_group_mbid": "9e504836-0d8a-36f1-bf70-62090e84dfc4",
+        "artist_mbids": [
+          "5968383c-11c1-4c5b-ada0-504a38cec8e7"
+        ],
+        "recording_name": "Un Ka Andaz-E-Karam",
+        "credits": [
+          {
+            "artist_credit_name": "Nusrat Fateh Ali Khan",
+            "artist_mbid": "5968383c-11c1-4c5b-ada0-504a38cec8e7",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Un Ka Andaz-E-Karam",
+      "artist": "Nusrat Fateh Ali Khan",
+      "release": "Sadness (Best Sad Qawwalies)",
+      "submitted": {
+        "submission_client": "ListenBrainz Archive Importer",
+        "music_service": "spotify.com",
+        "tracknumber": 24,
+        "duration_ms": 1056116
+      },
+      "mapped": {
+        "recording_mbid": "6cbbd60b-6fee-4863-b6de-df4953834c6e",
+        "release_mbid": "cae66976-b54d-4c90-995d-a88c477c9ce8",
+        "release_group_mbid": "9e504836-0d8a-36f1-bf70-62090e84dfc4",
+        "artist_mbids": [
+          "5968383c-11c1-4c5b-ada0-504a38cec8e7"
+        ],
+        "recording_name": "Un Ka Andaz-E-Karam",
+        "credits": [
+          {
+            "artist_credit_name": "Nusrat Fateh Ali Khan",
+            "artist_mbid": "5968383c-11c1-4c5b-ada0-504a38cec8e7",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Dil Kaa Jo Haal Hai",
+      "artist": "Abhijeet, Shreya Ghoshal",
+      "release": "Besharam",
+      "submitted": {
+        "artist_names": [
+          "Abhijeet",
+          "Shreya Ghoshal"
+        ],
+        "submission_client": "listenbrainz",
+        "music_service": "spotify.com",
+        "tracknumber": 4,
+        "discnumber": 1,
+        "duration_ms": 302609,
+        "isrc": "INS181305468"
+      },
+      "mapped": {
+        "credits": []
+      }
+    }
+  ]
+}

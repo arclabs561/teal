@@ -1,0 +1,282 @@
+[
+  {
+    "track": "What We Used to Say",
+    "artist": "Christian Löffler feat. Adna",
+    "release": "Until We Meet Again",
+    "submitted": {
+      "recording_mbid": "6e2bdba2-3884-48fd-b082-61c3fb332c73",
+      "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+      "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+      "artist_names": [
+        "Christian Löffler",
+        "Adna"
+      ],
+      "artist_mbids": [
+        "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+        "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb"
+      ],
+      "submission_client": "navidrome",
+      "tracknumber": 12,
+      "duration_ms": 227400
+    },
+    "mapped": {
+      "recording_mbid": "6e2bdba2-3884-48fd-b082-61c3fb332c73",
+      "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+      "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+      "artist_mbids": [
+        "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+        "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb"
+      ],
+      "recording_name": "What We Used to Say",
+      "credits": [
+        {
+          "artist_credit_name": "Christian Löffler",
+          "artist_mbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+          "join_phrase": " feat. "
+        },
+        {
+          "artist_credit_name": "Adna",
+          "artist_mbid": "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb",
+          "join_phrase": ""
+        }
+      ]
+    },
+    "sample": "page-1",
+    "hash": "000f730e2ea5994dacfae46ffe2fa7f062c12d8c5d1f6a8e961eadbd44034328",
+    "releaseId": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+    "provenance": "submitted"
+  },
+  {
+    "track": "Polyrytmi",
+    "artist": "Carbon Based Lifeforms",
+    "release": "Interloper",
+    "submitted": {
+      "recording_mbid": "261b2272-87bd-48ed-b35b-433d81fcaef1",
+      "release_mbid": "d5d1fce6-e9e1-4565-976d-f046c3d5d252",
+      "release_group_mbid": "5812b287-ca1a-4ffe-a02f-08f8cc67d052",
+      "artist_names": [
+        "Carbon Based Lifeforms"
+      ],
+      "artist_mbids": [
+        "8229a8f1-b315-4fae-af57-b3eb71efdaf4"
+      ],
+      "submission_client": "navidrome",
+      "tracknumber": 10,
+      "duration_ms": 528000
+    },
+    "mapped": {
+      "recording_mbid": "261b2272-87bd-48ed-b35b-433d81fcaef1",
+      "release_mbid": "4a4905ff-5b6d-4798-aace-89dd4bdd5972",
+      "release_group_mbid": "5812b287-ca1a-4ffe-a02f-08f8cc67d052",
+      "artist_mbids": [
+        "8229a8f1-b315-4fae-af57-b3eb71efdaf4"
+      ],
+      "recording_name": "Polyrytmi",
+      "credits": [
+        {
+          "artist_credit_name": "Carbon Based Lifeforms",
+          "artist_mbid": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+          "join_phrase": ""
+        }
+      ]
+    },
+    "sample": "page-1",
+    "hash": "061b4d1a800b65246583c62cd9ead00391b57385183daeb585ded66ee9cbb89f",
+    "releaseId": "d5d1fce6-e9e1-4565-976d-f046c3d5d252",
+    "provenance": "submitted"
+  },
+  {
+    "track": "Golden Brown - Slowed Down Version",
+    "artist": "The Stranglers",
+    "release": "Golden Brown",
+    "submitted": {
+      "submission_client": "ListenBrainz Archive Importer",
+      "music_service": "spotify.com",
+      "tracknumber": 2,
+      "duration_ms": 248494
+    },
+    "mapped": {
+      "recording_mbid": "1d719666-90e7-4a52-b24f-85686901e6e7",
+      "release_mbid": "bc0a226e-87ec-44ce-a92f-a51fec8bffe9",
+      "release_group_mbid": "c51a5a58-7436-4654-9174-a2d26cf92e21",
+      "artist_mbids": [
+        "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b"
+      ],
+      "recording_name": "Golden Brown",
+      "credits": [
+        {
+          "artist_credit_name": "Stranglers",
+          "artist_mbid": "a96d82a0-cdca-40bf-b4c8-3d7ec178d85b",
+          "join_phrase": ""
+        }
+      ]
+    },
+    "sample": "page-2",
+    "hash": "5b6846a7249985e117ec08b6877de25d03545ab75ed777bac03aa774396fe5d9",
+    "releaseId": "bc0a226e-87ec-44ce-a92f-a51fec8bffe9",
+    "provenance": "mapped"
+  },
+  {
+    "track": "Sparkle - movie ver.",
+    "artist": "RADWIMPS",
+    "release": "Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)",
+    "submitted": {
+      "submission_client": "ListenBrainz Archive Importer",
+      "music_service": "spotify.com",
+      "tracknumber": 3,
+      "duration_ms": 534120
+    },
+    "mapped": {
+      "recording_mbid": "2ce4bb17-2c5f-49ce-be58-558dec7322ee",
+      "release_mbid": "a7fc3d41-d645-418e-a5d2-960a835b04e0",
+      "release_group_mbid": "f2c10017-ead9-47a4-8ef1-928cff3ac1ec",
+      "artist_mbids": [
+        "6f500293-7396-4903-b4fd-118127d06f9e"
+      ],
+      "recording_name": "Sparkle (English ver.)",
+      "credits": [
+        {
+          "artist_credit_name": "RADWIMPS",
+          "artist_mbid": "6f500293-7396-4903-b4fd-118127d06f9e",
+          "join_phrase": ""
+        }
+      ]
+    },
+    "sample": "page-2",
+    "hash": "7bfe36d137cfade7bbbcd358d8504aafebe4cf972a9094b38cbbeb1ff6d1f8e6",
+    "releaseId": "a7fc3d41-d645-418e-a5d2-960a835b04e0",
+    "provenance": "mapped"
+  },
+  {
+    "track": "Take It Back",
+    "artist": "Pink Floyd",
+    "release": "The Division Bell",
+    "submitted": {
+      "artist_names": [
+        "Pink Floyd"
+      ],
+      "submission_client": "listenbrainz",
+      "music_service": "spotify.com",
+      "tracknumber": 7,
+      "discnumber": 1,
+      "duration_ms": 372225,
+      "isrc": "GBN9X1100018"
+    },
+    "mapped": {
+      "recording_mbid": "a38a3114-859a-40c2-8e95-b1cf6273ca65",
+      "release_mbid": "12eb7e4c-29a1-46d2-a971-f852655c7587",
+      "release_group_mbid": "90878b63-f639-3c8b-aefb-190bdf3d1790",
+      "artist_mbids": [
+        "83d91898-7763-47d7-b03b-b92132375c47"
+      ],
+      "recording_name": "Take It Back",
+      "credits": [
+        {
+          "artist_credit_name": "Pink Floyd",
+          "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+          "join_phrase": ""
+        }
+      ]
+    },
+    "sample": "page-3",
+    "hash": "008334720ec05f0815288d9ec0ade8223380ba52c4347399e7b3b790bd42251d",
+    "releaseId": "12eb7e4c-29a1-46d2-a971-f852655c7587",
+    "provenance": "mapped"
+  },
+  {
+    "track": "Beware of Darkness (2014 Remaster)",
+    "artist": "George Harrison",
+    "release": "All Things Must Pass (2014 Remaster)",
+    "submitted": {
+      "artist_names": [
+        "George Harrison"
+      ],
+      "submission_client": "listenbrainz",
+      "music_service": "spotify.com",
+      "tracknumber": 1,
+      "discnumber": 2,
+      "duration_ms": 231143,
+      "isrc": "GB77R1400039"
+    },
+    "mapped": {
+      "recording_mbid": "2a936707-d877-4280-86e1-5e137915044b",
+      "release_mbid": "09f91730-85f7-4148-b31c-ff62b14fcd3e",
+      "release_group_mbid": "d4b0f3e2-e3eb-3531-b305-ed8105cb5be4",
+      "artist_mbids": [
+        "42a8f507-8412-4611-854f-926571049fa0"
+      ],
+      "recording_name": "Beware of Darkness",
+      "credits": [
+        {
+          "artist_credit_name": "George Harrison",
+          "artist_mbid": "42a8f507-8412-4611-854f-926571049fa0",
+          "join_phrase": ""
+        }
+      ]
+    },
+    "sample": "page-3",
+    "hash": "06c9683c2953f66888c896f91369152230debe0ed2f3e07f234e4e075e1066e4",
+    "releaseId": "09f91730-85f7-4148-b31c-ff62b14fcd3e",
+    "provenance": "mapped"
+  },
+  {
+    "track": "Cielo de Miel",
+    "artist": "Vazquez Sounds",
+    "release": "Phoenix",
+    "submitted": {
+      "submission_client": "Web Scrobbler",
+      "music_service_name": "Spotify",
+      "duration": 203
+    },
+    "mapped": {
+      "recording_mbid": "9624298e-1ccd-44a8-b7da-e9ac797919bf",
+      "release_mbid": "155ab13d-9000-41ac-ad2f-1002267e58d1",
+      "release_group_mbid": "1736f80c-76ab-48ec-8fe3-efc3238fb180",
+      "artist_mbids": [
+        "f3860c1b-30d3-4ba9-993f-a99f0cb28289"
+      ],
+      "recording_name": "Cielo de miel",
+      "credits": [
+        {
+          "artist_credit_name": "Vazquez Sounds",
+          "artist_mbid": "f3860c1b-30d3-4ba9-993f-a99f0cb28289",
+          "join_phrase": ""
+        }
+      ]
+    },
+    "sample": "page-4",
+    "hash": "18a9f2b29668d750218e6b0f02b8ee64bbb7e0470d782d536a83d29f3368f0e7",
+    "releaseId": "155ab13d-9000-41ac-ad2f-1002267e58d1",
+    "provenance": "mapped"
+  },
+  {
+    "track": "Ayee Morshume Be-Reham Duniya",
+    "artist": "Rupa",
+    "release": "Disco Jazz",
+    "submitted": {
+      "submission_client": "Web Scrobbler",
+      "music_service_name": "Bandcamp",
+      "duration": 938
+    },
+    "mapped": {
+      "recording_mbid": "38df44dc-38ff-499a-bc5e-1aa9e1d04228",
+      "release_mbid": "c7b56c88-d51b-4a91-a3ae-ae8d8c4e1834",
+      "release_group_mbid": "526be076-b0b6-4db4-bf8a-1db774b06fe7",
+      "artist_mbids": [
+        "2cf65e90-8e82-47c8-9b89-4fadfec21002"
+      ],
+      "recording_name": "Ayee morshume be‐reham duniya",
+      "credits": [
+        {
+          "artist_credit_name": "Rupa",
+          "artist_mbid": "2cf65e90-8e82-47c8-9b89-4fadfec21002",
+          "join_phrase": ""
+        }
+      ]
+    },
+    "sample": "page-4",
+    "hash": "366d71873dba69dc21435d9d5681b804098f21f3c7b2a01120cb06da1f7a729a",
+    "releaseId": "c7b56c88-d51b-4a91-a3ae-ae8d8c4e1834",
+    "provenance": "mapped"
+  }
+]

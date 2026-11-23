@@ -1,0 +1,23 @@
+MATRIX {"name":"shifted copy","reversed":false,"rows":["fm.teal.feed.play:b"]}
+MATRIX {"name":"shifted copy","reversed":true,"rows":["fm.teal.feed.play:b"]}
+MATRIX {"name":"same payload fields as shifted copy but two listens","reversed":false,"rows":["fm.teal.feed.play:b"]}
+MATRIX {"name":"same payload fields as shifted copy but two listens","reversed":true,"rows":["fm.teal.feed.play:b"]}
+MATRIX {"name":"same-recording repeat at 45 seconds","reversed":false,"rows":["fm.teal.feed.play:b"]}
+MATRIX {"name":"same-recording repeat at 45 seconds","reversed":true,"rows":["fm.teal.feed.play:b"]}
+MATRIX {"name":"same-recording repeat at three minutes","reversed":false,"rows":["fm.teal.feed.play:b"]}
+MATRIX {"name":"same-recording repeat at three minutes","reversed":true,"rows":["fm.teal.feed.play:b"]}
+MATRIX {"name":"one copy plus one repeat","reversed":false,"rows":["fm.teal.feed.play:c"]}
+MATRIX {"name":"one copy plus one repeat","reversed":true,"rows":["fm.teal.feed.play:c"]}
+MATRIX {"name":"different artists, one recording ID missing","reversed":false,"rows":["fm.teal.feed.play:b"]}
+MATRIX {"name":"different artists, one recording ID missing","reversed":true,"rows":["fm.teal.feed.play:b"]}
+MATRIX {"name":"copy with artist alias and one recording ID missing","reversed":false,"rows":["fm.teal.feed.play:b"]}
+MATRIX {"name":"copy with artist alias and one recording ID missing","reversed":true,"rows":["fm.teal.feed.play:b"]}
+MATRIX {"name":"different known recordings","reversed":false,"rows":["fm.teal.alpha.feed.play:a","fm.teal.feed.play:b"]}
+MATRIX {"name":"different known recordings","reversed":true,"rows":["fm.teal.alpha.feed.play:a","fm.teal.feed.play:b"]}
+MATRIX {"name":"shared key after metadata correction","reversed":false,"rows":["fm.teal.feed.play:a"]}
+MATRIX {"name":"shared key after metadata correction","reversed":true,"rows":["fm.teal.feed.play:a"]}
+MATRIX {"name":"copy at the ten-minute boundary","reversed":false,"rows":["fm.teal.feed.play:b"]}
+MATRIX {"name":"copy at the ten-minute boundary","reversed":true,"rows":["fm.teal.feed.play:b"]}
+MATRIX {"name":"copy one second outside the window","reversed":false,"rows":["fm.teal.alpha.feed.play:a","fm.teal.feed.play:b"]}
+MATRIX {"name":"copy one second outside the window","reversed":true,"rows":["fm.teal.alpha.feed.play:a","fm.teal.feed.play:b"]}
+LIFECYCLE {"after_alpha_replay":["fm.teal.alpha.feed.play:a"],"after_copy":["fm.teal.feed.play:b"],"after_delete":[]}

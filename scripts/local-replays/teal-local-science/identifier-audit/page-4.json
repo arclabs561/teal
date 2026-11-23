@@ -1,0 +1,772 @@
+{
+  "sample": "page-4",
+  "rows": [
+    {
+      "track": "Ayee Morshume Be-Reham Duniya",
+      "artist": "Rupa",
+      "release": "Disco Jazz",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 938
+      },
+      "mapped": {
+        "recording_mbid": "38df44dc-38ff-499a-bc5e-1aa9e1d04228",
+        "release_mbid": "c7b56c88-d51b-4a91-a3ae-ae8d8c4e1834",
+        "release_group_mbid": "526be076-b0b6-4db4-bf8a-1db774b06fe7",
+        "artist_mbids": [
+          "2cf65e90-8e82-47c8-9b89-4fadfec21002"
+        ],
+        "recording_name": "Ayee morshume be‐reham duniya",
+        "credits": [
+          {
+            "artist_credit_name": "Rupa",
+            "artist_mbid": "2cf65e90-8e82-47c8-9b89-4fadfec21002",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Aaj Shanibar",
+      "artist": "Rupa",
+      "release": "Disco Jazz",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 479
+      },
+      "mapped": {
+        "recording_mbid": "c25d097b-5876-48e3-a555-69e23bb444a5",
+        "release_mbid": "c7b56c88-d51b-4a91-a3ae-ae8d8c4e1834",
+        "release_group_mbid": "526be076-b0b6-4db4-bf8a-1db774b06fe7",
+        "artist_mbids": [
+          "2cf65e90-8e82-47c8-9b89-4fadfec21002"
+        ],
+        "recording_name": "Aaj Shanibar",
+        "credits": [
+          {
+            "artist_credit_name": "Rupa",
+            "artist_mbid": "2cf65e90-8e82-47c8-9b89-4fadfec21002",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "East West Shuffle",
+      "artist": "Rupa",
+      "release": "Disco Jazz",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 298
+      },
+      "mapped": {
+        "recording_mbid": "6c80ddf0-69a6-49e5-94fc-7ccf5d9756a6",
+        "release_mbid": "c7b56c88-d51b-4a91-a3ae-ae8d8c4e1834",
+        "release_group_mbid": "526be076-b0b6-4db4-bf8a-1db774b06fe7",
+        "artist_mbids": [
+          "2cf65e90-8e82-47c8-9b89-4fadfec21002"
+        ],
+        "recording_name": "East West Shuffle",
+        "credits": [
+          {
+            "artist_credit_name": "Rupa",
+            "artist_mbid": "2cf65e90-8e82-47c8-9b89-4fadfec21002",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Moja Bhari Moja",
+      "artist": "Rupa",
+      "release": "Disco Jazz",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 496
+      },
+      "mapped": {
+        "recording_mbid": "a49cac61-f88f-441a-beb0-d431e0d373a1",
+        "release_mbid": "c7b56c88-d51b-4a91-a3ae-ae8d8c4e1834",
+        "release_group_mbid": "526be076-b0b6-4db4-bf8a-1db774b06fe7",
+        "artist_mbids": [
+          "2cf65e90-8e82-47c8-9b89-4fadfec21002"
+        ],
+        "recording_name": "Moja bhari moja",
+        "credits": [
+          {
+            "artist_credit_name": "Rupa",
+            "artist_mbid": "2cf65e90-8e82-47c8-9b89-4fadfec21002",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Cool & Humble",
+      "artist": "GUIDING STAR ORCHESTRA",
+      "release": "Natural Heights",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 333
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Moon Steppers",
+      "artist": "GUIDING STAR ORCHESTRA",
+      "release": "Natural Heights",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 209
+      },
+      "mapped": {
+        "recording_mbid": "562c22b5-7d6d-4ef9-aedb-54589b7a3b3f",
+        "release_mbid": "17e8ecf5-e33d-4b11-9820-facc5bcdd42a",
+        "release_group_mbid": "b242e5f4-3070-4e46-b649-04a9b7dc0e73",
+        "artist_mbids": [
+          "30880fb3-420c-43ea-822d-c62cd20d15ed"
+        ],
+        "recording_name": "Moon Steppers",
+        "credits": [
+          {
+            "artist_credit_name": "Guiding Star Orchestra",
+            "artist_mbid": "30880fb3-420c-43ea-822d-c62cd20d15ed",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Upfull Dub",
+      "artist": "GUIDING STAR ORCHESTRA",
+      "release": "Natural Heights",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 209
+      },
+      "mapped": {
+        "recording_mbid": "0665fb29-0bf4-4e32-bde7-d355a3a73c8a",
+        "release_mbid": "17e8ecf5-e33d-4b11-9820-facc5bcdd42a",
+        "release_group_mbid": "b242e5f4-3070-4e46-b649-04a9b7dc0e73",
+        "artist_mbids": [
+          "30880fb3-420c-43ea-822d-c62cd20d15ed"
+        ],
+        "recording_name": "Upfull Dub",
+        "credits": [
+          {
+            "artist_credit_name": "Guiding Star Orchestra",
+            "artist_mbid": "30880fb3-420c-43ea-822d-c62cd20d15ed",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Upfull Melody",
+      "artist": "GUIDING STAR ORCHESTRA",
+      "release": "Natural Heights",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 215
+      },
+      "mapped": {
+        "recording_mbid": "c89f637e-fdf5-4b72-9fb9-79a512ae73ca",
+        "release_mbid": "17e8ecf5-e33d-4b11-9820-facc5bcdd42a",
+        "release_group_mbid": "b242e5f4-3070-4e46-b649-04a9b7dc0e73",
+        "artist_mbids": [
+          "30880fb3-420c-43ea-822d-c62cd20d15ed"
+        ],
+        "recording_name": "Upfull Melody",
+        "credits": [
+          {
+            "artist_credit_name": "Guiding Star Orchestra",
+            "artist_mbid": "30880fb3-420c-43ea-822d-c62cd20d15ed",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Water and Herbs",
+      "artist": "GUIDING STAR ORCHESTRA",
+      "release": "Natural Heights",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 302
+      },
+      "mapped": {
+        "recording_mbid": "bbcb957c-2761-4e5b-94e9-fdfa6ae5dba7",
+        "release_mbid": "17e8ecf5-e33d-4b11-9820-facc5bcdd42a",
+        "release_group_mbid": "b242e5f4-3070-4e46-b649-04a9b7dc0e73",
+        "artist_mbids": [
+          "30880fb3-420c-43ea-822d-c62cd20d15ed"
+        ],
+        "recording_name": "Water And Herbs",
+        "credits": [
+          {
+            "artist_credit_name": "Guiding Star Orchestra",
+            "artist_mbid": "30880fb3-420c-43ea-822d-c62cd20d15ed",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Natural Dub",
+      "artist": "GUIDING STAR ORCHESTRA",
+      "release": "Natural Heights",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 198
+      },
+      "mapped": {
+        "recording_mbid": "9cf8f7ba-01b9-4f82-8206-646c70036c67",
+        "release_mbid": "17e8ecf5-e33d-4b11-9820-facc5bcdd42a",
+        "release_group_mbid": "b242e5f4-3070-4e46-b649-04a9b7dc0e73",
+        "artist_mbids": [
+          "30880fb3-420c-43ea-822d-c62cd20d15ed"
+        ],
+        "recording_name": "Natural Dub",
+        "credits": [
+          {
+            "artist_credit_name": "Guiding Star Orchestra",
+            "artist_mbid": "30880fb3-420c-43ea-822d-c62cd20d15ed",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Natural Heights",
+      "artist": "GUIDING STAR ORCHESTRA",
+      "release": "Natural Heights",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 177
+      },
+      "mapped": {
+        "recording_mbid": "aed2c546-c6f1-49ed-a8c9-ffec71ece2bd",
+        "release_mbid": "17e8ecf5-e33d-4b11-9820-facc5bcdd42a",
+        "release_group_mbid": "b242e5f4-3070-4e46-b649-04a9b7dc0e73",
+        "artist_mbids": [
+          "30880fb3-420c-43ea-822d-c62cd20d15ed"
+        ],
+        "recording_name": "Natural Heights",
+        "credits": [
+          {
+            "artist_credit_name": "Guiding Star Orchestra",
+            "artist_mbid": "30880fb3-420c-43ea-822d-c62cd20d15ed",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Aaj Shanibar",
+      "artist": "Rupa",
+      "release": "Disco Jazz",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 479
+      },
+      "mapped": {
+        "recording_mbid": "c25d097b-5876-48e3-a555-69e23bb444a5",
+        "release_mbid": "c7b56c88-d51b-4a91-a3ae-ae8d8c4e1834",
+        "release_group_mbid": "526be076-b0b6-4db4-bf8a-1db774b06fe7",
+        "artist_mbids": [
+          "2cf65e90-8e82-47c8-9b89-4fadfec21002"
+        ],
+        "recording_name": "Aaj Shanibar",
+        "credits": [
+          {
+            "artist_credit_name": "Rupa",
+            "artist_mbid": "2cf65e90-8e82-47c8-9b89-4fadfec21002",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Water and Herbs",
+      "artist": "GUIDING STAR ORCHESTRA",
+      "release": "Natural Heights",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 302
+      },
+      "mapped": {
+        "recording_mbid": "bbcb957c-2761-4e5b-94e9-fdfa6ae5dba7",
+        "release_mbid": "17e8ecf5-e33d-4b11-9820-facc5bcdd42a",
+        "release_group_mbid": "b242e5f4-3070-4e46-b649-04a9b7dc0e73",
+        "artist_mbids": [
+          "30880fb3-420c-43ea-822d-c62cd20d15ed"
+        ],
+        "recording_name": "Water And Herbs",
+        "credits": [
+          {
+            "artist_credit_name": "Guiding Star Orchestra",
+            "artist_mbid": "30880fb3-420c-43ea-822d-c62cd20d15ed",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Planting Trees",
+      "artist": "GUIDING STAR ORCHESTRA",
+      "release": "Communion",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 306
+      },
+      "mapped": {
+        "recording_mbid": "2b345c12-bd48-4c28-a3eb-debd6ec69ace",
+        "release_mbid": "93853827-81b5-4c2f-ab30-36235f457d02",
+        "release_group_mbid": "d8a5a93d-d1e8-474d-8dea-0287d0b15eca",
+        "artist_mbids": [
+          "30880fb3-420c-43ea-822d-c62cd20d15ed"
+        ],
+        "recording_name": "Planting Trees",
+        "credits": [
+          {
+            "artist_credit_name": "Guiding Star Orchestra",
+            "artist_mbid": "30880fb3-420c-43ea-822d-c62cd20d15ed",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Firm in Adversity",
+      "artist": "GUIDING STAR ORCHESTRA",
+      "release": "Communion",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 228
+      },
+      "mapped": {
+        "recording_mbid": "5712c69e-a5bb-4a0f-bd52-7e31af0525b9",
+        "release_mbid": "93853827-81b5-4c2f-ab30-36235f457d02",
+        "release_group_mbid": "d8a5a93d-d1e8-474d-8dea-0287d0b15eca",
+        "artist_mbids": [
+          "30880fb3-420c-43ea-822d-c62cd20d15ed"
+        ],
+        "recording_name": "Firm in Adversity",
+        "credits": [
+          {
+            "artist_credit_name": "Guiding Star Orchestra",
+            "artist_mbid": "30880fb3-420c-43ea-822d-c62cd20d15ed",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Dissolve",
+      "artist": "Dino Sabatini & Luigi Tozzi",
+      "release": "XAMAN",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 392
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Vision",
+      "artist": "Dino Sabatini & Luigi Tozzi",
+      "release": "XAMAN",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 450
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Drift",
+      "artist": "Dino Sabatini & Luigi Tozzi",
+      "release": "XAMAN",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 468
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Passage",
+      "artist": "Dino Sabatini & Luigi Tozzi",
+      "release": "XAMAN",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 441
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Traces",
+      "artist": "Dino Sabatini & Luigi Tozzi",
+      "release": "XAMAN",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 421
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Crossing",
+      "artist": "Dino Sabatini & Luigi Tozzi",
+      "release": "XAMAN",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 421
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Sanity",
+      "artist": "Aralez",
+      "release": "illusion",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 321
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Cielo de Miel",
+      "artist": "Vazquez Sounds",
+      "release": "Phoenix",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Spotify",
+        "duration": 203
+      },
+      "mapped": {
+        "recording_mbid": "9624298e-1ccd-44a8-b7da-e9ac797919bf",
+        "release_mbid": "155ab13d-9000-41ac-ad2f-1002267e58d1",
+        "release_group_mbid": "1736f80c-76ab-48ec-8fe3-efc3238fb180",
+        "artist_mbids": [
+          "f3860c1b-30d3-4ba9-993f-a99f0cb28289"
+        ],
+        "recording_name": "Cielo de miel",
+        "credits": [
+          {
+            "artist_credit_name": "Vazquez Sounds",
+            "artist_mbid": "f3860c1b-30d3-4ba9-993f-a99f0cb28289",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Cielo de Miel",
+      "artist": "Vazquez Sounds",
+      "release": "Phoenix",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Spotify",
+        "duration": 203
+      },
+      "mapped": {
+        "recording_mbid": "9624298e-1ccd-44a8-b7da-e9ac797919bf",
+        "release_mbid": "155ab13d-9000-41ac-ad2f-1002267e58d1",
+        "release_group_mbid": "1736f80c-76ab-48ec-8fe3-efc3238fb180",
+        "artist_mbids": [
+          "f3860c1b-30d3-4ba9-993f-a99f0cb28289"
+        ],
+        "recording_name": "Cielo de miel",
+        "credits": [
+          {
+            "artist_credit_name": "Vazquez Sounds",
+            "artist_mbid": "f3860c1b-30d3-4ba9-993f-a99f0cb28289",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Black Procession",
+      "artist": "WITCH HOUND",
+      "release": "Second Summoning",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 307
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Ash Walk",
+      "artist": "WITCH HOUND",
+      "release": "Second Summoning",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 45
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "At The Stake",
+      "artist": "WITCH HOUND",
+      "release": "Second Summoning",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 326
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "The Talisman Speaks",
+      "artist": "WITCH HOUND",
+      "release": "Second Summoning",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 189
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Fathomless",
+      "artist": "Osmic",
+      "release": "I",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 368
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Bam Bam",
+      "artist": "Sua Galera",
+      "release": "Sua Galera",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 223
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Ciel Bleu",
+      "artist": "Sua Galera",
+      "release": "Sua Galera",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 260
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Lake Walk",
+      "artist": "Tara Clerkin Trio",
+      "release": "Somewhere Good",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 143
+      },
+      "mapped": {
+        "recording_mbid": "4c98f3d8-70f4-4da2-bfca-d75ea1192948",
+        "release_mbid": "e0ce4059-2136-4e36-aa53-9442217cca9d",
+        "release_group_mbid": "e7d72193-1faa-4b86-9665-e2f68ed1191c",
+        "artist_mbids": [
+          "b0e0db41-c292-40a1-b5d9-71f587bdabc4"
+        ],
+        "recording_name": "Lake Walk",
+        "credits": [
+          {
+            "artist_credit_name": "Tara Clerkin Trio",
+            "artist_mbid": "b0e0db41-c292-40a1-b5d9-71f587bdabc4",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Firesky (feat. Mai Soon Young Øvlisen)",
+      "artist": "Konvent",
+      "release": "Firesky",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 473
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Exorcise",
+      "artist": "Konvent",
+      "release": "Firesky",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 539
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Firesky (feat. Mai Soon Young Øvlisen)",
+      "artist": "Konvent",
+      "release": "Firesky",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 473
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Criminal Against Nature",
+      "artist": "Lammping",
+      "release": "So What, What?",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 227
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Pearl of Wisdom",
+      "artist": "Lyle Workman",
+      "release": "Sunlit Glory",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Spotify",
+        "duration": 164
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "Justice",
+      "artist": "KaSinda",
+      "release": "This Life (EP)",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 262
+      },
+      "mapped": {
+        "credits": []
+      }
+    },
+    {
+      "track": "This Life",
+      "artist": "KaSinda",
+      "release": "This Life (EP)",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Bandcamp",
+        "duration": 284
+      },
+      "mapped": {
+        "recording_mbid": "f6bbf6c6-be8e-428f-8ea5-4a3d67852a44",
+        "release_mbid": "4fa83ad6-8031-460d-815a-ce1cef59801d",
+        "release_group_mbid": "b2eef17e-ee96-4e46-924f-cd61381dd455",
+        "artist_mbids": [
+          "d06fadd1-896a-4ba2-addc-9159733a8237"
+        ],
+        "recording_name": "This Life",
+        "credits": [
+          {
+            "artist_credit_name": "Kasinda",
+            "artist_mbid": "d06fadd1-896a-4ba2-addc-9159733a8237",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "The Meaning Of Flowers",
+      "artist": "Agnes Obel",
+      "release": "The Meaning of Flowers",
+      "submitted": {
+        "submission_client": "Web Scrobbler",
+        "music_service_name": "Qobuz",
+        "duration": 30
+      },
+      "mapped": {
+        "recording_mbid": "faff45c2-2d78-4624-9763-6a14ccc61988",
+        "release_mbid": "afc754e7-52fb-4455-865b-31aa9f7ef204",
+        "release_group_mbid": "837c4111-a2d3-4181-b236-b0e8fed019c1",
+        "artist_mbids": [
+          "e3c4c4af-f83b-4168-84cb-898009dd0447"
+        ],
+        "recording_name": "The Meaning of Flowers",
+        "credits": [
+          {
+            "artist_credit_name": "Agnes Obel",
+            "artist_mbid": "e3c4c4af-f83b-4168-84cb-898009dd0447",
+            "join_phrase": ""
+          }
+        ]
+      }
+    }
+  ]
+}

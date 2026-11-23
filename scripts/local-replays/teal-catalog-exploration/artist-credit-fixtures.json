@@ -1,0 +1,473 @@
+{
+  "captureDate": "2026-11-22",
+  "normal": [
+    {
+      "input": {
+        "track": "Titanium (remix)",
+        "artist": "SayMaxWell",
+        "release": "Titanium (remix)"
+      },
+      "expected": "b38db97b-dec6-4a16-9e66-a242096c32a8",
+      "evidence": "https://musicbrainz.org/ws/2/recording/b38db97b-dec6-4a16-9e66-a242096c32a8?inc=releases+artist-credits&fmt=json",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Titanium%20(remix)%22%20AND%20artist%3A%22SayMaxWell%22%20AND%20release%3A%22Titanium%20(remix)%22&fmt=json&limit=25",
+      "data": {
+        "created": "2026-11-22T17:10:06.862Z",
+        "count": 1,
+        "recordings": [
+          {
+            "id": "b38db97b-dec6-4a16-9e66-a242096c32a8",
+            "title": "Titanium (remix)",
+            "score": 100,
+            "artist-credit": [
+              {
+                "name": "SayMaxWell",
+                "artist": {
+                  "id": "81ea6eaf-b112-4484-8f8b-5a8d422fb6f8",
+                  "name": "SayMaxWell"
+                }
+              }
+            ],
+            "releases": [
+              {
+                "id": "006091d6-84ef-4932-b213-7ef616bfe1ba",
+                "title": "Titanium (remix)",
+                "status": "Official",
+                "country": "XW",
+                "date": "2021-05-14"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "input": {
+        "track": "Iris (Ligotti Remix)",
+        "artist": "The Goo Goo Dolls",
+        "release": "Iris (Ligotti Remix)"
+      },
+      "expected": "4de49ab7-3dd5-4f8e-a1f1-44927fc300c9",
+      "evidence": "https://musicbrainz.org/ws/2/recording/4de49ab7-3dd5-4f8e-a1f1-44927fc300c9?inc=releases+artist-credits&fmt=json",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Iris%20(Ligotti%20Remix)%22%20AND%20artist%3A%22The%20Goo%20Goo%20Dolls%22%20AND%20release%3A%22Iris%20(Ligotti%20Remix)%22&fmt=json&limit=25",
+      "data": {
+        "created": "2026-11-22T17:10:09.862Z",
+        "count": 1,
+        "recordings": [
+          {
+            "id": "4de49ab7-3dd5-4f8e-a1f1-44927fc300c9",
+            "title": "Iris (Ligotti Remix)",
+            "score": 100,
+            "artist-credit": [
+              {
+                "name": "The Goo Goo Dolls",
+                "artist": {
+                  "id": "e2c00c56-8365-4160-9f40-a64682917633",
+                  "name": "Goo Goo Dolls"
+                }
+              }
+            ],
+            "releases": [
+              {
+                "id": "7963a935-40a5-40d5-be33-ee9a5eca8a3f",
+                "title": "Iris (Ligotti Remix)",
+                "status": "Promotion"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "input": {
+        "track": "The Outlines",
+        "artist": "Koven, Circadian",
+        "release": "The Outlines"
+      },
+      "expected": "035d921d-1105-499b-8a71-7fbb2b27d67d",
+      "evidence": "https://musicbrainz.org/ws/2/recording/035d921d-1105-499b-8a71-7fbb2b27d67d?inc=releases+artist-credits&fmt=json",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22The%20Outlines%22%20AND%20artist%3A%22Koven%2C%20Circadian%22%20AND%20release%3A%22The%20Outlines%22&fmt=json&limit=25",
+      "data": {
+        "created": "2026-11-22T17:10:12.951Z",
+        "count": 0,
+        "recordings": []
+      }
+    },
+    {
+      "input": {
+        "track": "Don’t Bring Me Down",
+        "artist": "Justin OH",
+        "release": "Don’t Bring Me Down"
+      },
+      "expected": "9c6eaf4f-980b-40b1-9917-74d514894b53",
+      "evidence": "https://musicbrainz.org/ws/2/recording/9c6eaf4f-980b-40b1-9917-74d514894b53?inc=releases+artist-credits&fmt=json",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Don%E2%80%99t%20Bring%20Me%20Down%22%20AND%20artist%3A%22Justin%20OH%22%20AND%20release%3A%22Don%E2%80%99t%20Bring%20Me%20Down%22&fmt=json&limit=25",
+      "data": {
+        "created": "2026-11-22T17:10:16.115Z",
+        "count": 1,
+        "recordings": [
+          {
+            "id": "9c6eaf4f-980b-40b1-9917-74d514894b53",
+            "title": "Don’t Bring Me Down",
+            "score": 100,
+            "artist-credit": [
+              {
+                "name": "Justin OH",
+                "artist": {
+                  "id": "65ee5965-b670-489d-beda-bdf81826419a",
+                  "name": "Justin OH"
+                }
+              }
+            ],
+            "releases": [
+              {
+                "id": "8d31812f-d660-430f-9410-9ecbf325dcf6",
+                "title": "Welcome to the City of OZ",
+                "status": "Official",
+                "country": "XW",
+                "date": "2020-10-08"
+              },
+              {
+                "id": "dfc9b163-478f-4b3b-8748-223f553e52c7",
+                "title": "Monstercat Uncaged, Vol. 8",
+                "status": "Official",
+                "country": "XW",
+                "date": "2020-01-13"
+              },
+              {
+                "id": "39de5cd2-07ba-41cc-baa8-a0b93ff31fe8",
+                "title": "Monstercat Uncaged, Vol. 8",
+                "status": "Official",
+                "country": "XW",
+                "date": "2020-01-13"
+              },
+              {
+                "id": "87ac3419-1bdc-4368-ae6b-ac582749f788",
+                "title": "Monstercat – Best of 2019",
+                "status": "Official",
+                "country": "XW",
+                "date": "2019-12-12"
+              },
+              {
+                "id": "04c88c5d-bed8-423f-ab1a-cbf9ce2ddcb2",
+                "title": "Don’t Bring Me Down",
+                "status": "Official",
+                "country": "XW",
+                "date": "2019-08-05"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "input": {
+        "track": "Boss Wave",
+        "artist": "Xilent",
+        "release": "Boss Wave"
+      },
+      "expected": "fb48bde2-bfc1-4a9c-b231-31296db2b740",
+      "evidence": "https://musicbrainz.org/ws/2/recording/fb48bde2-bfc1-4a9c-b231-31296db2b740?inc=releases+artist-credits&fmt=json",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Boss%20Wave%22%20AND%20artist%3A%22Xilent%22%20AND%20release%3A%22Boss%20Wave%22&fmt=json&limit=25",
+      "data": {
+        "created": "2026-11-22T17:10:19.089Z",
+        "count": 6,
+        "recordings": [
+          {
+            "id": "fb48bde2-bfc1-4a9c-b231-31296db2b740",
+            "title": "Boss Wave",
+            "score": 100,
+            "artist-credit": [
+              {
+                "name": "Xilent",
+                "artist": {
+                  "id": "900af36d-72b8-4a4c-b567-3517f14c3c27",
+                  "name": "Xilent"
+                }
+              }
+            ],
+            "releases": [
+              {
+                "id": "db504675-9e45-476a-9037-1161f112dfe2",
+                "title": "Boss Wave",
+                "status": "Official",
+                "country": "XW",
+                "date": "2013-01-21"
+              }
+            ]
+          },
+          {
+            "id": "d2b11d56-e288-49fe-ad39-288374100e2c",
+            "title": "Boss Wave (Teddy Killerz remix)",
+            "score": 82,
+            "artist-credit": [
+              {
+                "name": "Xilent",
+                "artist": {
+                  "id": "900af36d-72b8-4a4c-b567-3517f14c3c27",
+                  "name": "Xilent"
+                }
+              }
+            ],
+            "releases": [
+              {
+                "id": "4f38260e-dad5-45a0-ba83-c4b42c47423b",
+                "title": "Boss Wave: Reloaded",
+                "status": "Official",
+                "country": "XW",
+                "date": "2013-05-27"
+              }
+            ]
+          },
+          {
+            "id": "e8aba14a-3557-40b0-880d-dec98421f69a",
+            "title": "Boss Wave (James Marvel remix)",
+            "score": 82,
+            "artist-credit": [
+              {
+                "name": "Xilent",
+                "artist": {
+                  "id": "900af36d-72b8-4a4c-b567-3517f14c3c27",
+                  "name": "Xilent"
+                }
+              }
+            ],
+            "releases": [
+              {
+                "id": "4f38260e-dad5-45a0-ba83-c4b42c47423b",
+                "title": "Boss Wave: Reloaded",
+                "status": "Official",
+                "country": "XW",
+                "date": "2013-05-27"
+              }
+            ]
+          },
+          {
+            "id": "8b3be671-06ca-4f0b-8172-ed459a4a5e48",
+            "title": "Boss Wave (Dodge & Fuski remix)",
+            "score": 78,
+            "artist-credit": [
+              {
+                "name": "Xilent",
+                "artist": {
+                  "id": "900af36d-72b8-4a4c-b567-3517f14c3c27",
+                  "name": "Xilent"
+                }
+              }
+            ],
+            "releases": [
+              {
+                "id": "4f38260e-dad5-45a0-ba83-c4b42c47423b",
+                "title": "Boss Wave: Reloaded",
+                "status": "Official",
+                "country": "XW",
+                "date": "2013-05-27"
+              }
+            ]
+          },
+          {
+            "id": "6b066833-0b45-4362-aa03-5c63abb7a156",
+            "title": "Boss Wave (Tha New Team remix)",
+            "score": 78,
+            "artist-credit": [
+              {
+                "name": "Xilent",
+                "artist": {
+                  "id": "900af36d-72b8-4a4c-b567-3517f14c3c27",
+                  "name": "Xilent"
+                }
+              }
+            ],
+            "releases": [
+              {
+                "id": "4f38260e-dad5-45a0-ba83-c4b42c47423b",
+                "title": "Boss Wave: Reloaded",
+                "status": "Official",
+                "country": "XW",
+                "date": "2013-05-27"
+              }
+            ]
+          },
+          {
+            "id": "f1dc2fef-fc92-4972-aa3d-2f4bf5e40e89",
+            "title": "Pixel Journey",
+            "score": 68,
+            "artist-credit": [
+              {
+                "name": "Xilent",
+                "artist": {
+                  "id": "900af36d-72b8-4a4c-b567-3517f14c3c27",
+                  "name": "Xilent"
+                }
+              }
+            ],
+            "releases": [
+              {
+                "id": "4f38260e-dad5-45a0-ba83-c4b42c47423b",
+                "title": "Boss Wave: Reloaded",
+                "status": "Official",
+                "country": "XW",
+                "date": "2013-05-27"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "input": {
+        "track": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)",
+        "artist": "Cosmograph, LEVEL NINE",
+        "release": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)"
+      },
+      "expected": "d2fc36c0-45ed-4d5c-80c4-bbe3f2c02be7",
+      "evidence": "https://musicbrainz.org/ws/2/recording/d2fc36c0-45ed-4d5c-80c4-bbe3f2c02be7?inc=releases+artist-credits&fmt=json",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Dirty%20Backyard%20(Goddess%20of%20Victory%3A%20NIKKE%20Original%20Soundtrack)%22%20AND%20artist%3A%22Cosmograph%2C%20LEVEL%20NINE%22%20AND%20release%3A%22Dirty%20Backyard%20(Goddess%20of%20Victory%3A%20NIKKE%20Original%20Soundtrack)%22&fmt=json&limit=25",
+      "data": {
+        "created": "2026-11-22T17:10:21.932Z",
+        "count": 0,
+        "recordings": []
+      }
+    }
+  ],
+  "separate": [
+    {
+      "track": "The Outlines",
+      "kind": "separate credits",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22The+Outlines%22+AND+artist%3A%22Koven%22+AND+artist%3A%22Circadian%22+AND+release%3A%22The+Outlines%22&fmt=json&limit=25",
+      "expected": "035d921d-1105-499b-8a71-7fbb2b27d67d",
+      "data": {
+        "count": 1,
+        "recordings": [
+          {
+            "id": "035d921d-1105-499b-8a71-7fbb2b27d67d",
+            "title": "The Outlines",
+            "score": 100,
+            "artist-credit": [
+              {
+                "name": "Koven",
+                "joinphrase": " & ",
+                "artist": {
+                  "id": "ad110705-cbe6-4c47-9b99-8526e6db0f41",
+                  "name": "Koven"
+                }
+              },
+              {
+                "name": "Circadian",
+                "artist": {
+                  "id": "f8d4709a-fe7a-4128-99a8-afef545aeae0",
+                  "name": "Circadian"
+                }
+              }
+            ],
+            "releases": [
+              {
+                "id": "b60a1fed-5ea6-41d6-ad33-6185bcbcfc47",
+                "title": "Apocalypse Zombieland 2023",
+                "status": "Official",
+                "country": "XW",
+                "date": "2023-11-17"
+              },
+              {
+                "id": "7e8985d6-967f-4235-9ae9-4f6d82d7ae42",
+                "title": "The Outlines",
+                "status": "Official",
+                "country": "XW",
+                "date": "2023-06-23"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "track": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)",
+      "kind": "separate credits",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Dirty+Backyard+%28Goddess+of+Victory%3A+NIKKE+Original+Soundtrack%29%22+AND+artist%3A%22Cosmograph%22+AND+artist%3A%22LEVEL+NINE%22+AND+release%3A%22Dirty+Backyard+%28Goddess+of+Victory%3A+NIKKE+Original+Soundtrack%29%22&fmt=json&limit=25",
+      "expected": "d2fc36c0-45ed-4d5c-80c4-bbe3f2c02be7",
+      "data": {
+        "count": 1,
+        "recordings": [
+          {
+            "id": "d2fc36c0-45ed-4d5c-80c4-bbe3f2c02be7",
+            "title": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)",
+            "score": 100,
+            "artist-credit": [
+              {
+                "name": "Cosmograph",
+                "joinphrase": " & ",
+                "artist": {
+                  "id": "2d03fd97-af30-42ea-8ac5-4801e5c1d70e",
+                  "name": "Cosmograph"
+                }
+              },
+              {
+                "name": "LEVEL NINE",
+                "artist": {
+                  "id": "15767960-e6cc-4181-93e7-a32b0a9ad523",
+                  "name": "LEVEL NINE"
+                }
+              }
+            ],
+            "releases": [
+              {
+                "id": "503963dc-2db0-4317-b4b0-b6e098ebae26",
+                "title": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)",
+                "status": "Official",
+                "country": "XW",
+                "date": "2024-01-25"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "fallbacks": [
+    {
+      "track": "The Outlines",
+      "kind": "unconstrained exact",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22The%20Outlines%22%20AND%20artist%3A%22Koven%2C%20Circadian%22&fmt=json&limit=25",
+      "count": 0,
+      "captured": true,
+      "expectedRank": 0
+    },
+    {
+      "track": "The Outlines",
+      "kind": "fuzzy",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22The%20Outlines%22~3%20AND%20artist%3A%22Koven%2C%20Circadian%22~3&fmt=json&limit=25",
+      "count": 1,
+      "captured": true,
+      "expectedRank": 1
+    },
+    {
+      "track": "The Outlines",
+      "kind": "title only",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22The%20Outlines%22&fmt=json&limit=25",
+      "captured": false,
+      "expectedRank": null
+    },
+    {
+      "track": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)",
+      "kind": "unconstrained exact",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Dirty%20Backyard%20(Goddess%20of%20Victory%3A%20NIKKE%20Original%20Soundtrack)%22%20AND%20artist%3A%22Cosmograph%2C%20LEVEL%20NINE%22&fmt=json&limit=25",
+      "count": 0,
+      "captured": true,
+      "expectedRank": 0
+    },
+    {
+      "track": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)",
+      "kind": "fuzzy",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Dirty%20Backyard%20%5C(Goddess%20of%20Victory%5C%3A%20NIKKE%20Original%20Soundtrack%5C)%22~3%20AND%20artist%3A%22Cosmograph%2C%20LEVEL%20NINE%22~3&fmt=json&limit=25",
+      "captured": false,
+      "expectedRank": null
+    },
+    {
+      "track": "Dirty Backyard (Goddess of Victory: NIKKE Original Soundtrack)",
+      "kind": "title only",
+      "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Dirty%20Backyard%20(Goddess%20of%20Victory%3A%20NIKKE%20Original%20Soundtrack)%22&fmt=json&limit=25",
+      "count": 178235,
+      "captured": true,
+      "expectedRank": 1
+    }
+  ]
+}

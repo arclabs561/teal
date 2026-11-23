@@ -1,0 +1,1517 @@
+{
+  "sample": "page-1",
+  "rows": [
+    {
+      "track": "Some Resolve",
+      "artist": "Röyksopp",
+      "release": "Profound Mysteries II",
+      "submitted": {
+        "recording_mbid": "30d08f4c-d825-4ae1-b79c-44242cddd7c0",
+        "release_mbid": "f1418001-7f1e-46af-bfdb-95faeded8841",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_names": [
+          "Röyksopp"
+        ],
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 10,
+        "duration_ms": 402390
+      },
+      "mapped": {
+        "recording_mbid": "30d08f4c-d825-4ae1-b79c-44242cddd7c0",
+        "release_mbid": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884"
+        ],
+        "recording_name": "Some Resolve",
+        "credits": [
+          {
+            "artist_credit_name": "Röyksopp",
+            "artist_mbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Tell Him",
+      "artist": "Röyksopp feat. Susanne Sundfør",
+      "release": "Profound Mysteries II",
+      "submitted": {
+        "recording_mbid": "46f0b53f-6731-457c-93e7-57cff0e5b0c2",
+        "release_mbid": "f1418001-7f1e-46af-bfdb-95faeded8841",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_names": [
+          "Röyksopp",
+          "Susanne Sundfør"
+        ],
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "f3f9e76a-0685-4a9a-97d1-6fa2b50f9fba"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 9,
+        "duration_ms": 326560
+      },
+      "mapped": {
+        "recording_mbid": "46f0b53f-6731-457c-93e7-57cff0e5b0c2",
+        "release_mbid": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "f3f9e76a-0685-4a9a-97d1-6fa2b50f9fba"
+        ],
+        "recording_name": "Tell Him",
+        "credits": [
+          {
+            "artist_credit_name": "Röyksopp",
+            "artist_mbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+            "join_phrase": " feat. "
+          },
+          {
+            "artist_credit_name": "Susanne Sundfør",
+            "artist_mbid": "f3f9e76a-0685-4a9a-97d1-6fa2b50f9fba",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Remembering the Departed",
+      "artist": "Röyksopp",
+      "release": "Profound Mysteries II",
+      "submitted": {
+        "recording_mbid": "a8eb2940-b706-4e35-afd2-f15feec4eb20",
+        "release_mbid": "f1418001-7f1e-46af-bfdb-95faeded8841",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_names": [
+          "Röyksopp"
+        ],
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 8,
+        "duration_ms": 229690
+      },
+      "mapped": {
+        "recording_mbid": "a8eb2940-b706-4e35-afd2-f15feec4eb20",
+        "release_mbid": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884"
+        ],
+        "recording_name": "Remembering the Departed",
+        "credits": [
+          {
+            "artist_credit_name": "Röyksopp",
+            "artist_mbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "It Was a Good Thing",
+      "artist": "Röyksopp feat. Pixx",
+      "release": "Profound Mysteries II",
+      "submitted": {
+        "recording_mbid": "100bdac3-db86-41ba-b987-6f639914834c",
+        "release_mbid": "f1418001-7f1e-46af-bfdb-95faeded8841",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_names": [
+          "Röyksopp",
+          "Pixx"
+        ],
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "90165cd6-f56e-4b26-9efa-fc30a1d05141"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 7,
+        "duration_ms": 253000
+      },
+      "mapped": {
+        "recording_mbid": "100bdac3-db86-41ba-b987-6f639914834c",
+        "release_mbid": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "90165cd6-f56e-4b26-9efa-fc30a1d05141"
+        ],
+        "recording_name": "It Was a Good Thing",
+        "credits": [
+          {
+            "artist_credit_name": "Röyksopp",
+            "artist_mbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+            "join_phrase": " feat. "
+          },
+          {
+            "artist_credit_name": "Pixx",
+            "artist_mbid": "90165cd6-f56e-4b26-9efa-fc30a1d05141",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Control",
+      "artist": "Röyksopp",
+      "release": "Profound Mysteries II",
+      "submitted": {
+        "recording_mbid": "0228a5f7-fd54-4b8c-8d7c-7c6f2d0163b8",
+        "release_mbid": "f1418001-7f1e-46af-bfdb-95faeded8841",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_names": [
+          "Röyksopp"
+        ],
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 6,
+        "duration_ms": 373830
+      },
+      "mapped": {
+        "recording_mbid": "0228a5f7-fd54-4b8c-8d7c-7c6f2d0163b8",
+        "release_mbid": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884"
+        ],
+        "recording_name": "Control",
+        "credits": [
+          {
+            "artist_credit_name": "Röyksopp",
+            "artist_mbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Sorry",
+      "artist": "Röyksopp feat. Jamie Irrepressible",
+      "release": "Profound Mysteries II",
+      "submitted": {
+        "recording_mbid": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12",
+        "release_mbid": "f1418001-7f1e-46af-bfdb-95faeded8841",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_names": [
+          "Röyksopp",
+          "Jamie Irrepressible"
+        ],
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "ba508a64-bb22-4689-8d06-ace0aac52f13"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 5,
+        "duration_ms": 299920
+      },
+      "mapped": {
+        "recording_mbid": "1aa80b5b-0ce3-4f5a-9a1c-67823f332a12",
+        "release_mbid": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "ba508a64-bb22-4689-8d06-ace0aac52f13"
+        ],
+        "recording_name": "Sorry",
+        "credits": [
+          {
+            "artist_credit_name": "Röyksopp",
+            "artist_mbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+            "join_phrase": " & "
+          },
+          {
+            "artist_credit_name": "Jamie Irrepressible",
+            "artist_mbid": "ba508a64-bb22-4689-8d06-ace0aac52f13",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Oh, Lover",
+      "artist": "Röyksopp feat. Susanne Sundfør",
+      "release": "Profound Mysteries II",
+      "submitted": {
+        "recording_mbid": "d1d936eb-fef3-4d19-8b73-419b978ede6a",
+        "release_mbid": "f1418001-7f1e-46af-bfdb-95faeded8841",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_names": [
+          "Röyksopp",
+          "Susanne Sundfør"
+        ],
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "f3f9e76a-0685-4a9a-97d1-6fa2b50f9fba"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 4,
+        "duration_ms": 373670
+      },
+      "mapped": {
+        "recording_mbid": "d1d936eb-fef3-4d19-8b73-419b978ede6a",
+        "release_mbid": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "f3f9e76a-0685-4a9a-97d1-6fa2b50f9fba"
+        ],
+        "recording_name": "Oh, Lover",
+        "credits": [
+          {
+            "artist_credit_name": "Röyksopp",
+            "artist_mbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+            "join_phrase": " feat. "
+          },
+          {
+            "artist_credit_name": "Susanne Sundfør",
+            "artist_mbid": "f3f9e76a-0685-4a9a-97d1-6fa2b50f9fba",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Unity",
+      "artist": "Röyksopp feat. Karen Harding",
+      "release": "Profound Mysteries II",
+      "submitted": {
+        "recording_mbid": "07530f77-1296-43a1-aa1d-6936d7246725",
+        "release_mbid": "f1418001-7f1e-46af-bfdb-95faeded8841",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_names": [
+          "Röyksopp",
+          "KAREN HARDING"
+        ],
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "25441822-c48a-4c46-af6f-fb03339d03bb"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 3,
+        "duration_ms": 304770
+      },
+      "mapped": {
+        "recording_mbid": "07530f77-1296-43a1-aa1d-6936d7246725",
+        "release_mbid": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "25441822-c48a-4c46-af6f-fb03339d03bb"
+        ],
+        "recording_name": "Unity",
+        "credits": [
+          {
+            "artist_credit_name": "Röyksopp",
+            "artist_mbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+            "join_phrase": " feat. "
+          },
+          {
+            "artist_credit_name": "Karen Harding",
+            "artist_mbid": "25441822-c48a-4c46-af6f-fb03339d03bb",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Let’s Get It Right",
+      "artist": "Röyksopp feat. Astrid S",
+      "release": "Profound Mysteries II",
+      "submitted": {
+        "recording_mbid": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+        "release_mbid": "f1418001-7f1e-46af-bfdb-95faeded8841",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_names": [
+          "Röyksopp",
+          "Astrid S"
+        ],
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "be389638-e74f-46a9-83d2-91ee3ce1fb0c"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 2,
+        "duration_ms": 305670
+      },
+      "mapped": {
+        "recording_mbid": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+        "release_mbid": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "be389638-e74f-46a9-83d2-91ee3ce1fb0c"
+        ],
+        "recording_name": "Let’s Get It Right",
+        "credits": [
+          {
+            "artist_credit_name": "Röyksopp",
+            "artist_mbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+            "join_phrase": " feat. "
+          },
+          {
+            "artist_credit_name": "Astrid S",
+            "artist_mbid": "be389638-e74f-46a9-83d2-91ee3ce1fb0c",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Denimclad Baboons",
+      "artist": "Röyksopp",
+      "release": "Profound Mysteries II",
+      "submitted": {
+        "recording_mbid": "6400d6f9-83f2-4e18-90fc-03ac5265d269",
+        "release_mbid": "f1418001-7f1e-46af-bfdb-95faeded8841",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_names": [
+          "Röyksopp"
+        ],
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 1,
+        "duration_ms": 222990
+      },
+      "mapped": {
+        "recording_mbid": "6400d6f9-83f2-4e18-90fc-03ac5265d269",
+        "release_mbid": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884"
+        ],
+        "recording_name": "Denimclad Baboons",
+        "credits": [
+          {
+            "artist_credit_name": "Röyksopp",
+            "artist_mbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Let’s Get It Right",
+      "artist": "Röyksopp feat. Astrid S",
+      "release": "Profound Mysteries II",
+      "submitted": {
+        "recording_mbid": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+        "release_mbid": "f1418001-7f1e-46af-bfdb-95faeded8841",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_names": [
+          "Röyksopp",
+          "Astrid S"
+        ],
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "be389638-e74f-46a9-83d2-91ee3ce1fb0c"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 2,
+        "duration_ms": 305670
+      },
+      "mapped": {
+        "recording_mbid": "8060eb6b-ca9e-4e5c-9f28-b2297b23665a",
+        "release_mbid": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "be389638-e74f-46a9-83d2-91ee3ce1fb0c"
+        ],
+        "recording_name": "Let’s Get It Right",
+        "credits": [
+          {
+            "artist_credit_name": "Röyksopp",
+            "artist_mbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+            "join_phrase": " feat. "
+          },
+          {
+            "artist_credit_name": "Astrid S",
+            "artist_mbid": "be389638-e74f-46a9-83d2-91ee3ce1fb0c",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Denimclad Baboons",
+      "artist": "Röyksopp",
+      "release": "Profound Mysteries II",
+      "submitted": {
+        "recording_mbid": "6400d6f9-83f2-4e18-90fc-03ac5265d269",
+        "release_mbid": "f1418001-7f1e-46af-bfdb-95faeded8841",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_names": [
+          "Röyksopp"
+        ],
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 1,
+        "duration_ms": 222990
+      },
+      "mapped": {
+        "recording_mbid": "6400d6f9-83f2-4e18-90fc-03ac5265d269",
+        "release_mbid": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884"
+        ],
+        "recording_name": "Denimclad Baboons",
+        "credits": [
+          {
+            "artist_credit_name": "Röyksopp",
+            "artist_mbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Oh, Lover",
+      "artist": "Röyksopp feat. Susanne Sundfør",
+      "release": "Profound Mysteries II",
+      "submitted": {
+        "recording_mbid": "d1d936eb-fef3-4d19-8b73-419b978ede6a",
+        "release_mbid": "f1418001-7f1e-46af-bfdb-95faeded8841",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_names": [
+          "Röyksopp",
+          "Susanne Sundfør"
+        ],
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "f3f9e76a-0685-4a9a-97d1-6fa2b50f9fba"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 4,
+        "duration_ms": 373670
+      },
+      "mapped": {
+        "recording_mbid": "d1d936eb-fef3-4d19-8b73-419b978ede6a",
+        "release_mbid": "e96c2e7b-94fd-4fbe-9c44-1a27d8664825",
+        "release_group_mbid": "1d98b0bc-5832-49d2-a93e-463032631a2f",
+        "artist_mbids": [
+          "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+          "f3f9e76a-0685-4a9a-97d1-6fa2b50f9fba"
+        ],
+        "recording_name": "Oh, Lover",
+        "credits": [
+          {
+            "artist_credit_name": "Röyksopp",
+            "artist_mbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+            "join_phrase": " feat. "
+          },
+          {
+            "artist_credit_name": "Susanne Sundfør",
+            "artist_mbid": "f3f9e76a-0685-4a9a-97d1-6fa2b50f9fba",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "La Guapa",
+      "artist": "B-Tribe",
+      "release": "Sensual Sensual",
+      "submitted": {
+        "recording_mbid": "b8df962a-6127-4d6d-a157-b414e14cb0a1",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_names": [
+          "B-Tribe"
+        ],
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 8,
+        "duration_ms": 209140
+      },
+      "mapped": {
+        "recording_mbid": "b8df962a-6127-4d6d-a157-b414e14cb0a1",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "recording_name": "La Guapa",
+        "credits": [
+          {
+            "artist_credit_name": "B-Tribe",
+            "artist_mbid": "14e703ac-8364-41d5-b609-af2fd90343e9",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Tribute to J.S. Bach",
+      "artist": "B-Tribe",
+      "release": "Sensual Sensual",
+      "submitted": {
+        "recording_mbid": "41301395-6d54-43ea-bf32-9f09295dbee6",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_names": [
+          "B-Tribe"
+        ],
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 7,
+        "duration_ms": 199630
+      },
+      "mapped": {
+        "recording_mbid": "41301395-6d54-43ea-bf32-9f09295dbee6",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "recording_name": "Tribute to J.S. Bach",
+        "credits": [
+          {
+            "artist_credit_name": "B-Tribe",
+            "artist_mbid": "14e703ac-8364-41d5-b609-af2fd90343e9",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Zapateado",
+      "artist": "B-Tribe",
+      "release": "Sensual Sensual",
+      "submitted": {
+        "recording_mbid": "584d20cf-50a9-4742-9f10-b1d00134598b",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_names": [
+          "B-Tribe"
+        ],
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 6,
+        "duration_ms": 351580
+      },
+      "mapped": {
+        "recording_mbid": "584d20cf-50a9-4742-9f10-b1d00134598b",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "recording_name": "Zapateado",
+        "credits": [
+          {
+            "artist_credit_name": "B-Tribe",
+            "artist_mbid": "14e703ac-8364-41d5-b609-af2fd90343e9",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Sensual Sensual",
+      "artist": "B-Tribe",
+      "release": "Sensual Sensual",
+      "submitted": {
+        "recording_mbid": "d5cad631-15d8-4636-bdf0-76d477c0ad0f",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_names": [
+          "B-Tribe"
+        ],
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 5,
+        "duration_ms": 363810
+      },
+      "mapped": {
+        "recording_mbid": "d5cad631-15d8-4636-bdf0-76d477c0ad0f",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "recording_name": "Sensual Sensual",
+        "credits": [
+          {
+            "artist_credit_name": "B-Tribe",
+            "artist_mbid": "14e703ac-8364-41d5-b609-af2fd90343e9",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Háblame",
+      "artist": "B-Tribe",
+      "release": "Sensual Sensual",
+      "submitted": {
+        "recording_mbid": "affdd631-e955-4bb1-b25a-a4f11ce143b0",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_names": [
+          "B-Tribe"
+        ],
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 4,
+        "duration_ms": 247640
+      },
+      "mapped": {
+        "recording_mbid": "affdd631-e955-4bb1-b25a-a4f11ce143b0",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "recording_name": "Háblame",
+        "credits": [
+          {
+            "artist_credit_name": "B-Tribe",
+            "artist_mbid": "14e703ac-8364-41d5-b609-af2fd90343e9",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Sometimes",
+      "artist": "B-Tribe",
+      "release": "Sensual Sensual",
+      "submitted": {
+        "recording_mbid": "3b8e3dfb-c3f7-4e27-8eba-c8ea541d60b2",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_names": [
+          "B-Tribe"
+        ],
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 3,
+        "duration_ms": 314310
+      },
+      "mapped": {
+        "recording_mbid": "3b8e3dfb-c3f7-4e27-8eba-c8ea541d60b2",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "recording_name": "Sometimes",
+        "credits": [
+          {
+            "artist_credit_name": "B-Tribe",
+            "artist_mbid": "14e703ac-8364-41d5-b609-af2fd90343e9",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Alegría",
+      "artist": "B-Tribe",
+      "release": "Sensual Sensual",
+      "submitted": {
+        "recording_mbid": "6c0f1271-23ff-4ab7-891b-2e39676a5f5e",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_names": [
+          "B-Tribe"
+        ],
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 2,
+        "duration_ms": 359130
+      },
+      "mapped": {
+        "recording_mbid": "6c0f1271-23ff-4ab7-891b-2e39676a5f5e",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "recording_name": "Alegría",
+        "credits": [
+          {
+            "artist_credit_name": "B-Tribe",
+            "artist_mbid": "14e703ac-8364-41d5-b609-af2fd90343e9",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Overture (Concierto de Aranjuez)",
+      "artist": "B-Tribe",
+      "release": "Sensual Sensual",
+      "submitted": {
+        "recording_mbid": "180179f1-7a86-4dbd-917a-35ecfcfce78e",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_names": [
+          "B-Tribe"
+        ],
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 1,
+        "duration_ms": 244190
+      },
+      "mapped": {
+        "recording_mbid": "180179f1-7a86-4dbd-917a-35ecfcfce78e",
+        "release_mbid": "ac791926-0b31-43e0-bba6-805eb7a05ebc",
+        "release_group_mbid": "87163ee4-57a7-4638-8129-69966fbbed47",
+        "artist_mbids": [
+          "14e703ac-8364-41d5-b609-af2fd90343e9"
+        ],
+        "recording_name": "Overture (Concierto de Aranjuez)",
+        "credits": [
+          {
+            "artist_credit_name": "B-Tribe",
+            "artist_mbid": "14e703ac-8364-41d5-b609-af2fd90343e9",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "A Feeling",
+      "artist": "Christian Löffler feat. Adna",
+      "release": "Until We Meet Again",
+      "submitted": {
+        "recording_mbid": "10b8b705-bfc6-4227-898d-300dc104bc6d",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_names": [
+          "Christian Löffler",
+          "Adna"
+        ],
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+          "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 13,
+        "duration_ms": 222280
+      },
+      "mapped": {
+        "recording_mbid": "10b8b705-bfc6-4227-898d-300dc104bc6d",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+          "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb"
+        ],
+        "recording_name": "A Feeling",
+        "credits": [
+          {
+            "artist_credit_name": "Christian Löffler",
+            "artist_mbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+            "join_phrase": " feat. "
+          },
+          {
+            "artist_credit_name": "Adna",
+            "artist_mbid": "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "What We Used to Say",
+      "artist": "Christian Löffler feat. Adna",
+      "release": "Until We Meet Again",
+      "submitted": {
+        "recording_mbid": "6e2bdba2-3884-48fd-b082-61c3fb332c73",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_names": [
+          "Christian Löffler",
+          "Adna"
+        ],
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+          "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 12,
+        "duration_ms": 227400
+      },
+      "mapped": {
+        "recording_mbid": "6e2bdba2-3884-48fd-b082-61c3fb332c73",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+          "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb"
+        ],
+        "recording_name": "What We Used to Say",
+        "credits": [
+          {
+            "artist_credit_name": "Christian Löffler",
+            "artist_mbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+            "join_phrase": " feat. "
+          },
+          {
+            "artist_credit_name": "Adna",
+            "artist_mbid": "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Our Rhythm",
+      "artist": "Christian Löffler",
+      "release": "Until We Meet Again",
+      "submitted": {
+        "recording_mbid": "4b57faab-90fc-47a9-a9b8-13e53c832620",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_names": [
+          "Christian Löffler"
+        ],
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 11,
+        "duration_ms": 258410
+      },
+      "mapped": {
+        "recording_mbid": "4b57faab-90fc-47a9-a9b8-13e53c832620",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e"
+        ],
+        "recording_name": "Our Rhythm",
+        "credits": [
+          {
+            "artist_credit_name": "Christian Löffler",
+            "artist_mbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Closer",
+      "artist": "Christian Löffler feat. Shallou",
+      "release": "Until We Meet Again",
+      "submitted": {
+        "recording_mbid": "20d90dbb-451a-47de-a0aa-bd00eea1ae40",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_names": [
+          "Christian Löffler",
+          "Shallou"
+        ],
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+          "b87bd286-3b5f-448e-9364-11d68823c1db"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 10,
+        "duration_ms": 258410
+      },
+      "mapped": {
+        "recording_mbid": "20d90dbb-451a-47de-a0aa-bd00eea1ae40",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+          "b87bd286-3b5f-448e-9364-11d68823c1db"
+        ],
+        "recording_name": "Closer",
+        "credits": [
+          {
+            "artist_credit_name": "Christian Löffler",
+            "artist_mbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+            "join_phrase": " feat. "
+          },
+          {
+            "artist_credit_name": "Shallou",
+            "artist_mbid": "b87bd286-3b5f-448e-9364-11d68823c1db",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "ILY",
+      "artist": "Christian Löffler",
+      "release": "Until We Meet Again",
+      "submitted": {
+        "recording_mbid": "01ab236d-00ad-4f1e-ad0e-0ba83be215be",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_names": [
+          "Christian Löffler"
+        ],
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 9,
+        "duration_ms": 198870
+      },
+      "mapped": {
+        "recording_mbid": "01ab236d-00ad-4f1e-ad0e-0ba83be215be",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e"
+        ],
+        "recording_name": "ILY",
+        "credits": [
+          {
+            "artist_credit_name": "Christian Löffler",
+            "artist_mbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Until We Meet Again",
+      "artist": "Christian Löffler",
+      "release": "Until We Meet Again",
+      "submitted": {
+        "recording_mbid": "bc5eec36-ef74-4678-9ba5-e35a20436fd5",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_names": [
+          "Christian Löffler"
+        ],
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 8,
+        "duration_ms": 167050
+      },
+      "mapped": {
+        "recording_mbid": "bc5eec36-ef74-4678-9ba5-e35a20436fd5",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e"
+        ],
+        "recording_name": "Until We Meet Again",
+        "credits": [
+          {
+            "artist_credit_name": "Christian Löffler",
+            "artist_mbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Strawberry Fields",
+      "artist": "Christian Löffler",
+      "release": "Until We Meet Again",
+      "submitted": {
+        "recording_mbid": "40869e31-0265-4b17-bd36-f4dc6c5b5f86",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_names": [
+          "Christian Löffler"
+        ],
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 7,
+        "duration_ms": 242530
+      },
+      "mapped": {
+        "recording_mbid": "40869e31-0265-4b17-bd36-f4dc6c5b5f86",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e"
+        ],
+        "recording_name": "Strawberry Fields",
+        "credits": [
+          {
+            "artist_credit_name": "Christian Löffler",
+            "artist_mbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Home",
+      "artist": "Christian Löffler",
+      "release": "Until We Meet Again",
+      "submitted": {
+        "recording_mbid": "0a1edcdb-dc54-4a12-b71e-7d7746020483",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_names": [
+          "Christian Löffler"
+        ],
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 6,
+        "duration_ms": 189470
+      },
+      "mapped": {
+        "recording_mbid": "0a1edcdb-dc54-4a12-b71e-7d7746020483",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e"
+        ],
+        "recording_name": "Home",
+        "credits": [
+          {
+            "artist_credit_name": "Christian Löffler",
+            "artist_mbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "It's Okay",
+      "artist": "Christian Löffler feat. Adna",
+      "release": "Until We Meet Again",
+      "submitted": {
+        "recording_mbid": "2f7b73a4-be4a-4ce3-b69f-c3159f8c522a",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_names": [
+          "Christian Löffler",
+          "Adna"
+        ],
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+          "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 5,
+        "duration_ms": 196540
+      },
+      "mapped": {
+        "recording_mbid": "2f7b73a4-be4a-4ce3-b69f-c3159f8c522a",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+          "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb"
+        ],
+        "recording_name": "It's Okay",
+        "credits": [
+          {
+            "artist_credit_name": "Christian Löffler",
+            "artist_mbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+            "join_phrase": " feat. "
+          },
+          {
+            "artist_credit_name": "Adna",
+            "artist_mbid": "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "No Distance Can Dim Our Light",
+      "artist": "Christian Löffler feat. Adna",
+      "release": "Until We Meet Again",
+      "submitted": {
+        "recording_mbid": "318ff587-cc88-438d-bbd7-5524a6883da9",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_names": [
+          "Christian Löffler",
+          "Adna"
+        ],
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+          "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 4,
+        "duration_ms": 240870
+      },
+      "mapped": {
+        "recording_mbid": "318ff587-cc88-438d-bbd7-5524a6883da9",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+          "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb"
+        ],
+        "recording_name": "No Distance Can Dim Our Light",
+        "credits": [
+          {
+            "artist_credit_name": "Christian Löffler",
+            "artist_mbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+            "join_phrase": " feat. "
+          },
+          {
+            "artist_credit_name": "Adna",
+            "artist_mbid": "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "7 Tepe",
+      "artist": "Christian Löffler",
+      "release": "Until We Meet Again",
+      "submitted": {
+        "recording_mbid": "544b758f-8e52-4433-bace-5bc8aa6cbc85",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_names": [
+          "Christian Löffler"
+        ],
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 3,
+        "duration_ms": 178800
+      },
+      "mapped": {
+        "recording_mbid": "544b758f-8e52-4433-bace-5bc8aa6cbc85",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e"
+        ],
+        "recording_name": "7 Tepe",
+        "credits": [
+          {
+            "artist_credit_name": "Christian Löffler",
+            "artist_mbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Nothing",
+      "artist": "Christian Löffler feat. Adna",
+      "release": "Until We Meet Again",
+      "submitted": {
+        "recording_mbid": "3c525387-0f7e-47e4-a731-64ce87819717",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_names": [
+          "Christian Löffler",
+          "Adna"
+        ],
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+          "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 2,
+        "duration_ms": 183530
+      },
+      "mapped": {
+        "recording_mbid": "3c525387-0f7e-47e4-a731-64ce87819717",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+          "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb"
+        ],
+        "recording_name": "Nothing",
+        "credits": [
+          {
+            "artist_credit_name": "Christian Löffler",
+            "artist_mbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+            "join_phrase": " feat. "
+          },
+          {
+            "artist_credit_name": "Adna",
+            "artist_mbid": "69cc0c33-a4d9-4f48-bcd6-010eddee5fcb",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Islands",
+      "artist": "Christian Löffler",
+      "release": "Until We Meet Again",
+      "submitted": {
+        "recording_mbid": "8c53e45f-c0e9-4e66-887a-aa9f798a6018",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_names": [
+          "Christian Löffler"
+        ],
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 1,
+        "duration_ms": 239370
+      },
+      "mapped": {
+        "recording_mbid": "8c53e45f-c0e9-4e66-887a-aa9f798a6018",
+        "release_mbid": "0269f70a-ebae-4c59-87bf-f41a9b1981a0",
+        "release_group_mbid": "089049f0-b4fc-4c55-a63f-162755df3c35",
+        "artist_mbids": [
+          "a0d91c38-f5dc-487b-9b30-b67de1e7489e"
+        ],
+        "recording_name": "Islands",
+        "credits": [
+          {
+            "artist_credit_name": "Christian Löffler",
+            "artist_mbid": "a0d91c38-f5dc-487b-9b30-b67de1e7489e",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Polyrytmi",
+      "artist": "Carbon Based Lifeforms",
+      "release": "Interloper",
+      "submitted": {
+        "recording_mbid": "261b2272-87bd-48ed-b35b-433d81fcaef1",
+        "release_mbid": "d5d1fce6-e9e1-4565-976d-f046c3d5d252",
+        "release_group_mbid": "5812b287-ca1a-4ffe-a02f-08f8cc67d052",
+        "artist_names": [
+          "Carbon Based Lifeforms"
+        ],
+        "artist_mbids": [
+          "8229a8f1-b315-4fae-af57-b3eb71efdaf4"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 10,
+        "duration_ms": 528000
+      },
+      "mapped": {
+        "recording_mbid": "261b2272-87bd-48ed-b35b-433d81fcaef1",
+        "release_mbid": "4a4905ff-5b6d-4798-aace-89dd4bdd5972",
+        "release_group_mbid": "5812b287-ca1a-4ffe-a02f-08f8cc67d052",
+        "artist_mbids": [
+          "8229a8f1-b315-4fae-af57-b3eb71efdaf4"
+        ],
+        "recording_name": "Polyrytmi",
+        "credits": [
+          {
+            "artist_credit_name": "Carbon Based Lifeforms",
+            "artist_mbid": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "20 Minutes",
+      "artist": "Carbon Based Lifeforms",
+      "release": "Interloper",
+      "submitted": {
+        "recording_mbid": "2b64ab90-d570-46b0-afec-4a9711a2ccd4",
+        "release_mbid": "d5d1fce6-e9e1-4565-976d-f046c3d5d252",
+        "release_group_mbid": "5812b287-ca1a-4ffe-a02f-08f8cc67d052",
+        "artist_names": [
+          "Carbon Based Lifeforms"
+        ],
+        "artist_mbids": [
+          "8229a8f1-b315-4fae-af57-b3eb71efdaf4"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 9,
+        "duration_ms": 448740
+      },
+      "mapped": {
+        "recording_mbid": "2b64ab90-d570-46b0-afec-4a9711a2ccd4",
+        "release_mbid": "4a4905ff-5b6d-4798-aace-89dd4bdd5972",
+        "release_group_mbid": "5812b287-ca1a-4ffe-a02f-08f8cc67d052",
+        "artist_mbids": [
+          "8229a8f1-b315-4fae-af57-b3eb71efdaf4"
+        ],
+        "recording_name": "20 Minutes",
+        "credits": [
+          {
+            "artist_credit_name": "Carbon Based Lifeforms",
+            "artist_mbid": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "M",
+      "artist": "Carbon Based Lifeforms",
+      "release": "Interloper",
+      "submitted": {
+        "recording_mbid": "320d0da8-2856-43df-8c4b-018542476830",
+        "release_mbid": "d5d1fce6-e9e1-4565-976d-f046c3d5d252",
+        "release_group_mbid": "5812b287-ca1a-4ffe-a02f-08f8cc67d052",
+        "artist_names": [
+          "Carbon Based Lifeforms"
+        ],
+        "artist_mbids": [
+          "8229a8f1-b315-4fae-af57-b3eb71efdaf4"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 8,
+        "duration_ms": 336000
+      },
+      "mapped": {
+        "recording_mbid": "320d0da8-2856-43df-8c4b-018542476830",
+        "release_mbid": "4a4905ff-5b6d-4798-aace-89dd4bdd5972",
+        "release_group_mbid": "5812b287-ca1a-4ffe-a02f-08f8cc67d052",
+        "artist_mbids": [
+          "8229a8f1-b315-4fae-af57-b3eb71efdaf4"
+        ],
+        "recording_name": "M",
+        "credits": [
+          {
+            "artist_credit_name": "Carbon Based Lifeforms",
+            "artist_mbid": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Frog",
+      "artist": "Carbon Based Lifeforms",
+      "release": "Interloper",
+      "submitted": {
+        "recording_mbid": "6c1fcb05-015c-422d-8d13-88e5da4a7d62",
+        "release_mbid": "d5d1fce6-e9e1-4565-976d-f046c3d5d252",
+        "release_group_mbid": "5812b287-ca1a-4ffe-a02f-08f8cc67d052",
+        "artist_names": [
+          "Carbon Based Lifeforms"
+        ],
+        "artist_mbids": [
+          "8229a8f1-b315-4fae-af57-b3eb71efdaf4"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 7,
+        "duration_ms": 444400
+      },
+      "mapped": {
+        "recording_mbid": "6c1fcb05-015c-422d-8d13-88e5da4a7d62",
+        "release_mbid": "4a4905ff-5b6d-4798-aace-89dd4bdd5972",
+        "release_group_mbid": "5812b287-ca1a-4ffe-a02f-08f8cc67d052",
+        "artist_mbids": [
+          "8229a8f1-b315-4fae-af57-b3eb71efdaf4"
+        ],
+        "recording_name": "Frog",
+        "credits": [
+          {
+            "artist_credit_name": "Carbon Based Lifeforms",
+            "artist_mbid": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Euphotic",
+      "artist": "Carbon Based Lifeforms",
+      "release": "Interloper",
+      "submitted": {
+        "recording_mbid": "9a970c7a-83c6-492f-84d2-cf0c81b88c06",
+        "release_mbid": "d5d1fce6-e9e1-4565-976d-f046c3d5d252",
+        "release_group_mbid": "5812b287-ca1a-4ffe-a02f-08f8cc67d052",
+        "artist_names": [
+          "Carbon Based Lifeforms"
+        ],
+        "artist_mbids": [
+          "8229a8f1-b315-4fae-af57-b3eb71efdaf4"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 6,
+        "duration_ms": 447080
+      },
+      "mapped": {
+        "recording_mbid": "9a970c7a-83c6-492f-84d2-cf0c81b88c06",
+        "release_mbid": "4a4905ff-5b6d-4798-aace-89dd4bdd5972",
+        "release_group_mbid": "5812b287-ca1a-4ffe-a02f-08f8cc67d052",
+        "artist_mbids": [
+          "8229a8f1-b315-4fae-af57-b3eb71efdaf4"
+        ],
+        "recording_name": "Euphotic",
+        "credits": [
+          {
+            "artist_credit_name": "Carbon Based Lifeforms",
+            "artist_mbid": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+            "join_phrase": ""
+          }
+        ]
+      }
+    },
+    {
+      "track": "Init",
+      "artist": "Carbon Based Lifeforms",
+      "release": "Interloper",
+      "submitted": {
+        "recording_mbid": "510e4d74-18de-4168-a0de-c283cdfa6226",
+        "release_mbid": "d5d1fce6-e9e1-4565-976d-f046c3d5d252",
+        "release_group_mbid": "5812b287-ca1a-4ffe-a02f-08f8cc67d052",
+        "artist_names": [
+          "Carbon Based Lifeforms"
+        ],
+        "artist_mbids": [
+          "8229a8f1-b315-4fae-af57-b3eb71efdaf4"
+        ],
+        "submission_client": "navidrome",
+        "tracknumber": 5,
+        "duration_ms": 470400
+      },
+      "mapped": {
+        "recording_mbid": "510e4d74-18de-4168-a0de-c283cdfa6226",
+        "release_mbid": "4a4905ff-5b6d-4798-aace-89dd4bdd5972",
+        "release_group_mbid": "5812b287-ca1a-4ffe-a02f-08f8cc67d052",
+        "artist_mbids": [
+          "8229a8f1-b315-4fae-af57-b3eb71efdaf4"
+        ],
+        "recording_name": "Init",
+        "credits": [
+          {
+            "artist_credit_name": "Carbon Based Lifeforms",
+            "artist_mbid": "8229a8f1-b315-4fae-af57-b3eb71efdaf4",
+            "join_phrase": ""
+          }
+        ]
+      }
+    }
+  ]
+}

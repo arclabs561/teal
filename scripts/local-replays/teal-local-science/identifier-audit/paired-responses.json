@@ -1,0 +1,1115 @@
+{
+  "1-name": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22What%20We%20Used%20to%20Say%22%20AND%20artist%3A%22Christian%20L%C3%B6ffler%22%20AND%20release%3A%22Until%20We%20Meet%20Again%22&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22What%20We%20Used%20to%20Say%22%20AND%20artist%3A%22Christian%20L%C3%B6ffler%22%20AND%20release%3A%22Until%20We%20Meet%20Again%22&fmt=json&limit=5",
+    "created": "2026-11-22T17:46:12.243Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "6e2bdba2-3884-48fd-b082-61c3fb332c73",
+        "title": "What We Used to Say",
+        "score": 100,
+        "length": 222281
+      }
+    ],
+    "failures": []
+  },
+  "1-id": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22What%20We%20Used%20to%20Say%22%20AND%20artist%3A%22Christian%20L%C3%B6ffler%22%20AND%20reid%3A0269f70a-ebae-4c59-87bf-f41a9b1981a0&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22What%20We%20Used%20to%20Say%22%20AND%20artist%3A%22Christian%20L%C3%B6ffler%22%20AND%20reid%3A0269f70a-ebae-4c59-87bf-f41a9b1981a0&fmt=json&limit=5",
+    "created": "2026-11-22T17:46:14.889Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "6e2bdba2-3884-48fd-b082-61c3fb332c73",
+        "title": "What We Used to Say",
+        "score": 100,
+        "length": 222281
+      }
+    ],
+    "failures": []
+  },
+  "2-id": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Polyrytmi%22%20AND%20artist%3A%22Carbon%20Based%20Lifeforms%22%20AND%20reid%3Ad5d1fce6-e9e1-4565-976d-f046c3d5d252&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Polyrytmi%22%20AND%20artist%3A%22Carbon%20Based%20Lifeforms%22%20AND%20reid%3Ad5d1fce6-e9e1-4565-976d-f046c3d5d252&fmt=json&limit=5",
+    "created": "2026-11-22T17:46:17.564Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "261b2272-87bd-48ed-b35b-433d81fcaef1",
+        "title": "Polyrytmi",
+        "score": 100,
+        "length": 518149
+      }
+    ],
+    "failures": []
+  },
+  "2-name": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Polyrytmi%22%20AND%20artist%3A%22Carbon%20Based%20Lifeforms%22%20AND%20release%3A%22Interloper%22&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Polyrytmi%22%20AND%20artist%3A%22Carbon%20Based%20Lifeforms%22%20AND%20release%3A%22Interloper%22&fmt=json&limit=5",
+    "created": "2026-11-22T17:46:20.444Z",
+    "count": 3,
+    "recordings": [
+      {
+        "id": "7005fb72-f68c-4230-89fe-364b8a848372",
+        "title": "Polyrytmi",
+        "score": 100,
+        "length": 528000,
+        "disambiguation": "24 bit stem remaster"
+      },
+      {
+        "id": "261b2272-87bd-48ed-b35b-433d81fcaef1",
+        "title": "Polyrytmi",
+        "score": 100,
+        "length": 518149
+      },
+      {
+        "id": "ddcd1232-deeb-4e4d-8ead-82e7bfafcd96",
+        "title": "Polyrytmi",
+        "score": 100,
+        "length": 524000
+      }
+    ],
+    "failures": []
+  },
+  "3-name": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Golden%20Brown%20-%20Slowed%20Down%20Version%22%20AND%20artist%3A%22The%20Stranglers%22%20AND%20release%3A%22Golden%20Brown%22&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Golden%20Brown%20-%20Slowed%20Down%20Version%22%20AND%20artist%3A%22The%20Stranglers%22%20AND%20release%3A%22Golden%20Brown%22&fmt=json&limit=5",
+    "created": "2026-11-22T17:46:24.020Z",
+    "count": 0,
+    "recordings": [],
+    "failures": []
+  },
+  "3-id": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Golden%20Brown%20-%20Slowed%20Down%20Version%22%20AND%20artist%3A%22The%20Stranglers%22%20AND%20reid%3Abc0a226e-87ec-44ce-a92f-a51fec8bffe9&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Golden%20Brown%20-%20Slowed%20Down%20Version%22%20AND%20artist%3A%22The%20Stranglers%22%20AND%20reid%3Abc0a226e-87ec-44ce-a92f-a51fec8bffe9&fmt=json&limit=5",
+    "created": "2026-11-22T17:46:26.690Z",
+    "count": 0,
+    "recordings": [],
+    "failures": []
+  },
+  "4-id": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20reid%3Aa7fc3d41-d645-418e-a5d2-960a835b04e0&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20reid%3Aa7fc3d41-d645-418e-a5d2-960a835b04e0&fmt=json&limit=5",
+    "created": "2026-11-22T17:46:30.156Z",
+    "count": 2,
+    "recordings": [
+      {
+        "id": "2ce4bb17-2c5f-49ce-be58-558dec7322ee",
+        "title": "Sparkle (English ver.)",
+        "score": 100,
+        "length": 409333,
+        "artist-credit": [
+          {
+            "name": "RADWIMPS"
+          }
+        ],
+        "releases": [
+          {
+            "id": "f3f44449-99a0-49b7-a4b2-a1961503c001",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "a7fc3d41-d645-418e-a5d2-960a835b04e0",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "7bce4103-41d5-45c5-b05e-8743ceef8026",
+            "title": "你的名字｡ English edition",
+            "status": "Official"
+          },
+          {
+            "id": "01ad1016-0722-4304-bace-c10c9bd20c76",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "91c31778-8603-4e55-b585-657d0863c8ae",
+            "title": "君の名は。English edition",
+            "status": "Official"
+          },
+          {
+            "id": "1944f1a8-655b-4610-97d3-ff5b067774ca",
+            "title": "君の名は。English edition",
+            "status": "Official"
+          },
+          {
+            "id": "874006c2-7771-4fde-bdba-11b83a311bb8",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "eaea83cf-a68e-44d3-88d6-14c23c699cab",
+            "title": "君の名は。English edition",
+            "status": "Official"
+          }
+        ]
+      },
+      {
+        "id": "1d8040f5-95d7-423c-a232-5959915c4af3",
+        "title": "スパークル (movie ver.)",
+        "score": 88,
+        "length": 535200,
+        "artist-credit": [
+          {
+            "name": "RADWIMPS"
+          }
+        ],
+        "releases": [
+          {
+            "id": "9cf90e74-956b-4e00-9f50-259de2106fcf",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "bb52e140-b484-4703-b86a-a9f23f6c664d",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "f725806a-1102-4491-8f10-6ec3fc2c5b90",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "a7cd44c9-4e33-4f3e-a45b-22431c9d4ac8",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "f3f44449-99a0-49b7-a4b2-a1961503c001",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "2679ddf1-c377-4445-8993-65d0298a543b",
+            "title": "你的名字｡",
+            "status": "Official"
+          },
+          {
+            "id": "37759de9-9376-40d1-a4bf-6c5fcb11cb54",
+            "title": "你的名字｡电影原声带",
+            "status": "Official"
+          },
+          {
+            "id": "0630f5c6-ce17-408e-909d-4776939cd016",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "8cda0681-88b3-4a7d-a4ac-97fbd7983b3a",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "a7fc3d41-d645-418e-a5d2-960a835b04e0",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "1f0569d4-2186-4317-8374-11e5a96afe13",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "db4ef117-ba81-435a-b1a6-e395998c10b8",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "9356b15a-4887-41e2-8550-0b3f6db89510",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "45cd5dfd-eff7-45eb-8f46-9997c04d02aa",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "01ad1016-0722-4304-bace-c10c9bd20c76",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "8751d6b3-8468-44ea-93b9-211836cbbbdc",
+            "title": "Your Name (Original Motion Picture Soundtrack)",
+            "status": "Official"
+          },
+          {
+            "id": "874006c2-7771-4fde-bdba-11b83a311bb8",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "ab7484d1-3d9f-441c-b76f-0d83209769ea",
+            "title": "君の名は。(너의 이름은./your name.)",
+            "status": "Official"
+          },
+          {
+            "id": "2b2f2c00-e8e7-4999-a6a2-2832b604ed9b",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "182699c1-77d2-4203-97a3-41cdd7eb9f40",
+            "title": "你的名字｡電影原聲帶",
+            "status": "Official"
+          },
+          {
+            "id": "0aca9314-8f48-43d1-ae38-40e22a133e97",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "a1a5b8a6-5ec6-4a31-9171-37f1d11189eb",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "9fcc0ceb-29d4-4367-ae87-554209b8a450",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "8b8879b2-1a89-4d7a-af5e-16a7808829e0",
+            "title": "君の名は。",
+            "status": "Official"
+          }
+        ]
+      }
+    ],
+    "failures": []
+  },
+  "4-name": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20release%3A%22Your%20Name.%20(Deluxe%20Edition%20%2F%20Original%20Motion%20Picture%20Soundtrack)%22&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20release%3A%22Your%20Name.%20(Deluxe%20Edition%20%2F%20Original%20Motion%20Picture%20Soundtrack)%22&fmt=json&limit=5",
+    "created": "2026-11-22T17:46:32.864Z",
+    "count": 0,
+    "recordings": [],
+    "failures": []
+  },
+  "5-name": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Take%20It%20Back%22%20AND%20artist%3A%22Pink%20Floyd%22%20AND%20release%3A%22The%20Division%20Bell%22&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Take%20It%20Back%22%20AND%20artist%3A%22Pink%20Floyd%22%20AND%20release%3A%22The%20Division%20Bell%22&fmt=json&limit=5",
+    "created": "2026-11-22T17:46:36.213Z",
+    "count": 22,
+    "recordings": [
+      {
+        "id": "95b1271b-ba7f-4e46-b83e-592cf8572e68",
+        "title": "Take It Back",
+        "score": 100,
+        "length": 373000,
+        "disambiguation": "360 Reality Audio mix"
+      },
+      {
+        "id": "74b69402-6287-4d76-8ed9-93490058d6fc",
+        "title": "Take It Back",
+        "score": 100,
+        "length": 276000
+      },
+      {
+        "id": "c5957b7b-e5b3-46fb-8f65-e96e3aa96d23",
+        "title": "Take It Back",
+        "score": 91,
+        "length": 621000,
+        "disambiguation": "trance remix"
+      },
+      {
+        "id": "2f736d55-280d-43dd-9f53-380dd42439ca",
+        "title": "Take It Back",
+        "score": 91,
+        "length": 350406
+      },
+      {
+        "id": "f8df31b5-87f8-42ea-a2c1-b0c9060b037e",
+        "title": "Take it Back",
+        "score": 90,
+        "length": 383266,
+        "disambiguation": "live, 1994-08-30: Valle Hovin, Oslo, Norway"
+      }
+    ],
+    "failures": []
+  },
+  "5-id": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Take%20It%20Back%22%20AND%20artist%3A%22Pink%20Floyd%22%20AND%20reid%3A12eb7e4c-29a1-46d2-a971-f852655c7587&fmt=json&limit=5&offset=0",
+    "unavailable": true,
+    "failures": [
+      {
+        "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Take%20It%20Back%22%20AND%20artist%3A%22Pink%20Floyd%22%20AND%20reid%3A12eb7e4c-29a1-46d2-a971-f852655c7587&fmt=json&limit=5",
+        "reason": "Unterminated string in JSON at position 360000 (line 1 column 360001)"
+      },
+      {
+        "captureUrl": "https://musicbrainz.org/ws/2/recording?fmt=json&limit=5&query=title%3A%22Take%20It%20Back%22%20AND%20artist%3A%22Pink%20Floyd%22%20AND%20reid%3A12eb7e4c-29a1-46d2-a971-f852655c7587",
+        "reason": "Unterminated string in JSON at position 360000 (line 1 column 360001)"
+      },
+      {
+        "captureUrl": "https://musicbrainz.org/ws/2/recording?limit=5&query=title%3A%22Take%20It%20Back%22%20AND%20artist%3A%22Pink%20Floyd%22%20AND%20reid%3A12eb7e4c-29a1-46d2-a971-f852655c7587&fmt=json",
+        "reason": "Unterminated string in JSON at position 360000 (line 1 column 360001)"
+      },
+      {
+        "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Take%20It%20Back%22%20AND%20artist%3A%22Pink%20Floyd%22%20AND%20reid%3A12eb7e4c-29a1-46d2-a971-f852655c7587&fmt=json&limit=5&offset=0",
+        "reason": "Unterminated string in JSON at position 450000 (line 1 column 450001)"
+      },
+      {
+        "captureUrl": "https://musicbrainz.org/ws/2/recording?fmt=json&limit=5&query=title%3A%22Take%20It%20Back%22%20AND%20artist%3A%22Pink%20Floyd%22%20AND%20reid%3A12eb7e4c-29a1-46d2-a971-f852655c7587&offset=0",
+        "reason": "Unterminated string in JSON at position 450000 (line 1 column 450001)"
+      }
+    ]
+  },
+  "6-id": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Beware%20of%20Darkness%20(2014%20Remaster)%22%20AND%20artist%3A%22George%20Harrison%22%20AND%20reid%3A09f91730-85f7-4148-b31c-ff62b14fcd3e&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Beware%20of%20Darkness%20(2014%20Remaster)%22%20AND%20artist%3A%22George%20Harrison%22%20AND%20reid%3A09f91730-85f7-4148-b31c-ff62b14fcd3e&fmt=json&limit=5",
+    "created": "2026-11-22T17:46:49.235Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "2a936707-d877-4280-86e1-5e137915044b",
+        "title": "Beware of Darkness",
+        "score": 100,
+        "length": 231000,
+        "disambiguation": "original studio mix"
+      }
+    ],
+    "failures": []
+  },
+  "6-name": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Beware%20of%20Darkness%20(2014%20Remaster)%22%20AND%20artist%3A%22George%20Harrison%22%20AND%20release%3A%22All%20Things%20Must%20Pass%20(2014%20Remaster)%22&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Beware%20of%20Darkness%20(2014%20Remaster)%22%20AND%20artist%3A%22George%20Harrison%22%20AND%20release%3A%22All%20Things%20Must%20Pass%20(2014%20Remaster)%22&fmt=json&limit=5",
+    "created": "2026-11-22T17:46:52.458Z",
+    "count": 0,
+    "recordings": [],
+    "failures": []
+  },
+  "7-name": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Cielo%20de%20Miel%22%20AND%20artist%3A%22Vazquez%20Sounds%22%20AND%20release%3A%22Phoenix%22&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?fmt=json&limit=5&query=title%3A%22Cielo%20de%20Miel%22%20AND%20artist%3A%22Vazquez%20Sounds%22%20AND%20release%3A%22Phoenix%22",
+    "created": "2026-11-22T17:46:58.274Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "9624298e-1ccd-44a8-b7da-e9ac797919bf",
+        "title": "Cielo de miel",
+        "score": 100,
+        "length": 203000
+      }
+    ],
+    "failures": [
+      {
+        "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Cielo%20de%20Miel%22%20AND%20artist%3A%22Vazquez%20Sounds%22%20AND%20release%3A%22Phoenix%22&fmt=json&limit=5",
+        "reason": "Error fetching URL(s): https://musicbrainz.org/ws/2/recording?query=title%3A%22Cielo%20de%20Miel%22%20AND%20artist%3A%22Vazquez%20Sounds%22%20AND%20release%3A%22Phoenix%22&fmt=json&limit=5: CRAWL_HTTP_503"
+      }
+    ]
+  },
+  "7-id": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Cielo%20de%20Miel%22%20AND%20artist%3A%22Vazquez%20Sounds%22%20AND%20reid%3A155ab13d-9000-41ac-ad2f-1002267e58d1&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Cielo%20de%20Miel%22%20AND%20artist%3A%22Vazquez%20Sounds%22%20AND%20reid%3A155ab13d-9000-41ac-ad2f-1002267e58d1&fmt=json&limit=5",
+    "created": "2026-11-22T17:47:01.330Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "9624298e-1ccd-44a8-b7da-e9ac797919bf",
+        "title": "Cielo de miel",
+        "score": 100,
+        "length": 203000
+      }
+    ],
+    "failures": []
+  },
+  "8-id": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Ayee%20Morshume%20Be-Reham%20Duniya%22%20AND%20artist%3A%22Rupa%22%20AND%20reid%3Ac7b56c88-d51b-4a91-a3ae-ae8d8c4e1834&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Ayee%20Morshume%20Be-Reham%20Duniya%22%20AND%20artist%3A%22Rupa%22%20AND%20reid%3Ac7b56c88-d51b-4a91-a3ae-ae8d8c4e1834&fmt=json&limit=5",
+    "created": "2026-11-22T17:47:04.390Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "38df44dc-38ff-499a-bc5e-1aa9e1d04228",
+        "title": "Ayee morshume be‐reham duniya",
+        "score": 100,
+        "length": 938440
+      }
+    ],
+    "failures": []
+  },
+  "8-name": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Ayee%20Morshume%20Be-Reham%20Duniya%22%20AND%20artist%3A%22Rupa%22%20AND%20release%3A%22Disco%20Jazz%22&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?fmt=json&limit=5&query=title%3A%22Ayee%20Morshume%20Be-Reham%20Duniya%22%20AND%20artist%3A%22Rupa%22%20AND%20release%3A%22Disco%20Jazz%22",
+    "created": "2026-11-22T17:47:10.282Z",
+    "count": 1,
+    "recordings": [
+      {
+        "id": "38df44dc-38ff-499a-bc5e-1aa9e1d04228",
+        "title": "Ayee morshume be‐reham duniya",
+        "score": 100,
+        "length": 938440
+      }
+    ],
+    "failures": [
+      {
+        "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Ayee%20Morshume%20Be-Reham%20Duniya%22%20AND%20artist%3A%22Rupa%22%20AND%20release%3A%22Disco%20Jazz%22&fmt=json&limit=5",
+        "reason": "Error fetching URL(s): https://musicbrainz.org/ws/2/recording?query=title%3A%22Ayee%20Morshume%20Be-Reham%20Duniya%22%20AND%20artist%3A%22Rupa%22%20AND%20release%3A%22Disco%20Jazz%22&fmt=json&limit=5: CRAWL_HTTP_503"
+      }
+    ]
+  },
+  "provider-title-id": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%20-%20movie%20ver.%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20reid%3Aa7fc3d41-d645-418e-a5d2-960a835b04e0&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%20-%20movie%20ver.%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20reid%3Aa7fc3d41-d645-418e-a5d2-960a835b04e0&fmt=json&limit=5",
+    "created": "2026-11-22T17:47:12.593Z",
+    "count": 0,
+    "recordings": [],
+    "failures": []
+  },
+  "catalog-title-id": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%20(movie%20ver.)%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20reid%3Aa7fc3d41-d645-418e-a5d2-960a835b04e0&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%20(movie%20ver.)%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20reid%3Aa7fc3d41-d645-418e-a5d2-960a835b04e0&fmt=json&limit=5",
+    "created": "2026-11-22T17:47:16.418Z",
+    "count": 0,
+    "recordings": [],
+    "failures": []
+  },
+  "pinned-app-with-album": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20release%3A%22Your%20Name.%20(Deluxe%20Edition%20%2F%20Original%20Motion%20Picture%20Soundtrack)%22&fmt=json&limit=25",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20release%3A%22Your%20Name.%20(Deluxe%20Edition%20%2F%20Original%20Motion%20Picture%20Soundtrack)%22&fmt=json&limit=25",
+    "count": 0,
+    "created": "2026-11-22T17:48:26.732Z",
+    "recordings": [],
+    "failures": []
+  },
+  "pinned-app-without-album": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%22%20AND%20artist%3A%22RADWIMPS%22&fmt=json&limit=25",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%22%20AND%20artist%3A%22RADWIMPS%22&fmt=json&limit=25",
+    "count": 2,
+    "created": "2026-11-22T17:48:30.165Z",
+    "recordings": [
+      {
+        "id": "2ce4bb17-2c5f-49ce-be58-558dec7322ee",
+        "title": "Sparkle (English ver.)",
+        "score": 100,
+        "length": 409333,
+        "artist-credit": [
+          {
+            "name": "RADWIMPS"
+          }
+        ],
+        "releases": [
+          {
+            "id": "f3f44449-99a0-49b7-a4b2-a1961503c001",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "a7fc3d41-d645-418e-a5d2-960a835b04e0",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "7bce4103-41d5-45c5-b05e-8743ceef8026",
+            "title": "你的名字｡ English edition",
+            "status": "Official"
+          },
+          {
+            "id": "01ad1016-0722-4304-bace-c10c9bd20c76",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "91c31778-8603-4e55-b585-657d0863c8ae",
+            "title": "君の名は。English edition",
+            "status": "Official"
+          },
+          {
+            "id": "1944f1a8-655b-4610-97d3-ff5b067774ca",
+            "title": "君の名は。English edition",
+            "status": "Official"
+          },
+          {
+            "id": "874006c2-7771-4fde-bdba-11b83a311bb8",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "eaea83cf-a68e-44d3-88d6-14c23c699cab",
+            "title": "君の名は。English edition",
+            "status": "Official"
+          }
+        ]
+      },
+      {
+        "id": "1d8040f5-95d7-423c-a232-5959915c4af3",
+        "title": "スパークル (movie ver.)",
+        "score": 83,
+        "length": 535200,
+        "artist-credit": [
+          {
+            "name": "RADWIMPS"
+          }
+        ],
+        "releases": [
+          {
+            "id": "9cf90e74-956b-4e00-9f50-259de2106fcf",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "bb52e140-b484-4703-b86a-a9f23f6c664d",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "f725806a-1102-4491-8f10-6ec3fc2c5b90",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "a7cd44c9-4e33-4f3e-a45b-22431c9d4ac8",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "f3f44449-99a0-49b7-a4b2-a1961503c001",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "2679ddf1-c377-4445-8993-65d0298a543b",
+            "title": "你的名字｡",
+            "status": "Official"
+          },
+          {
+            "id": "37759de9-9376-40d1-a4bf-6c5fcb11cb54",
+            "title": "你的名字｡电影原声带",
+            "status": "Official"
+          },
+          {
+            "id": "0630f5c6-ce17-408e-909d-4776939cd016",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "8cda0681-88b3-4a7d-a4ac-97fbd7983b3a",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "a7fc3d41-d645-418e-a5d2-960a835b04e0",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "1f0569d4-2186-4317-8374-11e5a96afe13",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "db4ef117-ba81-435a-b1a6-e395998c10b8",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "9356b15a-4887-41e2-8550-0b3f6db89510",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "45cd5dfd-eff7-45eb-8f46-9997c04d02aa",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "01ad1016-0722-4304-bace-c10c9bd20c76",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "8751d6b3-8468-44ea-93b9-211836cbbbdc",
+            "title": "Your Name (Original Motion Picture Soundtrack)",
+            "status": "Official"
+          },
+          {
+            "id": "874006c2-7771-4fde-bdba-11b83a311bb8",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "ab7484d1-3d9f-441c-b76f-0d83209769ea",
+            "title": "君の名は。(너의 이름은./your name.)",
+            "status": "Official"
+          },
+          {
+            "id": "2b2f2c00-e8e7-4999-a6a2-2832b604ed9b",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "182699c1-77d2-4203-97a3-41cdd7eb9f40",
+            "title": "你的名字｡電影原聲帶",
+            "status": "Official"
+          },
+          {
+            "id": "0aca9314-8f48-43d1-ae38-40e22a133e97",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "a1a5b8a6-5ec6-4a31-9171-37f1d11189eb",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "9fcc0ceb-29d4-4367-ae87-554209b8a450",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "8b8879b2-1a89-4d7a-af5e-16a7808829e0",
+            "title": "君の名は。",
+            "status": "Official"
+          }
+        ]
+      }
+    ],
+    "failures": []
+  },
+  "native-title-with-id": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AB%20(movie%20ver.)%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20reid%3Aa7fc3d41-d645-418e-a5d2-960a835b04e0&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AB%20(movie%20ver.)%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20reid%3Aa7fc3d41-d645-418e-a5d2-960a835b04e0&fmt=json&limit=5",
+    "count": 1,
+    "created": "2026-11-22T17:48:34.589Z",
+    "recordings": [
+      {
+        "id": "1d8040f5-95d7-423c-a232-5959915c4af3",
+        "title": "スパークル (movie ver.)",
+        "score": 100,
+        "length": 535200,
+        "artist-credit": [
+          {
+            "name": "RADWIMPS"
+          }
+        ],
+        "releases": [
+          {
+            "id": "9cf90e74-956b-4e00-9f50-259de2106fcf",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "bb52e140-b484-4703-b86a-a9f23f6c664d",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "f725806a-1102-4491-8f10-6ec3fc2c5b90",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "a7cd44c9-4e33-4f3e-a45b-22431c9d4ac8",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "f3f44449-99a0-49b7-a4b2-a1961503c001",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "2679ddf1-c377-4445-8993-65d0298a543b",
+            "title": "你的名字｡",
+            "status": "Official"
+          },
+          {
+            "id": "37759de9-9376-40d1-a4bf-6c5fcb11cb54",
+            "title": "你的名字｡电影原声带",
+            "status": "Official"
+          },
+          {
+            "id": "0630f5c6-ce17-408e-909d-4776939cd016",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "8cda0681-88b3-4a7d-a4ac-97fbd7983b3a",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "a7fc3d41-d645-418e-a5d2-960a835b04e0",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "1f0569d4-2186-4317-8374-11e5a96afe13",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "db4ef117-ba81-435a-b1a6-e395998c10b8",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "9356b15a-4887-41e2-8550-0b3f6db89510",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "45cd5dfd-eff7-45eb-8f46-9997c04d02aa",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "01ad1016-0722-4304-bace-c10c9bd20c76",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "8751d6b3-8468-44ea-93b9-211836cbbbdc",
+            "title": "Your Name (Original Motion Picture Soundtrack)",
+            "status": "Official"
+          },
+          {
+            "id": "874006c2-7771-4fde-bdba-11b83a311bb8",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "ab7484d1-3d9f-441c-b76f-0d83209769ea",
+            "title": "君の名は。(너의 이름은./your name.)",
+            "status": "Official"
+          },
+          {
+            "id": "2b2f2c00-e8e7-4999-a6a2-2832b604ed9b",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "182699c1-77d2-4203-97a3-41cdd7eb9f40",
+            "title": "你的名字｡電影原聲帶",
+            "status": "Official"
+          },
+          {
+            "id": "0aca9314-8f48-43d1-ae38-40e22a133e97",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "a1a5b8a6-5ec6-4a31-9171-37f1d11189eb",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "9fcc0ceb-29d4-4367-ae87-554209b8a450",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "8b8879b2-1a89-4d7a-af5e-16a7808829e0",
+            "title": "君の名は。",
+            "status": "Official"
+          }
+        ]
+      }
+    ],
+    "failures": []
+  },
+  "catalog-album-name": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20release%3A%22Your%20Name%22&fmt=json&limit=5",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?fmt=json&limit=5&query=title%3A%22Sparkle%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20release%3A%22Your%20Name%22",
+    "count": 2,
+    "created": "2026-11-22T17:48:40.411Z",
+    "recordings": [
+      {
+        "id": "2ce4bb17-2c5f-49ce-be58-558dec7322ee",
+        "title": "Sparkle (English ver.)",
+        "score": 100,
+        "length": 409333,
+        "artist-credit": [
+          {
+            "name": "RADWIMPS"
+          }
+        ],
+        "releases": [
+          {
+            "id": "f3f44449-99a0-49b7-a4b2-a1961503c001",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "a7fc3d41-d645-418e-a5d2-960a835b04e0",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "7bce4103-41d5-45c5-b05e-8743ceef8026",
+            "title": "你的名字｡ English edition",
+            "status": "Official"
+          },
+          {
+            "id": "01ad1016-0722-4304-bace-c10c9bd20c76",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "91c31778-8603-4e55-b585-657d0863c8ae",
+            "title": "君の名は。English edition",
+            "status": "Official"
+          },
+          {
+            "id": "1944f1a8-655b-4610-97d3-ff5b067774ca",
+            "title": "君の名は。English edition",
+            "status": "Official"
+          },
+          {
+            "id": "874006c2-7771-4fde-bdba-11b83a311bb8",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "eaea83cf-a68e-44d3-88d6-14c23c699cab",
+            "title": "君の名は。English edition",
+            "status": "Official"
+          }
+        ]
+      },
+      {
+        "id": "1d8040f5-95d7-423c-a232-5959915c4af3",
+        "title": "スパークル (movie ver.)",
+        "score": 84,
+        "length": 535200,
+        "artist-credit": [
+          {
+            "name": "RADWIMPS"
+          }
+        ],
+        "releases": [
+          {
+            "id": "9cf90e74-956b-4e00-9f50-259de2106fcf",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "bb52e140-b484-4703-b86a-a9f23f6c664d",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "f725806a-1102-4491-8f10-6ec3fc2c5b90",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "a7cd44c9-4e33-4f3e-a45b-22431c9d4ac8",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "f3f44449-99a0-49b7-a4b2-a1961503c001",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "2679ddf1-c377-4445-8993-65d0298a543b",
+            "title": "你的名字｡",
+            "status": "Official"
+          },
+          {
+            "id": "37759de9-9376-40d1-a4bf-6c5fcb11cb54",
+            "title": "你的名字｡电影原声带",
+            "status": "Official"
+          },
+          {
+            "id": "0630f5c6-ce17-408e-909d-4776939cd016",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "8cda0681-88b3-4a7d-a4ac-97fbd7983b3a",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "a7fc3d41-d645-418e-a5d2-960a835b04e0",
+            "title": "Your Name",
+            "status": "Official"
+          },
+          {
+            "id": "1f0569d4-2186-4317-8374-11e5a96afe13",
+            "title": "Your Name.",
+            "status": "Official"
+          },
+          {
+            "id": "db4ef117-ba81-435a-b1a6-e395998c10b8",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "9356b15a-4887-41e2-8550-0b3f6db89510",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "45cd5dfd-eff7-45eb-8f46-9997c04d02aa",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "01ad1016-0722-4304-bace-c10c9bd20c76",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "8751d6b3-8468-44ea-93b9-211836cbbbdc",
+            "title": "Your Name (Original Motion Picture Soundtrack)",
+            "status": "Official"
+          },
+          {
+            "id": "874006c2-7771-4fde-bdba-11b83a311bb8",
+            "title": "Your Name (Original Motion Picture Soundtrack) (Deluxe Edition)",
+            "status": "Official"
+          },
+          {
+            "id": "ab7484d1-3d9f-441c-b76f-0d83209769ea",
+            "title": "君の名は。(너의 이름은./your name.)",
+            "status": "Official"
+          },
+          {
+            "id": "2b2f2c00-e8e7-4999-a6a2-2832b604ed9b",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "182699c1-77d2-4203-97a3-41cdd7eb9f40",
+            "title": "你的名字｡電影原聲帶",
+            "status": "Official"
+          },
+          {
+            "id": "0aca9314-8f48-43d1-ae38-40e22a133e97",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "a1a5b8a6-5ec6-4a31-9171-37f1d11189eb",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "9fcc0ceb-29d4-4367-ae87-554209b8a450",
+            "title": "君の名は。",
+            "status": "Official"
+          },
+          {
+            "id": "8b8879b2-1a89-4d7a-af5e-16a7808829e0",
+            "title": "君の名は。",
+            "status": "Official"
+          }
+        ]
+      }
+    ],
+    "failures": [
+      {
+        "captureUrl": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20release%3A%22Your%20Name%22&fmt=json&limit=5",
+        "reason": "Error fetching URL(s): https://musicbrainz.org/ws/2/recording?query=title%3A%22Sparkle%22%20AND%20artist%3A%22RADWIMPS%22%20AND%20release%3A%22Your%20Name%22&fmt=json&limit=5: CRAWL_HTTP_503"
+      }
+    ]
+  },
+  "app-25-Polyrytmi": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Polyrytmi%22%20AND%20artist%3A%22Carbon%20Based%20Lifeforms%22%20AND%20release%3A%22Interloper%22&fmt=json&limit=25",
+    "captureUrl": "https://musicbrainz.org/ws/2/recording?fmt=json&limit=25&query=title%3A%22Polyrytmi%22%20AND%20artist%3A%22Carbon%20Based%20Lifeforms%22%20AND%20release%3A%22Interloper%22",
+    "count": 3,
+    "created": "2026-11-22T17:49:44.371Z",
+    "recordings": [
+      {
+        "id": "7005fb72-f68c-4230-89fe-364b8a848372",
+        "title": "Polyrytmi",
+        "score": 100,
+        "length": 528000,
+        "disambiguation": "24 bit stem remaster",
+        "artist-credit": [
+          {
+            "name": "Carbon Based Lifeforms"
+          }
+        ],
+        "releases": [
+          {
+            "id": "d0efed4c-9a10-4d02-94fe-c284a8059843",
+            "title": "Interloper",
+            "status": "Official"
+          },
+          {
+            "id": "97f746fc-eba8-4cd8-8994-27781bdd8993",
+            "title": "Interloper",
+            "status": "Official"
+          },
+          {
+            "id": "69c23fd9-13e2-4f05-8e82-9253826343e4",
+            "title": "Interloper",
+            "status": "Official"
+          }
+        ]
+      },
+      {
+        "id": "261b2272-87bd-48ed-b35b-433d81fcaef1",
+        "title": "Polyrytmi",
+        "score": 99,
+        "length": 518149,
+        "artist-credit": [
+          {
+            "name": "Carbon Based Lifeforms"
+          }
+        ],
+        "releases": [
+          {
+            "id": "4a4905ff-5b6d-4798-aace-89dd4bdd5972",
+            "title": "Interloper",
+            "status": "Official"
+          },
+          {
+            "id": "d5d1fce6-e9e1-4565-976d-f046c3d5d252",
+            "title": "Interloper",
+            "status": "Official"
+          }
+        ]
+      },
+      {
+        "id": "ddcd1232-deeb-4e4d-8ead-82e7bfafcd96",
+        "title": "Polyrytmi",
+        "score": 99,
+        "length": 524000,
+        "artist-credit": [
+          {
+            "name": "Carbon Based Lifeforms"
+          }
+        ],
+        "releases": [
+          {
+            "id": "a7c52afc-3862-4675-acf6-96addaf0810a",
+            "title": "Interloper",
+            "status": "Official"
+          }
+        ]
+      }
+    ],
+    "failures": [
+      {
+        "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Polyrytmi%22%20AND%20artist%3A%22Carbon%20Based%20Lifeforms%22%20AND%20release%3A%22Interloper%22&fmt=json&limit=25",
+        "reason": "Error fetching URL(s): https://musicbrainz.org/ws/2/recording?query=title%3A%22Polyrytmi%22%20AND%20artist%3A%22Carbon%20Based%20Lifeforms%22%20AND%20release%3A%22Interloper%22&fmt=json&limit=25: CRAWL_HTTP_503"
+      }
+    ]
+  },
+  "app-25-Take It Back": {
+    "intended": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Take%20It%20Back%22%20AND%20artist%3A%22Pink%20Floyd%22%20AND%20release%3A%22The%20Division%20Bell%22&fmt=json&limit=25",
+    "unavailable": true,
+    "failures": [
+      {
+        "url": "https://musicbrainz.org/ws/2/recording?query=title%3A%22Take%20It%20Back%22%20AND%20artist%3A%22Pink%20Floyd%22%20AND%20release%3A%22The%20Division%20Bell%22&fmt=json&limit=25",
+        "reason": "Unterminated string in JSON at position 450000 (line 1 column 450001)"
+      },
+      {
+        "url": "https://musicbrainz.org/ws/2/recording?fmt=json&limit=25&query=title%3A%22Take%20It%20Back%22%20AND%20artist%3A%22Pink%20Floyd%22%20AND%20release%3A%22The%20Division%20Bell%22",
+        "reason": "Unterminated string in JSON at position 450000 (line 1 column 450001)"
+      }
+    ]
+  }
+}

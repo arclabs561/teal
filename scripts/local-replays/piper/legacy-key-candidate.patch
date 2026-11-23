@@ -1,0 +1,62 @@
+--- a/service/listenbrainz/listenbrainz.go
++++ b/service/listenbrainz/listenbrainz.go
+@@ -289,11 +289,17 @@
+ 	// A row that exactly matches a submitted ID belongs to that listen. Reserve
+ 	// those old keys before trying to recover inferred mappings for other listens.
+ 	submittedKeys := make(map[string]struct{})
++	claimedLegacyMappings := make(map[string]struct{})
+ 	for i := range listens {
+ 		listen := &listens[i]
+ 		if listen.ListenedAt != nil {
+ 			if id := submittedRecordingID(listen); id != "" {
+ 				submittedKeys[listenIdentity(listen, id)] = struct{}{}
++				info := listen.TrackMetadata.AdditionalInfo
++				mapping := listen.TrackMetadata.MBIDMapping
++				if info != nil && info.RecordingMSID != nil && *info.RecordingMSID == "" && mapping != nil && mapping.RecordingMBID != "" {
++					claimedLegacyMappings[listenIdentity(listen, mapping.RecordingMBID)] = struct{}{}
++				}
+ 			}
+ 		}
+ 	}
+@@ -314,7 +320,7 @@
+ 			newest = track.Timestamp
+ 		}
+ 
+-		exists, err := s.hasImportedListen(user.ID, listen, &track, sourceIdentity, submittedKeys)
++		exists, err := s.hasImportedListen(user.ID, listen, &track, sourceIdentity, submittedKeys, claimedLegacyMappings)
+ 		if err != nil {
+ 			return err
+ 		}
+@@ -355,7 +361,7 @@
+ 	return "v2:" + listenIdentity(listen, submittedRecordingID(listen))
+ }
+ 
+-func (s *Service) hasImportedListen(userID int64, listen *models.ListenBrainzPayload, track *models.Track, key string, submittedKeys map[string]struct{}) (bool, error) {
++func (s *Service) hasImportedListen(userID int64, listen *models.ListenBrainzPayload, track *models.Track, key string, submittedKeys, claimedLegacyMappings map[string]struct{}) (bool, error) {
+ 	submittedID := submittedRecordingID(listen)
+ 	legacySubmittedID := submittedID
+ 	// Older builds let an empty MSID override the submitted recording MBID.
+@@ -369,6 +375,10 @@
+ 			legacyKey = ""
+ 		}
+ 	}
++	emptyLegacyKey := listenIdentity(listen, "")
++	if submittedID != "" && legacyKey == emptyLegacyKey {
++		legacyKey = ""
++	}
+ 	exists, err := s.db.HasListenBrainzTrack(userID, key, listenIdentity(listen, submittedID), legacyKey)
+ 	if err != nil || exists {
+ 		return exists, err
+@@ -384,6 +394,12 @@
+ 		return false, err
+ 	}
+ 	for _, identity := range legacy {
++		if _, claimed := claimedLegacyMappings[identity.Key]; claimed {
++			continue
++		}
++		if identity.Key == emptyLegacyKey && submittedID != "" && identity.RecordingMBID == submittedID {
++			return true, nil
++		}
+ 		if _, reserved := submittedKeys[identity.Key]; reserved {
+ 			continue
+ 		}
